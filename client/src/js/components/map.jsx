@@ -1,13 +1,19 @@
 'use strict';
 
-var React = require('react');
+var React    = require('react');
+var MapStore = require('../stores/mapStore');
 
 var Map = React.createClass({
+  getInitialState: function () {
+    return {
+      heritageItems: MapStore.getHeritageItems()
+    };
+  },
 
-  render: function() {
+  render: function () {
     return (
       <div>
-        This is the MAP
+        { this.state.heritageItems }
       </div>
     );
   }
