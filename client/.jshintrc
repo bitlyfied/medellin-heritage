@@ -1,0 +1,4 @@
+{
+  "predef": ["require", "module"],
+  "browserify": true
+}
