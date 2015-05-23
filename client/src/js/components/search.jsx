@@ -12,9 +12,10 @@ var Search = React.createClass({
   },
 
   filterSearch: function (searchText, option) {
-    var result =  option.indexOf(searchText) > -1;
-
-    return result;
+    var lcSearchText = searchText.toLowerCase();
+    var lcOption     = option.toLowerCase();
+    
+    return lcOption.indexOf(lcSearchText) > -1;
   },
 
   render: function() {
