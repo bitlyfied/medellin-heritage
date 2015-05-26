@@ -14,7 +14,7 @@ var MapContainer = React.createClass({
           <Search />
         </div>
         <div className="row">
-          <div className="col-xs-9">
+          <div className="col-xs-9 c-map">
             <Map />
           </div>
           <div className="col-xs-3">
