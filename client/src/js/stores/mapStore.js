@@ -2,6 +2,7 @@
 
 var Reflux = require('reflux');
 var _      = require('lodash');
+var Actions = require('../actions');
 
 var _heritageData = [
   { title: 'Sistine Chapel', artist: 'Michelangelo' },
@@ -11,8 +12,17 @@ var _heritageData = [
 ];
 
 var MapStore = Reflux.createStore({
+  listenables: [Actions],
+
+  _searchText: '',
+
   getHeritageItems: function () {
     return _heritageData;
+  },
+
+  onSearch: function (searchText) {
+    this._searchText = searchText;
+    this.trigger();
   },
 
   getTitles: function () {

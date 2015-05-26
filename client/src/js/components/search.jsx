@@ -3,6 +3,7 @@
 var React     = require('react');
 var MapStore  = require('../stores/mapStore');
 var Combobox  = require('react-widgets/lib/Combobox');
+var Actions   = require('../actions');
 
 var Search = React.createClass({
   getInitialState: function () {
@@ -11,19 +12,18 @@ var Search = React.createClass({
     };
   },
 
-  filterSearch: function (option, searchText) {
-    var lcSearchText = searchText.toLowerCase();
-    var lcOption     = option.toLowerCase();
-    
-    return lcOption.indexOf(lcSearchText) > -1;
+  onChange: function (searchText) {
+    Actions.search(searchText);
   },
 
   render: function() {
     return (
-      <Combobox
-        onChange={ onChange }
-        data={ this.state.items }
-        filter={ this.filterSearch } />
+      <div className="c-search-box">
+        <Combobox
+          onChange={ this.onChange }
+          data={ this.state.items }
+          filter="contains" />
+      </div>
     );
   }
 
@@ -37,10 +37,3 @@ function getSearchItems () {
 
   return titles.concat(artists);
 }
-
-function onChange (a,b,c) {
-  debugger;
-  console.log(a);
-  console.log(b);
-  console.log(c);
-} 
