@@ -20,22 +20,6 @@ var MapStore = Reflux.createStore({
 
   _selectedCategories: [],
 
-  getSearchText: function () {
-    return this._searchText;
-  },
-
-  getActiveView: function () {
-    return this._activeView;
-  },
-
-  // getFilteredHeritageItems: function () {
-  //   return _.filter(SeedData, function (item) {
-  //     var lcItem = item.Title.toLowerCase();
-
-  //     return lcItem.contains(this._searchText);
-  //   }, this);
-  // },
-
   onSearch: function (searchText) {
     this._searchText = searchText.toLowerCase();
     this.trigger();
@@ -46,14 +30,23 @@ var MapStore = Reflux.createStore({
     this.trigger();
   },
 
-  onShowMapView: function () {
-    this._activeView = Constants.views.map;
+  onToggleView: function (viewName) {
+    this._activeView = viewName;
     this.trigger();
   },
 
-  onShowListView: function () {
-    this._activeView = Constants.views.list;
-    this.trigger();
+  getSearchText: function () {
+    return this._searchText;
+  },
+
+  getActiveView: function () {
+    return this._activeView;
+  },
+
+  getFilteredHeritageItems: function () {
+    return _.filter(SeedData, function (item) {
+      return this._filterBySearchText(item) && this._filterByCategories(item);
+    }, this);
   },
 
   getHeritageItems: function () {
@@ -73,6 +66,16 @@ var MapStore = Reflux.createStore({
 
   getHeritageCategories: function () {
     return _.sortBy(_heritageCategories);
+  },
+
+  _filterBySearchText: function (item) {
+    var lcItem = item.properties.Title.toLowerCase();
+
+    return _.isEmpty(this._searchText) || lcItem.indexOf(this._searchText) > -1;
+  },
+
+  _filterByCategories: function (item) {
+    return _.isEmpty(this._selectedCategories) || _.includes(this._selectedCategories, item.properties.Type);
   }
 });
 

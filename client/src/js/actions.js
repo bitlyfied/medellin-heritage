@@ -5,8 +5,7 @@ var Reflux = require('Reflux');
 var _actions = [
   'search', 
   'filter',
-  'showMapView',
-  'showListView'
+  'toggleView',
 ];
 
 module.exports = Reflux.createActions(_actions);

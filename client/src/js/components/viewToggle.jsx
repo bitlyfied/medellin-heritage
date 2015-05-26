@@ -1,15 +1,16 @@
 'use strict';
 
-var React   = require('react');
-var Actions = require('../actions');
+var React         = require('react');
+var Actions       = require('../actions');
+var ViewConstants = require('../constants').views;
 
 var ViewToggle = React.createClass({
   showMapView: function () {
-    Actions.showMapView();
+    Actions.toggleView(ViewConstants.map);
   },
 
   showListView: function () {
-    Actions.showListView();
+    Actions.toggleView(ViewConstants.list);
   },
 
   render: function() {

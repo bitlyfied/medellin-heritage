@@ -9,7 +9,7 @@ var ListItem = React.createClass({
 
   render: function() {
     return (
-      <div>{ this.props.item.Title } by { this.props.item.Author }</div>
+      <div>{ this.props.item.Title } by { this.props.item.Author } is a { this.props.item.Type }</div>
     );
   }
 
