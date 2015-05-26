@@ -5,11 +5,10 @@ var _      = require('lodash');
 var Actions = require('../actions');
 var SeedData = require('../seedData').features;
 
-var _heritageCategories = [
-  'Sculpture',
-  'Painting',
-  'Architecture'
-];
+var _heritageCategories = _.chain(SeedData)
+  .pluck('properties.Type')
+  .uniq()
+  .value();
 
 var MapStore = Reflux.createStore({
   listenables: [Actions],
