@@ -1,9 +1,10 @@
 'use strict';
 
-var Reflux = require('reflux');
-var _      = require('lodash');
-var Actions = require('../actions');
-var SeedData = require('../seedData').features;
+var Reflux    = require('reflux');
+var _         = require('lodash');
+var Actions   = require('../actions');
+var SeedData  = require('../seedData').features;
+var Constants = require('../constants');
 
 var _heritageCategories = _.chain(SeedData)
   .pluck('properties.Type')
@@ -15,10 +16,16 @@ var MapStore = Reflux.createStore({
 
   _searchText: '',
 
+  _activeView: Constants.views.map,
+
   _selectedCategories: [],
 
   getSearchText: function () {
     return this._searchText;
+  },
+
+  getActiveView: function () {
+    return this._activeView;
   },
 
   // getFilteredHeritageItems: function () {
@@ -36,6 +43,16 @@ var MapStore = Reflux.createStore({
 
   onFilter: function (categories) {
     this._selectedCategories = categories;
+    this.trigger();
+  },
+
+  onShowMapView: function () {
+    this._activeView = Constants.views.map;
+    this.trigger();
+  },
+
+  onShowListView: function () {
+    this._activeView = Constants.views.list;
     this.trigger();
   },
 

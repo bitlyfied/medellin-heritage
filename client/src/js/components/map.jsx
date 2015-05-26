@@ -11,7 +11,7 @@ var Map = React.createClass({
   //   };
   // },
   
-  mixins: [Reflux.listenTo(MapStore, 'onMapStore')],
+  // mixins: [Reflux.listenTo(MapStore, 'onMapStore')],
 
   // onMapStore: function () {
   //   debugger;
