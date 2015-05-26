@@ -5,8 +5,9 @@ var config  = require('./config');
 var app     = express();
 var server  = http.createServer(app);
 
-app.use(express.static(config.staticUrl));
 console.log('Server running');
+
+app.use(express.static(config.staticUrl));
 
 app.all('/*', function(req, res) {
   //res.setHeader('Access-Control-Allow-Origin', 'http://localhost:4000');

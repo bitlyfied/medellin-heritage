@@ -23,6 +23,7 @@
   "dependencies": {
     "lodash": "^3.6.0",
     "react": "^0.13.1",
+    "react-widgets": "^2.6.0",
     "reflux": "^0.2.7"
   }
 }

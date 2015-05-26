@@ -10,7 +10,7 @@ var MapContainer = React.createClass({
   render: function() {
     return (
       <div>
-        <div className="row col-xs-12">
+        <div className="row col-xs-5">
           <Search />
         </div>
         <div className="row">
