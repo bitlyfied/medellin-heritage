@@ -1,8 +1,8 @@
 'use strict';
 
 var React     = require('react');
-var Typeahead = require('react-typeahead').Typeahead;
 var MapStore  = require('../stores/mapStore');
+var Combobox  = require('react-widgets/lib/Combobox');
 
 var Search = React.createClass({
   getInitialState: function () {
@@ -11,7 +11,7 @@ var Search = React.createClass({
     };
   },
 
-  filterSearch: function (searchText, option) {
+  filterSearch: function (option, searchText) {
     var lcSearchText = searchText.toLowerCase();
     var lcOption     = option.toLowerCase();
     
@@ -20,10 +20,10 @@ var Search = React.createClass({
 
   render: function() {
     return (
-      <Typeahead
-        options={ this.state.items }
-        maxVisible="5"
-        filterOption={ this.filterSearch } />
+      <Combobox
+        onChange={ onChange }
+        data={ this.state.items }
+        filter={ this.filterSearch } />
     );
   }
 
@@ -37,3 +37,10 @@ function getSearchItems () {
 
   return titles.concat(artists);
 }
+
+function onChange (a,b,c) {
+  debugger;
+  console.log(a);
+  console.log(b);
+  console.log(c);
+} 
