@@ -1,6 +1,6 @@
 'use strict';
 
-var Reflux = require('Reflux');
+var Reflux = require('reflux');
 
 var _actions = ['search', 'filter'];
 
