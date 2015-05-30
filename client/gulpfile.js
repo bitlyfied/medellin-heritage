@@ -42,7 +42,7 @@ gulp.task('copy', function () {
     .pipe(gulp.dest('./dist'));
 
   gulp.src('./vendor/*')
-    .pipe(gulp.dest('./dist/static'));
+    .pipe(gulp.dest('./dist/static/vendor'));
 });
 
 gulp.task('watch', function () {
