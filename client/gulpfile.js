@@ -23,7 +23,7 @@ gulp.task('dev',['default', 'watch']);
 
 gulp.task('default', ['scripts', 'less', 'copy']);
 
-gulp.task('lint', ['lint:js', 'lint:jsx'])
+gulp.task('lint', ['lint:js', 'lint:jsx']);
 
 gulp.task('scripts', function () {
   var bundler = browserify(bundlerConfig);
@@ -40,6 +40,9 @@ gulp.task('less', function () {
 gulp.task('copy', function () {
   gulp.src('./src/index.html')
     .pipe(gulp.dest('./dist'));
+
+  gulp.src('./vendor/*')
+    .pipe(gulp.dest('./dist/static'));
 });
 
 gulp.task('watch', function () {
