@@ -1,9 +1,7 @@
 'use strict';
+/* global L, $ */
 
 var _ = require('lodash');
-
-/* global L, $ */
-var items = require('../seedData').features;
 
 var RESULT_ITEM = 'c-search__results__item';
 
@@ -13,6 +11,7 @@ L.Control.Search = L.Control.extend({
 
     this._searchText = '';
     this._searchFilters = {};
+
     _.forEach(this.options.filters, function (filter) {
       this._searchFilters[filter] = true;
     }, this);
@@ -29,10 +28,10 @@ L.Control.Search = L.Control.extend({
 
   _createContainer: function (map) {
     var mapContainer = map.getContainer();
-    var className = 'c-search-container';
-    var container = this._container = L.DomUtil.create('div', className, mapContainer);
-
-    var stop = L.DomEvent.stopPropagation;
+    var className    = 'c-search';
+    var container    = this._container = L.DomUtil.create('div', className, mapContainer);
+    var stop         = L.DomEvent.stopPropagation;
+    
     L.DomEvent
       .on(container, 'click', stop)
       .on(container, 'dblclick', stop)
@@ -44,10 +43,10 @@ L.Control.Search = L.Control.extend({
   },
 
   _createSearch: function () {
-    var searchContainer = L.DomUtil.create('div', 'c-search__search-bar-container', this._container);
-    this._searchInput = L.DomUtil.create('input', 'c-search__search-bar', searchContainer);
-    L.DomUtil.create('i', 'fa fa-search fa-lg c-search__search-icon', searchContainer);
-
+    var search = L.DomUtil.create('div', '', this._container);
+    search.innerHTML = '<input class="c-search_search-input />' + 
+      '<i class="fa fa-search fa-lg c-search__search-icon"><i>';
+    
     var that = this;
     this._searchInput.onkeyup = function (evt) {
       var searchText  = evt.currentTarget.value;

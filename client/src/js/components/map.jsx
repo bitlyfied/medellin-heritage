@@ -6,22 +6,6 @@ var Reflux   = require('reflux');
 var searchFactory   = require('../leafletComponents/search');
 
 var Map = React.createClass({
-  // getInitialState: function () {
-  //   return {
-  //     heritageItems: MapStore.getHeritageItems()
-  //   };
-  // },
-  
-  mixins: [Reflux.listenTo(MapStore, 'onMapStore')],
-
-  // onMapStore: function () {
-  //   debugger;
-  //   this.map.featureLayer.setFilter(function (item) { 
-  //     console.log(item);
-  //     return true;
-  //   });
-  // },
-
   componentDidMount: function () {
     var items = MapStore.getHeritageItems();
     var filters = MapStore.getHeritageCategories();
@@ -60,8 +44,6 @@ var Map = React.createClass({
     function onSearch (results) {
       console.log(results);
     }
-
-
   },
 
   render: function () {
