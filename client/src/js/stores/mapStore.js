@@ -8,6 +8,7 @@ var SeedData = require('../seedData').features;
 var _heritageCategories = _.chain(SeedData)
   .pluck('properties.Type')
   .uniq()
+  .sortBy()
   .value();
 
 var MapStore = Reflux.createStore({
@@ -55,7 +56,7 @@ var MapStore = Reflux.createStore({
   },
 
   getHeritageCategories: function () {
-    return _.sortBy(_heritageCategories);
+    return _heritageCategories;
   }
 });
 

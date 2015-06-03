@@ -3,6 +3,7 @@
 var React    = require('react');
 var MapStore = require('../stores/mapStore');
 var Reflux   = require('reflux');
+var searchFactory   = require('../leafletComponents/search');
 
 var Map = React.createClass({
   // getInitialState: function () {
@@ -23,11 +24,13 @@ var Map = React.createClass({
 
   componentDidMount: function () {
     var items = MapStore.getHeritageItems();
+    var filters = MapStore.getHeritageCategories();
     var map = this.map = L.map(this.getDOMNode(), {
       center: [6.174469, -75.584556],
       zoom: 15,
       minZoom: 2,
-      maxZoom: 18
+      maxZoom: 18,
+      zoomControl: false
     });
 
     L.tileLayer(
@@ -39,7 +42,26 @@ var Map = React.createClass({
       }
     ).addTo(map);
 
+
     L.geoJson(items).addTo(map);
+
+    var zoomCtrl = L.control.zoom({ position: 'bottomleft' });
+    zoomCtrl.addTo(map);
+
+    var searchCtrlOpts = {
+      onSearch: onSearch,
+      items: items,
+      filters: filters,
+      position: 'topleft'
+    };
+    var searchCtrl = searchFactory(searchCtrlOpts);
+    searchCtrl.addTo(map);
+
+    function onSearch (results) {
+      console.log(results);
+    }
+
+
   },
 
   render: function () {
