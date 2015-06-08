@@ -5,13 +5,10 @@
   margin-left: 10px;
   color      : #3F3A30;
 }
-  
-  // .c-search__search-bar-container {
-  //   position: relative;
-  //   width   : 100%;
-  // }
 
-  .c-search__search-input {
+
+//The search bar
+  .c-search__search__input {
     width       : 100%;
     height      : 50px;
     font-size   : 20px;
@@ -19,41 +16,47 @@
     padding-left: 5px;
   }
 
-  .c-search__search-icon {
+  .c-search__search__icon {
     position: absolute;
     right   : 10px;
     top     : 20px;
   }
 
-  .s-container.c-search__filters-container {
+
+
+//The filters
+  .s-container.c-search__filters {
     height : 65px;
     padding: 15px 5px;
   }
 
-  .c-search__filters {
-    overflow     : hidden;
-    padding-left : 0px;
-    margin-bottom: 0px;
-    padding-top  : 5px;
-  }
-
-  .c-search__filter-item {
-    width      : 50%;
-    display    : inline;
-    float      : left;
-    font-size  : 16px;
-    font-weight: 400;
-  }
-
-    .c-search__filter-item__wrapper {
-      margin: 0;
+    .c-search__filters__group {
+      overflow     : hidden;
+      padding-left : 0px;
+      margin-bottom: 0px;
+      padding-top  : 5px;
     }
 
-  .c-search__filter-title {
-    font-size  : 20px;
-    font-weight: 700;
-  }
+      .c-search__filters__group__item {
+        width      : 50%;
+        display    : inline;
+        float      : left;
+        font-size  : 16px;
+        font-weight: 400;
+      }
 
+        .c-search__filters__group__item__wrapper {
+          margin: 0;
+        }
+
+    .c-search__filters__title {
+      font-size  : 20px;
+      font-weight: 700;
+    }
+
+
+
+//The results
   .c-search__results {
     padding-left: 5px;
   }
@@ -75,7 +78,7 @@
       font-weight: 600;
     }
 
-    .c-search__results__item__date {
+    .c-search__results__item__year {
       font-size : 16px;
       font-style: italic;
     }
@@ -85,6 +88,8 @@
       height: 95px;
     }
 
+
+//Common
 .s-container {
   width      : 100%;
   background : white;

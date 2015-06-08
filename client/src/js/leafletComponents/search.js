@@ -3,8 +3,6 @@
 
 var _ = require('lodash');
 
-var RESULT_ITEM = 'c-search__results__item';
-
 L.Control.Search = L.Control.extend({
   initialize: function (options) {
     L.Util.setOptions(this, options);
@@ -28,8 +26,7 @@ L.Control.Search = L.Control.extend({
 
   _createContainer: function (map) {
     var mapContainer = map.getContainer();
-    var className    = 'c-search';
-    var container    = this._container = L.DomUtil.create('div', className, mapContainer);
+    var container    = this._container = L.DomUtil.create('div', 'c-search', mapContainer);
     var stop         = L.DomEvent.stopPropagation;
     
     L.DomEvent
@@ -44,22 +41,22 @@ L.Control.Search = L.Control.extend({
 
   _createSearch: function () {
     var search = L.DomUtil.create('div', '', this._container);
-    search.innerHTML = '<input class="c-search_search-input />' + 
-      '<i class="fa fa-search fa-lg c-search__search-icon"><i>';
+    search.innerHTML = '<input class="c-search__search__input />' + 
+      '<i class="fa fa-search fa-lg c-search__search__icon"><i>';
     
     var that = this;
-    this._searchInput.onkeyup = function (evt) {
+    $('.c-search__search__input')[0].onkeyup = function (evt) {
       var searchText  = evt.currentTarget.value;
       that._setSearchText(searchText);
     };
   },
 
   _createFilters: function () {
-    var filterContainer = L.DomUtil.create('div', 's-container c-search__filters-container row', this._container);
-    var filterTitle = L.DomUtil.create('div', 'c-search__filter-title col-xs-3', filterContainer);
-    filterTitle.innerHTML = "Show:";
-    var filterListContainer = L.DomUtil.create('div', 'col-xs-9', filterContainer);
-    this._filters = L.DomUtil.create('ul', 'c-search__filters', filterListContainer);
+    var filters = L.DomUtil.create('div', 's-container c-search__filters row', this._container);
+    filters.innerHTML = '<div class="c-search__filters__title col-xs-3">Show:</div>' + 
+      '<div class="col-xs-9">' +
+        '<ul class="c-search__filters__group"></ul>' +
+      '</div>';
 
     _.forEach(this.options.filters, function (filter) {
       this._createFilter(filter);
@@ -67,16 +64,17 @@ L.Control.Search = L.Control.extend({
   },
 
   _createFilter: function (filter) {
-    var filterElem = L.DomUtil.create('li', 'c-search__filter-item', this._filters);
-    filterElem.innerHTML = '<div class="checkbox c-search__filter-item__wrapper">' + 
+    var filters = $('.c-search__filters__group')[0];
+    var filterElem = L.DomUtil.create('li', 'c-search__filters__group__item', filters);
+    filterElem.innerHTML = '<div class="checkbox c-search__filters__group__item__wrapper">' + 
       '<label>' +
-        '<input type="checkbox" class="c-search__filter-item__input" value="' + filter + 
+        '<input type="checkbox" class="c-search__filters__group__item__input" value="' + filter + 
         '" checked="checked">' + filter +
       '</label>' + 
     '</div>';
 
     var that = this;
-    $('.c-search__filter-item__input').change(function (evt) {
+    $('.c-search__filters__group__item__input').change(function (evt) {
       var value = evt.currentTarget.value;
       var isChecked = evt.currentTarget.checked;
       that._setFilter(value, isChecked);
@@ -85,16 +83,17 @@ L.Control.Search = L.Control.extend({
 
   _createResults: function () {
     this._resultContainer = L.DomUtil.create('div', 's-container hide', this._container);
-    this._results = L.DomUtil.create('ul', 'c-search__results', this._resultContainer);
+    L.DomUtil.create('ul', 'c-search__results', this._resultContainer);
   },
 
   _createResult: function (result) {
-    var resultElem = L.DomUtil.create('li', RESULT_ITEM, this._results);
+    var results = $('.c-search__results')[0];
+    var resultElem = L.DomUtil.create('li', 'c-search__results__item', results);
     resultElem.innerHTML = '<div class="row">' +
       '<div class="col-xs-9">' + 
         '<div class="c-search__results__item__title">' + result.properties.Title + '</div>' +
         '<div class="c-search__results__item__author">' + result.properties.Author + '</div>' +
-        '<div class="c-search__results__item__date">' + result.properties.Date + '</div>' +
+        '<div class="c-search__results__item__year">' + result.properties.Date + '</div>' +
       '</div>' +
       '<div class="col-xs-3">' +
         '<img src="http://cdn.wanderingtrader.com/wp-content/uploads/2011/03/IMG_1971.jpg" class="c-search__results__item__img">' +
@@ -123,7 +122,7 @@ L.Control.Search = L.Control.extend({
       L.DomUtil.removeClass(this._resultContainer, 'hide');
     }
 
-    $('.' + RESULT_ITEM).remove();
+    $('.c-search__results__item').remove();
 
     _.forEach(results, function (result) {
       this._createResult(result);
