@@ -26,8 +26,10 @@ var Map = React.createClass({
       }
     ).addTo(map);
 
+    var statueIcon = new L.Icon({ iconUrl: 'images/icon-statue-25.png'});
+    var archsiteIcon = new L.Icon({ iconUrl: 'images/icon-dig-25.png'});
 
-    L.geoJson(items).addTo(map);
+    L.geoJson(items, { onEachFeature: content }).addTo(map);
 
     var zoomCtrl = L.control.zoom({ position: 'bottomleft' });
     zoomCtrl.addTo(map);
@@ -43,6 +45,17 @@ var Map = React.createClass({
 
     function onSearch (results) {
       console.log(results);
+    }
+
+    function content (feature, layer) {
+      var icon = feature.properties.Type === 'statue' ? statueIcon : archsiteIcon;
+      layer.setIcon(icon);
+      layer.on('click', onMarkerClick);
+    }
+
+    function onMarkerClick (evt) {
+      var feature = evt.target.feature;
+      console.log(feature.properties.Title);
     }
   },
 
