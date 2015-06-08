@@ -23,7 +23,7 @@ gulp.task('dev',['default', 'watch']);
 
 gulp.task('default', ['scripts', 'less', 'copy']);
 
-gulp.task('lint', ['lint:js', 'lint:jsx'])
+gulp.task('lint', ['lint:js', 'lint:jsx']);
 
 gulp.task('scripts', function () {
   var bundler = browserify(bundlerConfig);
