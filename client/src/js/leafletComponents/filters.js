@@ -9,7 +9,7 @@ var mapStore = require('../stores/mapStore');
 var filters = {
   create: function (container) {
     this._container = container;
-    this._filters = mapStore.getHeritageCategories();
+    this._filters = mapStore.getSelectedHeritageCategories();
     this._createElem();
   },
 

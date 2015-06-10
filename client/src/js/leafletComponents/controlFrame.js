@@ -6,20 +6,23 @@ var search = require('./search');
 var filters = require('./filters');
 var resultList = require('./resultList');
 var mapStore = require('../stores/mapStore');
+var actionButtons = require('./actionButtons');
 // var actions = require('./actions');
 
 
 L.Control.ControlFrame = L.Control.extend({
   initialize: function (options) {
     L.Util.setOptions(this, options);
+
+    this._isShowingFilters = true;
   },
 
   onAdd: function (map) {
     this._map = map;
     var container = this._container = this._createContainer();
-    this._createSearch();
-    this._createFilters();
-    this._createResultList();
+    this._createSearchFrame();
+    this._createActionFrame();
+    this._createResultFrame();
     this.unsubscribe = mapStore.listen(this._refreshResults.bind(this));
 
     return container;
@@ -40,19 +43,19 @@ L.Control.ControlFrame = L.Control.extend({
     return container;
   },
 
-  _createSearch: function () {
+  _createSearchFrame: function () {
     var searchContainer = L.DomUtil.create('div', '', this._container);
 
     search.create(searchContainer);
   },
 
-  _createFilters: function () {
-    var filtersContainer = L.DomUtil.create('div', 's-container c-search__filters row', this._container);
+  _createActionFrame: function () {
+    var actionContainer = this._actionContainer = L.DomUtil.create('div', 's-container c-search__filters row', this._container);
 
-    filters.create(filtersContainer);
+    filters.create(actionContainer);
   },
 
-  _createResultList: function () {
+  _createResultFrame: function () {
     var resultContainer = this._resultContainer = L.DomUtil.create('div', 's-container hide', this._container);
 
     resultList.create(resultContainer);
@@ -64,7 +67,17 @@ L.Control.ControlFrame = L.Control.extend({
     } else {
       L.DomUtil.removeClass(this._resultContainer, 'hide');
     }
-  }
+
+    if (mapStore.shouldShowFilters() && !this._isShowingFilters) {
+      // var childElem = this._resultContainer.childNodes[0];
+      // this._resultContainer.removeChild(childElem);
+      this._isShowingFilters = true;
+      filters.create(this._actionContainer);
+    } else if (!mapStore.shouldShowFilters() && this._isShowingFilters) {
+      this._isShowingFilters = false;
+      actionButtons.create(this._actionContainer);
+    }
+  },
 
   // _setFilter: function (value, isChecked) {
   //   this._searchFilters[value] = isChecked;

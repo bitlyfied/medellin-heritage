@@ -3,12 +3,13 @@
 /* global $ */
 
 var actions = require('../actions');
-//container
+var mapStore = require('../stores/mapStore');
 
 var search = {
   create: function (container) {
     this._container = container;
     this._createElem();
+    mapStore.listen(this._setSearchText.bind(this));
   },
 
   _createElem: function () {
@@ -20,6 +21,11 @@ var search = {
       var searchText  = evt.currentTarget.value;
       actions.search(searchText);
     };
+  },
+
+  _setSearchText: function () {
+    var searchText = mapStore.getSearchText();
+    $('.c-search__search__input').val(searchText);
   }
 };
 

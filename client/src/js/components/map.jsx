@@ -3,6 +3,7 @@
 var React    = require('react');
 var MapStore = require('../stores/mapStore');
 var Reflux   = require('reflux');
+var Actions = require('../actions');
 var searchFactory   = require('../leafletComponents/controlFrame');
 var resultFactory = require('../leafletComponents/result');
 
@@ -56,11 +57,13 @@ var Map = React.createClass({
 
     function onMarkerClick (evt) {
       var feature = evt.target.feature;
-      if (result) {
-        result.removeFrom(map);
-      }
-      result = resultFactory({ feature: feature, position: 'topright' });
-      result.addTo(map);
+      // if (result) {
+      //   result.removeFrom(map);
+      // }
+      // result = resultFactory({ feature: feature, position: 'topright' });
+      // result.addTo(map);
+      
+      Actions.itemSelect(feature);
     }
   },
 
