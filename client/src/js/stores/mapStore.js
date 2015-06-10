@@ -16,27 +16,31 @@ var MapStore = Reflux.createStore({
 
   _searchText: '',
 
-  _selectedCategories: [],
+  _searchFilters: {},
+
+  init: function () {
+    _.forEach(_heritageCategories, function (filter) {
+      this._searchFilters[filter] = true;
+    }, this);
+  },
 
   getSearchText: function () {
     return this._searchText;
   },
 
-  // getFilteredHeritageItems: function () {
-  //   return _.filter(SeedData, function (item) {
-  //     var lcItem = item.Title.toLowerCase();
-
-  //     return lcItem.contains(this._searchText);
-  //   }, this);
-  // },
+  getFilteredHeritageItems: function () {
+    return _.filter(SeedData, function (item) {
+      return this._filterBySearchText(item) && this._filterByFilters(item);
+    }, this);
+  },
 
   onSearch: function (searchText) {
     this._searchText = searchText.toLowerCase();
     this.trigger();
   },
 
-  onFilter: function (categories) {
-    this._selectedCategories = categories;
+  onFilter: function (value, isChecked) {
+    this._searchFilters[value] = isChecked;
     this.trigger();
   },
 
@@ -57,6 +61,24 @@ var MapStore = Reflux.createStore({
 
   getHeritageCategories: function () {
     return _heritageCategories;
+  },
+
+  shouldHideResults: function () {
+    return _.isEmpty(this._searchText);
+  },
+
+  _filterBySearchText: function (item) {
+    var lcTitle = item.properties.Title.toLowerCase();
+    var lcAuthor = item.properties.Author.toLowerCase();
+
+    return _.isEmpty(this._searchText) || 
+      lcTitle.indexOf(this._searchText) > -1 || 
+      lcAuthor.indexOf(this._searchText) > -1;
+  },
+
+  _filterByFilters: function (item) {
+    var type = item.properties.Type;
+    return this._searchFilters[type];
   }
 });
 

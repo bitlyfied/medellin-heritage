@@ -3,10 +3,12 @@
 var React    = require('react');
 var MapStore = require('../stores/mapStore');
 var Reflux   = require('reflux');
-var searchFactory   = require('../leafletComponents/search');
+var searchFactory   = require('../leafletComponents/controlFrame');
+var resultFactory = require('../leafletComponents/result');
 
 var Map = React.createClass({
   componentDidMount: function () {
+    var result;
     var items = MapStore.getHeritageItems();
     var filters = MapStore.getHeritageCategories();
     var map = this.map = L.map(this.getDOMNode(), {
@@ -35,16 +37,15 @@ var Map = React.createClass({
     zoomCtrl.addTo(map);
 
     var searchCtrlOpts = {
-      onSearch: onSearch,
-      items: items,
-      filters: filters,
       position: 'topleft'
     };
     var searchCtrl = searchFactory(searchCtrlOpts);
     searchCtrl.addTo(map);
 
-    function onSearch (results) {
-      console.log(results);
+    MapStore.listen(onSearch);
+
+    function onSearch () {
+      console.log(MapStore.getFilteredHeritageItems());
     }
 
     function content (feature, layer) {
@@ -55,7 +56,11 @@ var Map = React.createClass({
 
     function onMarkerClick (evt) {
       var feature = evt.target.feature;
-      console.log(feature.properties.Title);
+      if (result) {
+        result.removeFrom(map);
+      }
+      result = resultFactory({ feature: feature, position: 'topright' });
+      result.addTo(map);
     }
   },
 
