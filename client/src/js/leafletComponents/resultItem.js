@@ -2,7 +2,7 @@
 
 //TODO: 
 //  -Use real img src
-//  -Styling
+//  -CHECK - Styling on the left side of the results item needs padding.
 //  -Handle architecture properties
 //  -Share, Directions, & Search
 //  -Handle click event on item when isSearchResult === true to select item
@@ -41,8 +41,9 @@ var resultItem = {
 
 module.exports = resultItem;
 
-
-// <p></p><p><a href="https://www.google.com.co/search?q=' + feature.properties.Title + '" target="new">Learn More</a></p>
+// LEARN MORE LINK
+// <a href="https://www.google.com.co/search?q=' + options.props.Title + '" target="new">Learn More</a>
+            
             
    
                 // '<p><a href="https://twitter.com/share" class="twitter-share-button" data-text="¡Conoce la ubicación del patrimonio de Medellín!" data-lang="es" data-count="none">Twittear</a>' +
