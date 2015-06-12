@@ -1,0 +1,493 @@
+type,title,author,year,latitude,longitude,image_name
+Escultura,GENERAL FRANCISCO DE PAULA SANTANDER,BERNARDO VIECO,1940,6.246253,-75.564569,bernardovieco_generalfranciscodepaulasantander.png
+Escultura,TOMÁS CARRASQUILLA,GUSTAVO LÓPEZ,1978,6.236246,-75.580366,gustavolopez_tomascarrasquilla.png
+Escultura,SIN TÍTULO,SERGIO DE CAMARGO,1983,6.235943,-75.581376,sergiodecamargo_sintitulo.png
+Escultura,CONSTRUCCIÓN,JOHN CASTLES,1983,6.236149,-75.578819,johncastles_constuccion.png
+Escultura,CONSTRUCCIÓN,MANUEL FELGUEREZ,1983,6.235624,-75.581552,manuelfelguerez_construccion.png
+Escultura,TORRE,EDGAR NEGRET,1983,6.236301,-75.581435,edgarnegret_torre.png
+Escultura,SIGNO ALETETEANDO EL ESPACIO,OTTO HERBERT HAJEK,1988,6.236401,-75.578487,ottoherberthajek_signoaleteando.png
+Escultura,ESTRUCTURA CROMOVEGETAL,CARLOS CRUZ DIEZ,1983,6.237100,-75.579372,carloscruzdiez_estructuracromovegetal.png
+Escultura,SIN TÍTULO,CARLOS ROJAS,1983,6.235260,-75.578866,carlosrojas_sintitulo.png
+Escultura,SIN TÍTULO,JULIO LE PARC,sin fecha,6.235776,-75.581579,julioleparc_sintitulo.png
+Escultura,SIN TÍTULO,ALBERTO URIBE DUQUE,1983,6.235786,-75.580902,albertouribe_sintitulo.png
+Escultura,CACIQUE NUTIBARA,JOSE HORACIO BETANCUR,1955,6.236226,-75.580533,josehoraciobetancur_caciquenutibara.png
+Escultura,"GUILLERMO ZULUAGA ""MONTECRISTO""",LUZ MARIA PIEDRAHITA,2000,6.235919,-75.580224,luzmariapierahita_guillermozuluaga.png
+Escultura,"""M"" CROMO INTERFERENCIA",CARLOS CRUZ DIEZ,1985,6.256272,-75.579035,carloscruzdiez_mcromo.png
+Escultura,SIMÓN BOLIVAR,JOSUE GIRALDO,1930,6.232496,-75.596721,josuegiraldo_simonbolivar.png
+Escultura,GILBERTO ALZATE AVENDAÑO,GUSTAVO LÓPEZ,1978,6.231142,-75.602537,gustavolopez_gilbertoalzateavendano.png
+Escultura,MARCO FIDEL SUAREZ,OCTAVIO MONTOYA,1954,6.244966,-75.597061,octaviomontoya_marcofidelsuarez.png
+Escultura,ATANASIO GIRARDOT,JOSE HORACIO BETANCUR,1954,6.257125,-75.591322,josehoraciobetancur_atanasiogirardot.png
+Escultura,LA BACHUE,JOSE HORACIO BETANCUR,1954,6.247594,-75.559702,josehoraciobetancur_labachue.png
+Escultura,BERNARDO HERRERA RESTREPO,ALFONSO GOEZ,1962,6.247925,-75.561419,alfonsogoez_bernardoherrerarestrepo.png
+Escultura,MISTER JAMES TYLER MOORE,GUSTAVO LÓPEZ,1962,6.248586,-75.563522,gustavolopez_misterjamestylermoore.png
+Escultura,MANUEL URIBE ÁNGEL,JAIRO CANO ECHANDÍA,1963,6.248245,-75.562309,jairocanoechandia_manueluribeangel.png
+Escultura,PEDRO JUSTO BERRÍO,OCTAVIO MONTOYA,1963,6.248246,-75.562310,octaviomontoya_pedrojustoberrio.png
+Escultura,JOSE MARÍA MARTINEZ PARDO,GUSTAVO LÓPEZ,1962,6.248266,-75.562535,gustavolopez_josemariamartinezprado.png
+Escultura,MARIANO OSPINA RODRIGUEZ,JAIRO CANO ECHANDÍA,1963,6.248319,-75.562739,jairocanoechandia_marianoospinarodriguez.png
+Escultura,JUAN DE LA CRUZ GOMEZ PLATA,JAIRO CANO ECHANDÍA,1963,6.248362,-75.562900,jairocanoechandia_juandelacruzgomezplata.png
+Escultura,JOSE FELIX DE RESTREPO,OCTAVIO MONTOYA,1963,6.248266,-75.562310,octaviomontoya_josefelixderestrepo.png
+Escultura,JOSE MANUEL RESTREPO,JAIRO CANO ECHANDÍA,1963,6.248469,-75.563200,jairocanoechandia_josemanuelrestrepo.png
+Escultura,JUAN DEL CORRAL,BERNARDO VIECO,1963,6.248530,75.563354,bernardovieco_juandelcorral.png
+Escultura,JUAN ANTONIO MON Y VELARDE,OCTAVIO MONTOYA,1963,6.248487,-75.563290,octaviomontoya_juanantoniomonyvelarde.png
+Escultura,GASPAR DE RODAS,JAIRO CANO ECHANDÍA,1963,6.248661,-75.563561,jairocanoechandia_gasparderodas.png
+Escultura,JORGE ROBLEDO,CONSTANTINO CARVAJAL,1960,6.248535,-75.563365,constantinocarvajal_jorgerobledo.png
+Escultura,ANTONIO NARIÑO,ALFONSO GOEZ,sin fecha,6.282469,-75.561744,alfonsogoez_antonionarino.png
+Escultura,CARLOS GARDEL,ALFONSO GOEZ,1968,6.269533,-75.554722,alfonsogoez_carlosgardel.png
+Escultura,JORGE ELIÉCER GAITÁN AYALA,R. PATIÑO P.,1991,6.265192,-75.548419,rpatinop_jorgeeliecergaitanayala.png
+Escultura,CARLOS VÁSQUEZ LA TORRE,ALFONSO GOEZ,1966,6.258843,-75.551862,alfonsogoez_carlosvasquezlatorre.png
+Escultura, MONUMENTO A EL OBRERO,BERNARDO VIECO,1934,6.251077,-75.556423,bernardovieco_monumentoaelobrero.png
+Escultura,A LA FAMILIA,CESAR VILLA VILLA,1934,6.251058,-75.556549,cesarvillavilla_alafamilia.png
+Escultura,MONUM CONMEMORATIVO CENTENARIO DE LA U DE A,JOSE MARÍA AGUDELO,1922,6.246440,-75.564360,josemariaagudelo_monumconmemorativocentenarioudea.png
+Escultura,MARCELIANO VÉLEZ,FRANCISCO ANTONIO CANO,1925,6.246387,-75.564387,franciscoantoniocano_marcelinovelez.png
+Escultura,GENERAL JOSE MARÍA CÓRDOBA,MARCO TOBÓN MEJÍA,1957,6.248113,-75.558013,marcotobonmejia_generaljosemariacordoba.png
+Escultura,CARLOS CASTRO SAAVEDRA,OSCAR ROJAS,1989,6.248355,-75.557917,oscarrojas_carloscastrosaavedra.png
+Escultura,MANUEL DEL SOCORRO RODRÍGUEZ,DESCONOCIDO,sin fecha,6.249535,-75.561861,desconocido_manueldelsocorrorodriguez.png
+Escultura,SAN JUAN BOSCO,DESCONOCIDO,sin fecha,6.253315,-75.560482,desconocido_sanjuanbosco.png
+Escultura,FUENTE PILA JARDINERA,DESCONOCIDO,sin fecha,6.253882,-75.559985,desconocido_fuentepilajardinera.png
+Escultura,JUAN ANTONIO MON Y VELARDE,OCTAVIO MONTOYA,1957,6.254146,-75.563341,octaviomontoya_juanantoniomonyvelarde2.png
+Escultura,TOMÁS CIPRIANO DE MOSQUERA,PIETRO TENERARI,1978,6.255336,-75.563057,pietrotenerari_tomasciprianodemosquera.png
+Escultura,ARZOBISPO MANUEL JOSÉ CAICEDO ,PIETRO TENERARI,1951,6.254804,-75.564343,pietrotenerari_arzobispomanueljosecaicedo.png
+Escultura,FIDEL CANO,FRANCISCO  CANO,1920,6.252641,-75.564715,franciscocano_fidelcano.png
+Escultura,PLACA MISTER JAMES TYRREL MOORE,JOSE MARÍN VIECO,1942,6.252705,-75.564543,josemarinvieco_placamisterjamestyrrelmoore.png
+Escultura,GENERAL FRANCISCO ANTONIO ZEA,MARCO TOBÓN MEJÍA,1952,6.253300,-75.570300,marcotobonmejia_generalfranciscoantoniozea.png
+Escultura,ATANASIO GIRARDOT,FRANCISCO ANTONIO CANO,1910,6.251037,-75.569306,franciscoantoniocano_atanasiogirardot.png
+Escultura,FUENTE PLAZA VERACRUZ,DESCONOCIDO,1853,6.251177,-75.569592,desconocido_fuenteplazaveracruz.png
+Escultura,RAFAEL URIBE URIBE,MARCO TOBÓN MEJÍA,1964,6.247673,-75.567736,marcotobonmejia_rafaeluribeuribe.png
+Escultura,FUENTE PILETA,FRANCISCO ANTONIO CANO,1902,6.247362,-75.565696,franciscoantoniocano_fuentepileta.png
+Escultura,JORGE ELIÉCER GAITÁN,OSCAR ROJAS,sin fecha,6.248193,-75.565120,oscarrojas_jorgeeliecergaitan.png
+Escultura,JOSÉ DE SAN MARTÍN,ORALANDO S. TAGNATO,1950,6.248252,-75.565163,orlandostagnato_josedesanmartin.png
+Escultura,SIMÓN BOLIVAR,EUGENIO MACCAGNANI,1923,6.252950,-75.564639,eugeniomaccagnani_simonbolivar.png
+Escultura,JORGE ROBLEDO,OCTAVIO MONTOYA,1946,6.275798,-75.596206,octaviomontoya_jorgerobledo.png
+Escultura,RAYUELA,GRUPO UTOPÍA,1997,6.249639,-75.580654,grupoutopia_rayuela.png
+Escultura,VENUS DURMIENTE,FERNANDO BOTERO,1994,6.245101,-75.568965,fernandobotero_venusdurmiente.png
+Escultura,PÁJARO ,FERNANDO BOTERO,1994, 6.245191,-75.568923,fernandobotero_pajaro.png
+Escultura,TORSO MASCULINO,FERNANDO BOTERO,1994,6.245076,-75.568936,fernandobotero_torsomasculino.png
+Escultura,PUERTA DE SAN ANTONIO,RONNY VAYDA,1994,6.245252,-75.568881,ronnyvayda_puertadesanantonio.png
+Escultura,PEDRO JUSTO BERRÍO,GIOVANNI ANDERLINI,1893,6.249467,-75.568292,giovannianderlini_pedrojustoberrio.png
+Escultura,FERNANDO GOMEZ MARTÍNEZ,LUZ MARIA PIEDRAHITA,1999,6.248199, -75.561468,luzmariapiedrahita_fernandogomezmartinez.png
+Escultura,EL CACIQUE NUTIBARA,PEDRO NEL GOMEZ,1954,6.251773,-75.567965,pedronelgomez_elcaciquenutibara.png
+Escultura,PEDRO JOSÉ BERRÍO ,DESCONOCIDO,sin fecha,6.252002,-75.568097,desconocido_pedrojoseberrio.png
+Escultura,EL ÁRBOL DE LA VIDA,FANOR HERNÁNDEZ ORDOÑEZ,1997,6.283523,-75.583697,fanorhernandezordonez_elarboldelavida.png
+Escultura,EL ÁRBOL DE LA VIDA,JOSÉ AUGUSTO RIVERA CASTRO,1997,6.279081,-75.571123,joseaugustoriveracastro_elarboldelavida.png
+Escultura,MONUMENTO AL SALVADOR,SIGMONE Y CIA DE PED  BURAGLIA,1917,6.241413,-75.565039,sigmoneyciadepedburaglia_monumentoalsalvador.png
+Escultura,MONUMENTO A LA RAZA,RODRIGO ARENAS BETANCOURT,1979 - 1988,6.244365,75.573396,rodrigoarenasbetancourt_monumentoalaraza.png
+Escultura,FRANCISCO JAVIER CISNEROS,MARCO TOBÓN MEJÍA,1923,6.245033,75.572613,marcotobonmejia_franciscojaviercisneros.png
+Escultura,PERENNIDAD,GUILLERMO VILLEGAS MEJÍA,1997,6.307785,-75.580185,guillermovillegasmejia_perennidad.png
+Escultura,LA PODA,BERNARDO SALCEDO,1997,6.185441,-75.553107,bernardosalcedo_lapoda.png
+Escultura,HORIZONTES,JOHN CASTLES,1997,6.207243,-75.586425,johncastles_horizontes.png
+Escultura,SIGNO PARA MEDELLÍN,OTTO HERBERT HAJEK,1997,6.218692,-75.592442,ottoherberthajek_signoparamedellin.png
+Escultura,VENUS FRAGMENTÁNDOSE CON PLATANILLOS,MARTA MINUJIN,1997,6.230909,-75.607610,martaminujin_venusfragmentandoseconplatanillos.png
+Escultura,FORMAS,FRANCISCO MATTO,1997,6.248437,-75.615800,franciscomatto_formas.png
+Escultura,AGORA ,RONNY VAYDA,1997,6.245529,-75.583884,ronnyvayda_agora.png
+Escultura,EL MECÁNICO,JUSTO AROSEMENA,1997,6.248338,-75.577199,justoarosemena_elmecanico.png
+Escultura,TRAMPOLÍN 1 Y 2,SALVADOR ARANGO,1997,6.235472,-75.555236,salvadorarango_trampolin1y2.png
+Escultura,DOCTOR LEÓN ARANGO PAUCAL,JORGE VÉLEZ CORREA,1991,6.243369,-75.573456,jorgevelezcorrea_doctorleonarangopaucal.png
+Escultura,OFRENDA DE PAZ,LUCY CORREA,2003,6.189810,-75.547693,lucycorrea_ofrendadepaz.png
+Escultura,EL ALADINO,GAVI GAVIRIA CRISTOBAL ,2003,6.189810,-75.547693,gavigaviriacristobal_elaladino.png
+Escultura,EL GENIO,GAVI GAVIRIA CRISTOBAL ,2003,6.189816,-75.547701,gavigaviriacristobal_elgenio.png
+Escultura,HOMENAJE A CARLOS GARDEL,SALVADOR ARANGO,2003,6.214199,-75.590394,salvadorarango_homenajeacarlosgardel.png
+Escultura,TALENTOS EN LIBERTAD,LUZ MARIA PIEDRAHITA,2003,6.285183,-75.556494,luzmariapiedrahita_talentosdelibertad.png
+Escultura,JORGE ELIECER GAITÁN AYALA ,RODOLFO MONTOYA,2004,6.265010,-75.548438,rodolfomontoya_jorgeeliecergaitanayala.png
+Escultura,LA IGUALDAD - EL VOTO FEMENINO,OLGA INÉS ARANGO,sin fecha,6.272001,-75.563505,olgainesarango_laigualdadelvotofemenino.png
+Escultura,MARÍA CANO,JORGE VÉLEZ CORREA,2006,6.270616,-75.563449,jorgevelezcorrea_mariacano.png
+Escultura,BENEDIKTA ZUR NIEDEN DE ECHAVARRÍA,LUZ MARIA PIEDRAHITA,2006,6.272033,-75.563717,luzmariapiedrahita_benediktazurniedendeechavarria.png
+Escultura,CACICA DABEIBA,PAULA ANDREA ÚSUGA JIMENEZ,2006,6.271985,-75.563830,paulaandreausugajimenez_cacicadabeiba.png
+Escultura,CACICA AGRAZABA,MARTHA ISABEL ARROYABE RUIZ,2006,6.272001,-75.563676,marthaisabelarroyaberuiz_cacicaagrazaba.png
+Escultura,MARIA CENTENO,GLORIA LONDOÑO ARANGO,2006,6.271920,75.563765,glorialondonoarango_mariacenteno.png
+Escultura,SIMONA DUQUE,MARIA RAQUEL SIERRA VARELA,2006,6.272017,-75.563660,mariaraquelsierravarela_simonaduque.png
+Escultura,MADRE LAURA,CARLOS MARIO VÉLEZ,2006,6.272041,75.563530,carlosmariovelez_madrelaura.png
+Escultura,JESUSITA VALLEJO DE MORA VÁSQUEZ,GLORIA LONDOÑO ARANGO,2006,6.272217,-75.563725,glorialondonoarango_jesusitavallejodemoravasquez.png
+Escultura,MARÍA MARTINEZ DE NISSER,MARIA RAQUEL SIERRA VARELA,2006,6.272154,-75.563739,mariaraquelsierravarela_mariamartinezdenisser.png
+Escultura,BLANCA ISAZA JARAMILLO MEZA,JANETH REYES RIVERA,2006,6.272126,-75.563610,janethreyesrivera_blancaisazajaramillomeza.png
+Escultura,DEBORA ARANGO PEREZ,JANETH REYES RIVERA,2006,6.272086,-75.563573,janethreyesrivera_deboraarangoperez.png
+Escultura,LUZ CASTRO DE GUTIERREZ,LUZ MARIA PIEDRAHITA,2006,6.272066,-75.563530,luzmariapiedrahita_luzcastrodegutierrez.png
+Escultura,LUZMILA ACOSTA DE OCHOA,MARTHA CECILIA PEREZ LOZANO,2006,6.272049,-75.563476,marthaceciliaperezlozano_luzmilaacostadeochoa.png
+Escultura,ROSITA TURIZO DE TRUJILLO,OLGA INÉS ARANGO,2006,6.272160,-75.563634,olgainesarango_rositaturizodetrujillo.png
+Escultura,EL DEPORTE,FANOR HERNÁNDEZ ORDOÑEZ,2003,6.253304,-75.588270,fanorhernandezordonez_eldeporte.png
+Escultura,EL CARRETILLERO,JANETH REYES RIVERA,2003,6.256971,-75.572920,janethreyesrivera_elcarretillero.png
+Escultura,GUILLERMO CANO,autor desconocido,2007,6.253031,-75.564623,autordesconocido_guillermocano.png
+Escultura,CRISTO PROMETEO,RODRIGO ARENAS BETANCUR,2003,6.277437,-75.635768,rodrigoarenasbetancur_cristoprometeo.png
+Escultura,HOMENAJE AL ARRIERO,GABRIEL JAIME VÉLEZ,2008,6.277490,-75.635628,grabieljaimevelez_homenajealarriero.png
+Escultura,EL GATO,FERNANDO BOTERO,2010,6.277892,-75.635295,fernandobotero_elgato.png
+Escultura,LOS NIÑOS DE VILLATINA,EDGAR GAMBOA VELÁSQUEZ,2003,6.249304,-75.562108,edgargamboavelasquez_losninosdevillatina.png
+Escultura,HOMENAJE AL SILLETERO, LUZ MARIA PIEDRAHITA,1997,6.209703,-75.498219,luzmariapiedrahita_homenajealsilletero.png
+Escultura,PÁJARO 2,RUBEN,2006,6.209494,-75.497777,ruben_pajaro2.png
+Escultura,PÁJARO 1,RUBEN,2006,6.209187,-75.497670,ruben_pagaro1.png
+Escultura,LA PRIMAVERA,LUZ MARIA PIEDRAHITA,1997,6.209466,-75.497808,luzmariapiedrahita_laprimavera.png
+Escultura,PALOMAS,ANÓNIMO,sin fecha,6.209995,-75.498084,anonimo_palomas.png
+Escultura,SANTA ELENA DE ARVÍ,JUAN CARLOS VELÁSQUEZ RUA,2006,6.277659,-75.497703,juancarlosvelasquezrua_santaelenadearvi.png
+Escultura,CHASERA,OLGA INÉS ARANGO P,2002,6.244564,-75.573699,olgainesarangop_chasera.png
+Escultura,EL LOTERO,OLGA INÉS ARANGO P,2003,6.244558,-75.573632,olgainesarangop_ellotero.png
+Escultura,EL LUSTRABOTAS,OLGA INÉS ARANGO P,2003,6.244553,-75.573565,olgainesarangop_ellustrabotas.png
+Escultura,VENDEDOR DE PRENSA,OLGA INÉS ARANGO P,2002,6.244536,-75.573507,olgainesarangop_vendedordeprensa.png
+Escultura,TORNAMESA,RONNY VAYDA,1997,6.243187,-75.574765,ronnyvayda_tornamesa.png
+Escultura,RENACER,SALVADOR ARANGO,2002,6.243063,-75.574760,salvadorarango_renacer.png
+Escultura,RÉPLICA LOCOMOTORA,autor desconocido,sin fecha,6.244634,-75.571992,autordesconocido_replicalocomotora.png
+Escultura,BUSTO GUILLERMO GAVIRIA,autor desconocido,sin fecha,6.244783,-75.572090,autordesconocido_bustoguillermogaviria.png
+Escultura,BUSTO GILBERTO ECHERRY,autor desconocido,sin fecha,6.242874,-75.574846,autordesconocido_bustogilbertoecheverry.png
+Escultura,EL HINCHA,DESCONOCIDO,1994,6.258416,-75.586313,desconocido_elhincha.png
+Escultura,FANTASMAS DE MEDELLÍN,GERMÁN LONDOÑO,1997,6.258543,-75.598549,germanlondono_fantasmasdemedellin.png
+Escultura,CRISTO  ,JOSUE GIRALDO,1983,6.282356,-75.561242,josuegiraldo_cristo.png
+Escultura,SIMÓN BOLIVAR,ANÓNIMO,sin fecha,6.285149,-75.556483,anonimo_simonbolivar.png
+Escultura,EL DESAFÍO DE LA RAZA ,RODRIGO ARENAS BETANCOURT,1978,6.249967,-75.568025,rodrigoarenasbetancourt_eldesafiodelaraza.png
+Escultura,MONUMENTO A LA PAZ,PABLO ECHAVARRÍA - CLARA LÓPEZ,1994,6.282374,-75.572331,pabloechavarria_claralopez_monumentoalapaz.png
+Escultura,BENITO JUAREZ,DESCONOCIDO,sin fecha,6.237342,-75.570127,desconocido_benitojuarez.png
+Escultura,JUAN DEL CORRAL ,VIECO,sin fecha,6.263312,-75.563145,vieco_juandelcorral.png
+Escultura,TORRE ROJA,AUGUSTO RAMÍREZ VILLAMIZAR,sin fecha,6.231508,-75.568475,augustoramirezvillamizar_torreroja.png
+Escultura,EL SILLETERO,autor desconocido,sin fecha,6.255715, -75.601617,autordesconocido_elsilletero.png
+Escultura,HOMENAJE AL TANGO,autor desconocido,sin fecha,6.220219,-75.584827,autordesconocido_homenajealtango.png
+Escultura,PLOMADA,autor desconocido,sin fecha,6.265660,-75.574965,autordesconocido_plomada.png
+Escultura,TORSO FEMENINO,FERNANDO BOTERO,1990,6.249578,-75.567857,fernandobotero_torsofemenino.png
+Escultura,ADÁN,FERNANDO BOTERO,1990,6.252093,-75.567961,fernandobotero_adan.png
+Escultura,CABALLO,FERNANDO BOTERO,1992,6.252153,-75.568076,fernandobotero_caballo.png
+Escultura,CABALLO CON BRIDAS,FERNANDO BOTERO,1992,6.252020,-75.568203,fernandobotero_caballoconbridas.png
+Escultura,CABEZA,FERNANDO BOTERO,1999,6.252024,-75.568274,fernandobotero_cabeza.png
+Escultura,ESFINGE,FERNANDO BOTERO,1995,6.252137,-75.568199,fernandobotero_esfinge.png
+Escultura,EVA,FERNANDO BOTERO,1990,6.252014,-75.568248,fernandobotero_eva.png
+Escultura,GATO,FERNANDO BOTERO,1993,6.252121, -75.568242,fernandobotero_gato.png
+Escultura,HOMBRE A CABALLO,FERNANDO BOTERO,1994,6.252010, -75.568255,fernandobotero_hombreacaballo.png
+Escultura,HOMBRE CAMINANTE,FERNANDO BOTERO,1999,6.252141,-75.568281,fernandobotero_hombrecaminante.png
+Escultura,HOMBRE VESTIDO,FERNANDO BOTERO,1989,6.252024,-75.568336,fernandobotero_hombrevestido.png
+Escultura,MANO ,FERNANDO BOTERO,1992,6.252128,-75.568405,fernandobotero_mano.png
+Escultura,MATERNIDAD,FERNANDO BOTERO,1995,6.251982,-75.568411,fernandobotero_maternidad.png
+Escultura,MUJER,FERNANDO BOTERO,1990,6.251849, -75.568800,fernandobotero_mujer.png
+Escultura,MUJER CON ESPEJO,FERNANDO BOTERO,1987,6.252064,-75.568797,fernandobotero_mujerconespejo.png
+Escultura,MUJER CON FRUTA,FERNANDO BOTERO,1996,6.252034,-75.568607,fernandobotero_mujerconfruta.png
+Escultura,MUJER RECLINADA,FERNANDO BOTERO,1984,6.252148,-75.568483,fernandobotero_mujerreclinada.png
+Escultura,MUJER SENTADA,FERNANDO BOTERO,1991,6.251957,-75.568853,fernandobotero_mujersentada.png
+Escultura,MUJER VESTIDA,FERNANDO BOTERO,1989,6.251970,-75.567880,fernandobotero_mujervestida.png
+Escultura,VENUS DORMIDA,FERNANDO BOTERO,1994,6.252348,-75.568735,fernandobotero_venusdormida.png
+Escultura,PENSAMIENTO,FERNANDO BOTERO,1992,6.251891,-75.568385,fernandobotero_pensamiento.png
+Escultura,PERRO,FERNANDO BOTERO,1993,6.252033,-75.568070,fernandobotero_perro.png
+Escultura,RAPTO DE EUROPA,FERNANDO BOTERO,1991,6.251954,-75.568915,fernandobotero_raptodeeuropa.png
+Escultura,SOLDADO ROMANO,FERNANDO BOTERO,1986,6.251921,-75.568738,fernandobotero_soldadoromano.png
+Escultura,GLORIETA MINORISTA,autor desconocido,sin fecha,6.257498,-75.571464,autordesconocido_glorietaminorista.png
+Escultura,SIGNO HOMENAJE,MANUEL HERNANDEZ,2009,6.270053,-75.565426,manuelhernandez_signohomenaje.png
+Escultura,ANDRÉS ESCOBAR,ALEJANDRO HERNANDEZ,2000,6.234812,-75.587658,alejandrohernandez_andresescobar.png
+Escultura,LUIS URIBE BUENO,DIEGO CANO,2003,6.244771,-75.584969,diegocano_luisuribebueno.png
+Escultura,JOSE MARÍA MARQUEZ BRAVO,JANETH REYES,sin fecha,6.248199,-75.561539,janethreyes_josemariamarquezbravo.png
+Escultura,EL FLAUTISTA Y LA BAILARINA,RODRIGO ARENAS BETANCOURT,sin fecha,6.209022,-75.567979,rodrigoarenasbetancourt_elflautistaylabailarina.png
+Escultura,HOMENAJE A GUILLERMO Y GILBERTO,SALVADOR ARANGO,sin fecha,6.244699,-75.573160,salvadorarango_homenajeaguillermoygilberto.png
+Escultura,HOMENAJE AL PRIMER POBLADO,LUZ MARÍA PIEDRAHITA,sin fecha,6.210223,-75.570824,luzmariapiedrahita_homenajealprimerpoblado.png
+Escultura,ANTONIO ROLDAN BETANCUR,SERGIO ARISTIZABAL CASTAÑO,sin fecha,6.222789,-75.569117,no hay imagen
+Escultura,EL ARRIERO,OSCAR ROJAS,1975,6.238865,-75.575523,oscarrojas_elarriero.png
+Escultura,ORESTE SINDICI,AMAYA - J PEDRO - OTROS,1978,6.248106,-75.559670,amaya_jpedro_otros_orestesindici.png
+Escultura,ÁRBOL DE LA VIDA,LEOBARDO PÉREZ JIMÉNEZ,2012,6.247145,-75.557805,leobardoperezjimenez_arboldelavida.png
+Escultura,FUENTE PARQUE SAN ANTONIO,LEOBARDO PÉREZ JIMÉNEZ,2012,6.244896,-75.568654,no hay imagen
+Escultura,BUSTO ANDRÉS ESCOBAR,CM VÉLEZ,2012,6.234717,-75.587993,cmvelez_bustoandresescobar.png
+Escultura,BUSTO GUSTAVO ROJAS PINILLA,CM VÉLEZ,2012,6.254618,-75.569179,cmvelez_bustogustavorojaspinilla.png
+Escultura,LA MEDICINA Y LA SALUD,RODRIGO ARENAS BETANCOURT,1997,6.214226,-75.596261,rodrigoarenasbetancourt_lamedicinaylasalud.png
+Escultura,HOMENAJE A GIORDANO BRUNO,RODRIGO ARENAS BETANCOURT,1997,6.243727,-75.585666,rodrigoarenasbetancourt_homenajeagiordanobruno.png
+Escultura,LA FLAUTISTA EN MEDIA LUNA,RODRIGO ARENAS BETANCOURT,1994,6.209574,-75.497715,rodrigoarenasbetancourt_laflautistaenmedialuna.png
+Escultura,SIN TITULO,JOHN CASTLES,1981,6.256099,-75.579255,johncastles_sintitulo.png
+Escultura,ACOPLES (Serie Los Amantes),RODRIGO ARENAS BETANCOURT,1981,6.256131,-75.579235,rodrigoarenasbetancourt_acoples.png
+Escultura,ESTELAS,HUGO ZAPATA,1987,6.255395,-75.579443,hugozapata_estelas.png
+Escultura,FUENTE DE LA VIDA,RODRIGO ARENAS BETANCOURT,1974,6.255412,-75.579453,rodrigoarenasbetancourt_fuentedelavida.png
+Escultura,EL AMOR,SALVADOR ARANGO,1972,6.254693,-75.579575,salvadorarango_elamor.png
+Escultura,VANOS,JOHN CASTLES,1975,6.255021,-75.579493,johncastles_vanos.png
+Escultura,SIMBOLO EMPRESA SURAMERICANA,OCTAVIO MONTOYA,1950,6.254456,-75.579431,octaviomontoya_simboloempresasuramericana.png
+Escultura,TRADICION,SALVADOR ARANGO,1972,6.254250,-75.579473,salvadorarango_tradicion.png
+Escultura,ZAFRA,JOHN CASTLES,1989,6.254234,-75.579425,johncastles_zafra.png
+Escultura,LABERINTO COSMICO,SALVADOR ARANGO,1979,6.254829,-75.579704,salvadorarango_laberintocosmico.png
+Escultura,BOSQUE AEREO,RICARDO CARDENAS,2013,6.254408,-75.579843,ricardocardenas_bosqueaereo.png
+Escultura,LA LIBERTAD,MIGUEL ANGEL BETANCUR,1988,6.263378,-75.589166,miguelangelbetancur_lalibertad.png
+Escultura,JUGADORES DE BOLOS,ISRAEL ROZO GOMEZ,1981,6.258727,-75.584139,israelrozogomez_jugadoresdebolos.png
+Escultura,MOVIMIENTO DEL ORDEN,HUMBERTO ELIAS VELEZ ESCOBAR,1987,6.260707,-75.588737,humbertoeliazvelezescobar_movimientodelorden.png
+Escultura,COLUMNA,GERMAN BOTERO,1979,6.258520,-75.583324,germanbotero_columna.png
+Escultura,RELOJ DE SOL,OCTAVIO URIBE,1986,6.234846,-75.598910,octaviouribe_relojdesol.png
+Escultura,EL TRABAJO,JUSTO AROSEMENA,1980 - 1985,6.236491,-75.603011,justoarosemena_eltrabajo.png
+Escultura,EL BOTELLON,SALVADOR ARANGO,1990,6.238463,-75.606300,salvadorarango_elbotellon.png
+Escultura,PYLLAR,RONNY VAYDA,1990,6.187117,-75.559685,ronnyvayda_pyllar.png
+Escultura,ENCUENTROS EN EL TIEMPO - ESPACIO,HUMBERTO ELIAS VELEZ ESCOBAR,1985,6.250645,-75.617792,humbertoeliazvelezescobar_encuentroseneltiempoespacio.png
+Escultura,SOLO CON GUARDA ESPALDA,ION MURESANU,1981,6.242601,-75.608643,ionmuresanu_soloconguardaespalda.png
+Escultura,BEN HUR,ALFONSO GOEZ,1940,6.241550,-75.592913,alfonsogoez_benhur.png
+Escultura,OVALO AUREO,RONNY VAYDA,1989,6.203080,-75.574517,ronnyvayda_ovaloaureo.png
+Escultura,HOMENAJE A LA AMISTAD,ALONSO RIOS VANEGAS,1985,6.203371,-75.571881,alonsoriosvanegas_homenajealaamistad.png
+Escultura,JUGANDO CON EL VIENTO,JUSTO AROSEMENA,1985,6.203243,-75.571934,justoarosemena_jugandoconelviento.png
+Escultura,FUENTE,AUGUSTO GONZALEZ Y CIA. ARQ.,1985,6.203104,-75.571967,augustogonzalezyciarquitectos_fuente.png
+Escultura,LA FLORA,MIGUEL ANGEL BETANCUR,1985,6.203029,-75.572010,miguelangelbetancur_laflora.png
+Escultura,SERIES,RONNY VAYDA,1987,6.201205,-75.574601,ronnyvayda_series.png
+Escultura,A LA RUEDA RUEDA,JUSTO AROSEMENA,1986,6.201127,-75.575304,justoarosemena_alaruedarueda.png
+Escultura,LOS ARRIEROS,JUSTO AROSEMENA,1981,6.211953,-75.569954,justoarosemena_losarrieros.png
+Escultura,GENERACIONES,FERNANDO ARROYAVE CALLE,1989,6.197524,-75.575608,fernandoarroyavecalle_generaciones.png
+Escultura,LA ALEGRIA DE VIVIR,SALVADOR ARANGO,1977,6.199051,-75.574476,salvadorarango_laalegriadevivir.png
+Escultura,SOLIDARIDAD,FREDY SANCHEZ CABALLERO,1992,6.256335,-75.580207,fredysanchezcaballero_solidaridad.png
+Escultura,LIBERACION,SALVADOR ARANGO,1974,6.248094,-75.564055,salvadorarango_liberacion.png
+Escultura,JARDIN DE PIEDRAS,HUGO ZAPATA,1989,6.202619,-75.572064,hugozapata_jardindepiedras.png
+Escultura,GRUPO DE GAVIOTAS,JUSTO AROSEMENA,1982,6.235632,-75.570534,justoarosemena_grupodegaviotas.png
+Escultura,METAMORFOSIS,EDGAR NEGRET,1982,6.215716,-75.569867,edgarnegret_metamorfosis.png
+Escultura,HORIZONTES,SALVADOR ARANGO,1985,6.193376,-75.576316,salvadorarango_horizontes.png
+Escultura,FUENTE,CAICEDO Y GOMEZ ARQ.,1988,6.222906,-75.569477,caicedoygomezarquitectos_fuente.png
+Escultura,INSPIRACION N° 2,SALVADOR ARANGO,1979,6.199222,-75.580735,salvadorarango_inspiracion2.png
+Escultura,VICTORIA DE LA JUVENTUD,MIGUEL ANGEL BETANCUR,1980,6.239160,-75.600237,miguelangelbetancur_victoriadelajuventud.png
+Escultura,LAS NAVES,DESCONOCIDO,sin fecha,6.241016,-75.600237,desconocido_lasnaves.png
+Escultura,LOS ESCLAVOS,MIGUEL ANGEL BETANCUR,1979,6.239062,-75.579330,miguelangelbetancur_losesclavos.png
+Escultura,SIGMA DE LA VIDA,HUMBERTO ELIAS VELEZ ESCOBAR,1981,6.259367,-75.587743,humbertoeliasvelezescobar_sigmadelavida.png
+Escultura,SIN TITULO,DESCONOCIDO,sin fecha,6.210954,-75.573710,desconocido_sintitulo.png
+Escultura,CUBO,RONNY VAYDA,1985,6.202877,-75.577487,ronnyvayda_cubo.png
+Escultura,HERMANO CABALLO,RODRIGO ARENAS BETANCOURT,1990,6.189065,-75.581097,rodrigoarenasbetancourt_hermanocaballo.png
+Escultura,HOMENAJE AL LIBERTADOR DE LAS REPUBLICAS BOLIVARIANAS,ALVARO GOMEZ,1988,6.190985,-75.576955,alvarogomez_homenajeallibertadordelasrepublicasbolivarianas.png
+Escultura,Y VIENTO,SALVADOR ARANGO,1988,6.191486,-75.577213,salvadorarango_yviento.png
+Escultura,EL NIÑO DEL GLOBO,JUSTO AROSEMENA,1990,6.191817,-75.579155,justoarosemena_elniñodelglobo.png
+Escultura,FUENTE DE LA PAZ,SALVADOR ARANGO,1979,6.204425,-75.573780,salvadorarango_fuentedelapaz.png
+Escultura,GEMINI,RONNY VAYDA,1991,6.211411,-75.575696,ronnyvayda_gemini.png
+Escultura,FUENTE PROMETEO,BAYRON VASQUEZ,1982,6.254525,-75.584149,bayronvasquez_fuenteprometeo.png
+Escultura,BOCAS,VELILLA,1978,6.252339,-75.580158,velilla_bocas.png
+Escultura,FUENTE,"VIDA S. A., CONSTRUCTORA",1978,6.252605,-75.580165,vidasaconstructora_fuente.png
+Escultura,SIN TITULO,TE ANA,1978,6.243700,-75.580401,teana_sintitulo.png
+Escultura,SIN TITULO,JOHN CASTLES,1984,6.245961,-75.583877,johncastles_sintitulo2.png
+Escultura,EN LA ISLA,MIGUEL ANGEL BETANCUR,1986,6.236843,-75.599826,miguelangelbetancur_enlaisla.png
+Escultura,DAMA DEL ESPEJO,SALVADOR ARANGO,1991,6.229893,-75.596083,salvadorarango_damadelespejo.png
+Escultura,ELEMENTOS,RONNY VAYDA,1985,6.204701,-75.569056,ronnyvayda_elementos.png
+Escultura,SUEÑOS DE MUJER,SALVADOR ARANGO,1986,6.205144,-75.568916,salvadorarango_suenosdemujer.png
+Escultura,NOCHE DE LUNA,JUAN JARAMILLO - ALBERTO RIAÑO,1990,6.204835,-75.568975,juanjaramillo_albertoriano_nochedeluna.png
+Escultura,ASTERISCO,RONNY VAYDA,1987,6.206802,-75.572435,ronnyvayda_asterisco.png
+Escultura,SIN TITULO,EDGAR NEGRET,1978,6.203913,-75.569673,edgarnegret_sintitulo.png
+Escultura,BANDADA DE PALOMAS,ANIBAL GIL,1980,6.206916,-75.572553,anibalgil_bandadadepalomas.png
+Escultura,CACTUS EN FLOR,ANIBAL GIL,1987,6.201700,-75.566605,anibalgil_cactusenflor.png
+Escultura,GNOMON,RONNY VAYDA,1987,6.195496,-75.564300,ronnyvayda_gnomon.png
+Escultura,HEXAEDRO,RONNY VAYDA,1986,6.202974,-75.570574,ronnyvayda_hexaedro.png
+Escultura,SIN TITULO,RONNY VAYDA,1984,6.201353,-75.566599,ronnyvayda_sintitulo.png
+Escultura,SIN TITULO,RONNY VAYDA,1985,6.191681,-75.567392,ronnyvayda_sintitulo1.png
+Escultura,INTERSECCION RECTANGULAR,RONNY VAYDA,1988,6.189399,-75.567282,ronnyvayda_interseccionrectangular.png
+Escultura,CANTOS,ALBERTO URIBE DUQUE,1989,6.193930,-75.570133,albertouribeduque_cantos.png
+Escultura,ECLIPSE,RONNY VAYDA,1991,6.195765,-75.559276,ronnyvayda_eclipse.png
+Escultura,RELOJ SOLAR,OCTAVIO URIBE - GONZALO MEJIA,1986,6.212789,-75.555512,octaviouribe_gonzalomejia_relojdesol.png
+Escultura,TORSO DESNUDO,MIGUEL ANGEL BETANCUR,1992,6.211997,-75.565462,miguelangelbetancur_torsodesnudo.png
+Escultura,ANDROGINIA,PEDRO NEL GOMEZ,1974,6.260512,-75.576915,pedronelgomez_androgina.png
+Escultura,LA LLORONA,PEDRO NEL GOMEZ,1974,6.260539,-75.577000,pedronelgomez_lallorona.png
+Escultura,EL GRITON,PEDRO NEL GOMEZ,1974,6.260496,-75.577049,pedronelgomez_elgriton.png
+Escultura,LA PATA SOLA,PEDRO NEL GOMEZ,1974,6.260448,-75.577006,pedronelgomez_lapatasola.png
+Escultura,LA PATETARRO,PEDRO NEL GOMEZ,1974,6.260411,-75.576957,pedronelgomez_lapatetarro.png
+Escultura,"TIERRA, AGUA, AIRE Y FUEGO",PABLO JARAMILLO,1981,6.255166,-75.577955,pablojaramillo_tierraaguaaireyfuego.png
+Escultura,SIN TITULO, ANN L.H; MARVIN ROSEMBERG,1980,6.255252,-75.577885,annlhmarvinrosemberg_sintitulo.png
+Escultura,CASTING,RONNY VAYDA,1989,6.241898,-75.584669,ronnyvayda_casting.png
+Escultura,ENTREAGUAS,HUGO ZAPATA,1991,6.241352,-75.587484,hugozapata_entreaguas.png
+Escultura,SIN TITULO,PABLO JARAMILLO,1987,6.242259,-75.589619,pablojaramillo_sintitulo.png
+Escultura,LA INDUSTRIA,MIGUEL ANGEL BETANCUR,1976,6.242088,-75.589844,miguelangelbetancur_laindustria.png
+Escultura,RELOJ SOLAR,OCTAVIO URIBE - LUIS G. MEJIA,1987,6.233172,-75.602783,octaviouribe_luismejia_relojsolar.png
+Escultura,PEINE AL VIENTO,EDUARDO RAMIREZ VILLAMIZAR ,1982,6.230783,-75.599291,eduardoramirezvillamizar_peinealviento.png
+Escultura,COLUMNAS,MONICA NEGRET,1983,6.277705,-75.593964,monicanegret_columnas.png
+Escultura,ESTRUCTURA ESPACIAL,ALBERTO URIBE DUQUE,1985,6.204893,-75.560581,albertouribeduque_estructuraespacial.png
+Escultura,SOLIDARIDAD,"MARIA CLEMENCIA ORTEGA M., ",1993,6.261252,-75.584641,mariaclemenciaortecam_solidaridad.png
+Escultura,FRAY LUIS AMIGO,DESCONOCIDO,sin fecha,6.258821,-75.584099,desconocido_frayluisamigo.png
+Escultura,INMACULADA CONCEPCION,DESCONOCIDO,sin fecha,6.262248,-75.564716,desconocido_inmaculadaconcepcion.png
+Escultura,SAN CAYETANO,DESCONOCIDO,sin fecha,6.262494,-75.565081,desconocido_sancayetano.png
+Escultura,ANIMAL MITICO 1,FISKE JW - NY,1923,6.262035,-75.564512,fiskejw_ny_animalmitico1.png
+Escultura,ANIMAL MITICO 2,FISKE JW - NY,1923,6.261928,-75.564576,fiskejw_ny_animalmitico2.png
+Escultura,ANIMAL MITICO 3,FISKE JW - NY,1923,6.261896,-75.564448,fiskejw_ny_animalmitico3.png
+Escultura,ANIMAL MITICO 4,FISKE JW - NY,1923,6.262003,-75.564501,fiskejw_ny_animalmitico4.png
+Escultura,ALEJANDRO ECHAVARRIA I,BERNARDO VIECO,1932,6.262753,-75.566218,bernardovieco_alejandroechabarriaI.png
+Escultura,PLACA FUNDADORES DEL HOSPITAL,autor desconocido,1935,6.262844,-75.566636,autordesconocido_placafundadoresdelhospital.png
+Escultura,FUENTE,FISKE JW - NY,1923,6.262764,-75.566170,fiskejw_ny_fuente.png
+Escultura,ESCUDO DE MEDELLÍN,OCTAVIO MONTOYA,1973,6.269403,-75.565493,octaviomontoya_escudodemedellin.png
+Escultura,JOAQUÍN ANTONIO URIBE,ALONSO RIOS V,1973,6.269403,-75.565021,alonsoriosv_joaquinantoniouribe.png
+Escultura,BAÑISTA,JORGE JANNA,1998,6.270918,-75.562875,jorgehanna_banista.png
+Escultura,MONUMENTO FUENTE,DESCONOCIDO,sin fecha,6.269553,-75.564935,desconocido_monumentofuente.png
+Escultura,SIMÓN BOLIVAR,OCTAVIO MONTOYA,1956,6.266929,-75.569656,octaviomontoya_simonbolivar.png
+Escultura,FERNANDO VELEZ,JAIME CASTRO,1944,6.266993,-75.569602,jaimecastro_fernandovelez.png
+Escultura,MADREMONTE,JOSE HORACIO BETANCUR,1954,6.269755,-75.563626,josehoraciobetancur_madremonte.png
+Escultura,PORFIRIO BARBA JOCOB,ALONSO RIOS V,1983,6.268529,-75.568433,alonsoriosv_porfiriobarbajacob.png
+Escultura,LUIS FERNANDO VÉLEZ V,APC (INICIALES),1987,6.267734,-75.568803,apc_luisfernandovelezv.png
+Escultura,CRISTO PROMETEO,RODRIGO ARENAS BETANCOURT,1968,6.267750,-75.568535,rodrigoarenasbetancourt_cristoprometeo.png
+Escultura,FRANCISCO DE PAULA SANTANDER,BERNARDO VIECO - FRANCISCO - DAVID,1940,6.266566,-75.570353,bernardovieco_francisco_david_franciscodepaulasantander.png
+Escultura,EL HOMBRE CREADOR DE ENERGÍA,RODRIGO ARENAS BETANCOURT,1970,6.267334,-75.569355,rodrigoarenasbetancourt_elhombrecreadordeenergia.png
+Escultura,HACIA EL INFINITO,ALONSO RIOS V,1977,6.253365,-75.562237,alonsoriosv_haciaelinfinito.png
+Escultura,SIN TÍTULO,JOHN CASTLES,1989,6.253007,-75.562430,johncastles_sintitulo3.png
+Escultura,TORRE,GERMÁN BOTERO,1979,6.251626,-75.563251,germanbotero_torre.png
+Escultura,MURO ABRIÉNDOSE,EDUARDO RAMIREZ VILLAMIZAR,1980,6.250507,-75.563859,eduardoramirezvillamizar_muroabriendose.png
+Escultura,LA CREACIÓN,RODRIGO ARENAS BETANCOURT,1983,6.249218,-75.564824,rodrigoarenasbetancourt_lacreacion.png
+Escultura,SERIE INDIGENISTA M1,JORGE MARÍN VIECO,1964,6.247935,-75.566359,jorgemarinvieco_serieindigenistam1.png
+Escultura,SERIE INDIGENISTA M2,JORGE MARÍN VIECO,1964,6.247922,-75.566367,jorgemarinvieco_serieindigenistam2.png
+Escultura,SERIE INDIGENISTA M3,JORGE MARÍN VIECO,1964,6.247911,-75.566365,jorgemarinvieco_serieindigenistam3.png
+Escultura,LARGO VIAJE DESDE EL VIENTRE AL CORAZÓN DEL FUEGO M1,RODRIGO ARENAS BETANCOURT,1966,6.248018,-75.566310,rodrigoarenasbetancourt_largoviajedesdeelvientrealcorazondelfuegom1.png
+Escultura,LARGO VIAJE DESDE EL VIENTRE AL CORAZÓN DEL FUEGO,RODRIGO ARENAS BETANCOURT,1966,6.248043,-75.566295,rodrigoarenasbetancourt_largoviajedesdeelvientrealcorazondelfuego.png
+Escultura,EL HOMBRE Y EL UNIVERSO,ALONSO RIOS V,1980,6.214193,-75.567424,alonsoriosv_elhombreyeluniverso.png
+Escultura,TANGO,SALVADOR ARANGO,1992,6.214662,-75.568712,salvadorarango_tango.png
+Escultura,NAVEGANTE 1,SALVADOR ARANGO,1982,6.209487,-75.567678,salvadorarango_navegante1.png
+Escultura,LAS PALOMAS,ANIBAL GIL,1986,6.210085,-75.565492,anibalgil_laspalomas.png
+Escultura,SIN TÍTULO,RONNY VAYDA,1994,6.212167,-75.565452,ronnyvayda_sintitulo2.png
+Escultura,ESQUINA,PEDRO PABLO LALINDE,1989,6.211364,-75.55599,pedropablolalinde_esquina.png
+Escultura,PIERNAS,JORGE JANNA,1987,6.211289,-75.556083,jorgejanna_piernas.png
+Escultura,REFLEXIÓN CAMBIANTE,HUMBERTO ELÍAS VÉLEZ ESCOBAR,1987,6.204021,-75.555722,humbertoeliasvelezescobar_reflexioncambiante.png
+Escultura,PUNTO DE VISTA SOBRE UN PAISAJE URBANO SOBRE EL VALLE DE ABURRÁ,autor desconocido,sin fecha,6.207083,-75.554881,autordesconocido_puntodevistasobrepaisajeurbano.png
+Escultura,SUEÑOS  ,JUSTO AROSEMENA,1985,6.190518,-75.562001,justoarosemena_suenos.png
+Escultura,ESPEJO DE AGUA Y TRATAMIENTO AMBIENTAL,TALLER DE DISEÑO,1986,6.215202,-75.553567,tallerdesueno_espejodeaguaytratamientoambiental.png
+Escultura,LOS CAMINANTES 1,LUIS FERNANDO PELAEZ,1984,6.183157,-75.565096,luisfernandopelaez_loscaminantes1.png
+Escultura,LOS CAMINANTES 2,LUIS FERNANDO PELAEZ,1984,6.183884,-75.564865,luisfernandopelaez_loscaminantes2.png
+Escultura,PIEL DE FIGURA 3,ABELARDO OSORIO,1991,6.218028,-75.560893,abelardoosorio_pieldefigura3.png
+Escultura,GAMINES ESCALANDO MURO,ALBERTO URIBE DUQUE,1986,6.216259,-75.561902,albertouribeduque_gaminesescalandomuro.png
+Escultura,PESCADOR,JUSTO AROSEMENA,1989,6.209987,-75.559062,justoarosemena_pescador.png
+Escultura,LOS AMIGOS,JUSTO AROSEMENA,1984,6.208877,-75.560336,justoarosemena_losamigos.png
+Escultura,ARCOS,RONNY VAYDA,1992,6.210263,-75.563447,ronnyvayda_arcos.png
+Escultura,EL RETORNO,OSCAR ROJAS,1983,6.209687,-75.558104,oscarrojas_elretorno.png
+Escultura,CAIDA DE AGUA,JUSTO AROSEMENA,1987,6.200621,-75.560636,justoarosemena_caidadeagua.png
+Escultura,SIN TÍTULO ,MAURICIO ARANGO MEJÍA,1986,6.199196,-75.557666,mauricioarangomejia_sintitulo.png
+Escultura,TRES LIMONES,LUIS ALFONSO RAMIREZ,1989,6.201951,-75.564919,luisalfonsoramirez_treslimones.png
+Escultura,SIN TÍTULO,ALONSO RIOS VANEGAS,1987,6.205855,-75.569768,alonsoriosvanegas_sintitulo.png
+Escultura,EL ASIENTO DEL SOL,ALEJO SANTAMARÍA URIBE,1994,6.206687,-75.570369,alejosantamariauribe_elasientodelsol.png
+Escultura,FRANGMENTOS DE LA TIERRA,OLGA SALAZAR,1992,6.205749,-75.560842,olgasalazar_fragmentosdelatierra.png
+Escultura,SIN TÍTULO,JEAN GABRIEL THENOT,1990,6.205226,-75.566528,jeangabrielthenot_sintitulo.png
+Escultura,RESURRECCIÓN (DE PIE A PESAR DE),JEAN GABRIEL THENOT,1991,6.205272,-75.567023,jeangabrielthenot_resurreccion.png
+Escultura,HEXAEDRO ROTANDO,RONNY VAYDA,1987,6.190568,-75.567885,ronnyvayda_hexaedrorotando.png
+Escultura,CUADRICA,RONNY VAYDA,1994,6.183723,-75.570583,ronnyvayda_cuadrica.png
+Escultura,TRES ESQUINAS,ALBERTO URIBE DUQUE,1989,6.181766,-75.567024,albertouribeduque_tresesquinas.png
+Escultura,FIGURAS SEDENTES ,NATALIA RIVERA,1987,6.181221,-75.570389,nataliarivera_figurassedentes.png
+Escultura,SIN TÍTULO,ALBERTO URIBE DUQUE,1984,6.181248,-75.565625,albertouribeduque_sintitulo.png
+Escultura,SIN TÍTULO ,GERMÁN BOTERO,1975,6.181435,-75.571532,germanbotero_sintitulo.png
+Escultura,REJAS ,LUIS FERNANDO PELAEZ,1980,6.182165,-75.575507,luisfernandopelaez_rejas.png
+Escultura,SIN TÍTULO ,HUGO ZAPATA,1989,6.182764,-75.577121,hugozapata_sintitulo.png
+Escultura,INCITACIÓN AL JUEGO,FERNANDO ARROYAVE,1989,6.182908,-75.573698,fernandoarroyave_incitacionaljuego.png
+Escultura,SIN TÍTULO ,CLEMENCIA ECHEVERRI,1987,6.208087,-75.560036,clemenciaecheverri_sintitulo.png
+Escultura,PALOMAS,ANIBAL GIL,1978,6.230047,-75.573029,anibalgil_palomas.png
+Escultura,SIN TÍTULO ,JOHN CASTLES,1973,6.217599,-75.569756,johncastles_sintitulo4.png
+Escultura,ABSIDE,RONNY VAYDA,1993,6.204277,-75.571682,ronnyvayda_abside.png
+Escultura,ALEJANDRÍA,PEDRO PABLO LALINDE,1987,6.200379,-75.571156,pedropablolalinde_alejandria.png
+Escultura,SIN TÍTULO ,RONNY VAYDA,1984,6.201860,-75.567818,ronnyvayda_sintitulo3.png
+Escultura,EL ABRAZO,RODRIGO ARENAS BETANCOURT,1994,6.204745,-75.573054,rodrigoarenasbetancourt_elabrazo.png
+Escultura,ESPACIO AL SOL,CLEMENCIA ECHEVERRI,1994,6.204776,-75.574706,clemenciaecheverri_espacioalsol.png
+Escultura,FUENTE ,JAVIER PELAEZ,1988,6.201295,-75.575426,javierpelaez_fuente.png
+Escultura,SIN TÍTULO ,JAIRO RESTREPO TISNES,1986,6.212764,-75.569787,jairorestrepotisnes_sintitulo.png
+Escultura,SIN TÍTULO ,MAURICIO ARANGO,1984,6.215716,-75.569803,mauricioarango_sintitulo.png
+Escultura,LADRÓN DE GALLINAS,JUSTO AROSEMENA,1985,6.181449,-75.567934,justoarosemena_ladrondegallinas.png
+Escultura,SIN TÍTULO ,HUGO ZAPATA,1990,6.179423,-75.568905,hugozapata_sintitulo2.png
+Escultura,UN LUGAR PARA EL AGUA,ALBERTO URIBE DUQUE ,1992,6.179519,-75.569088,albertouribeduque_unlugarparaelagua.png
+Escultura,SIN TÍTULO ,SALVADOR ARANGO,1990,6.182837,-75.567411,salvadorarango_sintitulo.png
+Escultura,SIN TÍTULO ,RONNY VAYDA,1993,6.183189,-75.568248,ronnyvayda_sintitulo4.png
+Escultura,AGUA (FUENTE),JAIRO RESTREPO T,1990,6.184826,-75.568451,jairorestrepot_agua.png
+Escultura,PÓRTICOS,RONNY VAYDA,1984,6.185850,-75.569717,ronnyvayda_porticos.png
+Escultura,SIN TÍTULO ,ALBERTO URIBE DUQUE,1984,6.184463,-75.571396,albertouribeduque_sintitulo2.png
+Escultura,RELOJ SOLAR,OCTAVIO URIBE - LUIS GONZALO MEJÍA,1988,6.182906,-75.572453,octaviouribe_luisgonzalomejia_relojsolar.png
+Escultura,MARCOS TRIUNFANTES,NELO ROMERO,1995,6.189526,-75.577175,neloromero_marcostriunfantes.png
+Escultura,SIN TÍTULO ,CLEMENCIA ECHEVERRI,1994,6.195614,-75.574749,clemenciaecheverri_sintitulo2.png
+Escultura,FUENTE,DESCONOCIDO,1994,6.195652,-75.574873,desconocido_fuente.png
+Escultura,PATIO ESPAÑOL DERRUIDO (FUENTE),PEDRO PABLO LALINDE,1987,6.196788,-75.576461,pedropablolalinde_patioespanolderruido.png
+Escultura,SIN TÍTULO ,DESCONOCIDO,1980,6.243330,-75.567733,desconocido_sintitulo2.png
+Escultura,PENSADORA,SALVADOR ARANGO,1979,6.192983,-75.577106,salvadorarango_pensadora.png
+Escultura,FUENTE,GUSTAVO GALLEGO,1992,6.191980,-75.577149,gustavogallego_fuente.png
+Escultura,FLAUTISTA,SALVADOR ARANGO,1992,6.190508,-75.577482,salvadorarango_flautista.png
+Escultura,LA NUEVA VIDA,RODRIGO ARENAS BETANCOURT,1984,6.190679,-75.577557,rodrigoarenasbetancourt_lanuevavida.png
+Escultura,RETORNO,SALVADOR ARANGO,1990,6.190604,-75.573254,salvadorarango_retorno.png
+Escultura,FORJADOR DEL FUTURO,ISRAEL ROZO GÓMEZ,1993,6.248965,-75.599205,israelrozogomez_forjadordelfuturo.png
+Escultura,LA LUZ,JUSTO ATROSEMENA,1990,6.179628,-75.562208,justoatrosemena_laluz.png
+Escultura,TEOREMA,RONNY VAYDA,1993,6.189999,-75.577281,ronnyvayda_teorema.png
+Escultura,TIERRA AIRE MAR  (CASCADA MULTICOLOR),HUMBERTO ELÍAS VELEZ,1985,6.188552,-75.576134,humbertoeliasvelez_tierraairemar.png
+Escultura,EL COLUMPIO,JUSTO AROSEMENA,1989,6.198940,-75.572497,justoarosemena_elcolumpio.png
+Escultura,RELOJ SOLAR,OCTAVIO URIBE TORO -  LUIS GONZALO MEJÍA,1985,6.200711,-75.571821,octaviouribetoro_luisgonzalomejia_relojsolar.png
+Escultura,CROQUIS,RONNY VAYDA,1994,6.206588,-75.568978,ronnyvayda_croquis.png
+Escultura,SIN TÍTULO ,JEAN GABRIEL THENOT,Sin fecha,6.228574,-75.577535,jeangabrielthenot_sintitulo2.png
+Escultura,título desconocido,autor desconocido,sin fecha,6.209714,-75.555916,autordesconocido_titulodesconocido.png
+Escultura,ESTADIO CAMPESTRE,DESCONOCIDO,1991,6.239424,-75.585064,desconocido_estadiocampestre.png
+Escultura,JORGE ROBLEDO,DESCONOCIDO,1970,6.275180,-75.595977,desconocido_jorgerobledo.png
+Escultura,LOS INGENIEROS DE LAS MINAS ,PEDRO NEL GÓMEZ,1947,6.274604,-75.590763,pedronelgomez_losingenierosdelasminas.png
+Escultura,LA FAMILIA DE LOS MINEROS,PEDRO NEL GÓMEZ,1947,6.274529,-75.591149,pedronelgomez_lafamiliadelosmineros.png
+Escultura,AL COMPÁS,MARIA VICTORIA GIRON,1991,6.269397,-75.596512,mariavictoriagiron_alcompas.png
+Escultura,MIGUEL ÁNGEL BUILES,DESCONOCIDO,1988,6.267447,-75.597148,desconocido_miguelangelbuiles.png
+Escultura,EL SEMBRADOR,ISRAEL ROZO GÓMEZ,1994,6.248546,-75.603673,israelrozogomez_elsembrador.png
+Escultura,ENCUENTRO,ISRAEL ROZO GÓMEZ,1993,6.249218,-75.603770,israelrozogomez_encuentro.png
+Escultura,LA ENCOMIENDA,FERNANDO ARROYAVE,1993,6.243853,-75.592887,fernandoarroyave_laencomienda.png
+Escultura,MOMENTOS,ISRAEL ROZO GÓMEZ,1994,6.242201,-75.595062,israelrozogomez_momentos.png
+Escultura,PAISAJE MURAL,OLGA LUCÍA SALAZAR,1993,6.242499,-75.594579,olgaluciasalazar_paisajemural.png
+Escultura,ANSIAS DE LIBERTAD,ISRAEL ROZO GÓMEZ,1975,6.240899,-75.594643,israelrozogomez_ansiasdelibertad.png
+Escultura,TORSO FEMENINO,ISRAEL ROZO GÓMEZ,1975,6.241017,-75.594750,israelrozogomez_torsofemenino.png
+Escultura,MUJER PALOMA,ISRAEL ROZO GÓMEZ,1975,6.241134,-75.594868,israelrozogomez_mujerpaloma.png
+Escultura,SIN TÍTULO ,DESCONOCIDO,1893,6.265442,-75.560906,desconocido_sintitulo3.png
+Escultura,MONUMENTO A JORGE ISAACS,MARCO TOBÓN MEJÍA,1952,6.265402,-75.560935,marcotobonmejia_monumentoajorgeisaacs.png
+Escultura,LA PIEDAD,BERNARDO VIECO,1950,6.265346,-75.560978,bernardovieco_lapiedad.png
+Escultura,ÁNGEL DE LA GUARDA,BERNARDO VIECO,1952,6.265338,-75.561040,bernardovieco_angeldelaguarda.png
+Escultura,MAUSOLEO TOMÁS URIBE,DESCONOCIDO,sin fecha,6.265314,-75.561083,desconocido_mausoleotomasuribe.png
+Escultura,EL VIACRUCIS - MAUSOLEO FAMILIA ARANGO,DESCONOCIDO,sin fecha,6.265290,-75.561158,desconocido_elviacrucismausoleofamiliaarango.png
+Escultura,CRUZ DEL CALVARIO - MAUSOLEO JUAN N. URIBE S.,DESCONOCIDO,sin fecha,6.265282,-75.561220,desconocido_cruzdelcalvariomausoleojuannuribes.png
+Escultura,LA SANTÍSIMA TRINIDAD - FAMILIA ESCOBAR ARANGO,DESCONOCIDO,sin fecha,6.265298,-75.561292,desconocido_lasantisimatrinidadfamiliaescobararango.png
+Escultura,LA PIEDAD - FAMILIA RAMÍREZ JOHNS,DESCONOCIDO,sin fecha,6.265336,-75.561354,desconocido_lapiedadfamiliaramirezjohns.png
+Escultura,LAS TRES MARÍAS  - FAMILIA ESTRADA,BERNARDO VIECO,1945,6.265389,-75.561432,bernardovieco_lastresmariasfamiliaestrada.png
+Escultura,MAUSOLEO LUCRECIO VÉLEZ ,E. SALU,1925,6.265464,-75.561477,esalu_mausoleolucreciovelez.png
+Escultura,CRUZ DEL CALVARIO - FAMILIA RESTREPO,DESCONOCIDO,sin fecha,6.265533,-75.561496,desconocido_cruzdelcalvariofamiliarestrepo.png
+Escultura,CRISTO - MAUSOLEO URIBE RESTREPO,DESCONOCIDO,sin fecha,6.265621,-75.561547,desconocido_cristomausoleouriberestrepo.png
+Escultura,MAUSOLEO ALEJANDRO LALINDE,DESCONOCIDO,sin fecha,6.265698,-75.561542,desconocido_mausoleoalejandrolalinde.png
+Escultura,EL ÁNGEL DEL SILENCIO - FAMILIA URIBE,DESCONOCIDO,sin fecha,6.265858,-75.561507,desconocido_elangeldelsilenciofamiliauribe.png
+Escultura,JESÚS CRUCIFICADO - MAUSOLEO CAMILO C. RESTREPO,DESCONOCIDO,sin fecha,6.265936,-75.561442,desconocido_jesuscrucificadomausoleocamilocrestrepo.png
+Escultura,LAS CARIÁTIDES - FAMILIA ECHAVARRÍA ,DESCONOCIDO,sin fecha,6.265989,-75.561351,desconocido_lascariatidesfamiliaechavarria.png
+Escultura,CRUZ DEL CALVARIO  - FAMILIA RESTREPO,DESCONOCIDO,sin fecha,6.266021,-75.561295,desconocido_cruzdelcalvariofamiliarestrepo2.png
+Escultura,LA PIEDAD - MAUSOLEO SALDARRIAGA DUQUE,DESCONOCIDO,sin fecha,6.265944,-75.561193,desconocido_lapiedadmausoleosaldarriagaduque.png
+Escultura,MAUSOLEO ALEJANDRO ÁNGEL,DESCONOCIDO,1931,6.265941,-75.561107,desconocido_mausoleoalejandroangel.png
+Escultura,LA VIRGEN MARÍA - MAUSOLEO GIL J. GIL,DESCONOCIDO,sin fecha,6.265944,-75.561048,desconocido_lavirgenmariamausoleogiljgil.png
+Escultura,GIULIANA SCALABERNI,PEDRO NEL GÓMEZ,1965,6.265922,-75.561005,pedronelgomez_giulianascalaberni.png
+Escultura,JESÚS GÓMEZ GONZÁLEZ ,PEDRO NEL GÓMEZ ,1936,6.265912,-75.560943,pedronelgomez_jesusgomezgonzalez.png
+Escultura,CRISTO PASTOR,CONSTANTINO CARVAJAL,1932,6.265858,-75.560906,constantinocarvajal_cristopastor.png
+Escultura,MONUMENTO A PEDRO JUSTO BERRÍO,MARCO TOBÓN MEJÍA,1927,6.265770,-75.560855,marcotobonmejia_monumentoapedrojustoberrio.png
+Escultura,CRISTO AGONIZANTE,MARCO TOBÓN MEJÍA,1924,6.265682,-75.560874,marcotobonmejia_cristoagonizante.png
+Escultura,LA VIRGEN DEL CARMEN,MARCO TOBÓN MEJÍA,1936,6.265818,-75.561292,marcotobonmejia_lavirgendelcarmen.png
+Escultura,ROSALIA Q. DE CARVAJAL,CONSTANTINO CARVAJAL,1936,6.265792,-75.561145,constantinocarvajal_rosaliaqdecarvajal.png
+Escultura,ÁLVARO CARVAJAL MTZ,CONSTANTINO CARVAJAL,sin fecha,6.265744,-75.561099,constantinocarvajal_alvarocarvajalmtz.png
+Escultura,JESÚS,MARCO TOBÓN MEJÍA,1925,6.265624,-75.561389,marcotobonmejia_jesus.png
+Escultura,MAUSOLEO FAMILIA CARMONA URIBE,DESCONOCIDO,sin fecha,6.265618,-75.561316,desconocido_mausoleofamiliacarmonauribe.png
+Escultura,CRUCIFIJO - MAUSOLEO FAMILIA RESTREPO MESA,DESCONOCIDO,sin fecha,6.265608,-75.561238,desconocido_crucifijomausoleofamiliarestrepomesa.png
+Escultura,MAUSOLEO FAMILIA JUAN PABLO GONZÁLEZ ,DESCONOCIDO,sin fecha,6.265592,-75.561177,desconocido_mausoleofamiliajuanpablogonzalez.png
+Escultura,MAUSOLEO FAMILIA VÁSQUEZ URIBE,DESCONOCIDO,sin fecha,6.265573,-75.561104,desconocido_mausoleofamiliavasquezuribe.png
+Escultura,MAUSOLEO FAMILIA MORENO,DESCONOCIDO,sin fecha,6.265605,-75.561018,desconocido_mausoleofamiliamoreno.png
+Escultura,EL CORAZÓN DE JESÚS,DESCONOCIDO,sin fecha,6.265568,-75.560968,desconocido_elcorazondejesus.png
+Escultura,VIRGEN DEL PERPETUO SOCORRO,RAUL ÁLVAREZ MEJÍA,1996,6.253379,-75.588310,raulalvarezmejia_virgendelperpetuosocorro.png
+Escultura,NUESTRA SEÑORA DEL CARMEN,MARTHA VÉLEZ ,1998,6.257120,-75.614124,marthavelez_nuestrasenoradelcarmen.png
+Escultura,NUESTRA SEÑORA DE LA MACARENA,GABRIEL RIPOLL,1997,6.253003,-75.582882,gabrielripoll_nuestrasenoradelamacarena.png
+Escultura,VIRGEN DE FÁTIMA,RODRIGO ISAZA,1996,6.230001,-75.575657,rodrigoisaza_virgendefatima.png
+Escultura,NUESTRA SEÑORA DE COLOMBIA,FERNANDO BOTERO - LIBARDO RUIZ,1998,6.247279,-75.569713,fernandobotero_libardoruiz_nuestrasenoradecolombia.png
+Escultura,LA VIRGEN DE LA MONTAÑA,MARTHA LUCÍA VÉLEZ,1997,6.249092,-75.575250,marthaluciavelez_lavirgendelamontana.png
+Escultura,NUESTRA SEÑORA DE LA CANDELARIA,EDUARDO TORO,sin fecha,6.250649,-75.568254,eduardotoro_nuestrasenoradelacandelaria.png
+Escultura,LA NIÑA MARÍA,HUMBERTO PÉREZ ,1969,6.185969,-75.585620,humbertoperez_laninamaria.png
+Escultura,VIRGEN DEL BUEN CONSEJO,GABRIEL JAIME PEPE OTÁLVARO,1997,6.193265,-75.582337,gabrieljaimepepeotalvaro_virgendelbuenconsejo.png
+Escultura,NUESTRA SEÑORA DE GUADALUPE,OLGA LUCÍA GUTIÉRREZ ,1997,6.263828,-75.563368,olgaluciagutierrez_nuestrasenoradeguadalupe.png
+Escultura,VIRGEN DE LA ANUNCIACIÓN ,RAFAEL SAENZ - MARCO AURELIO SAENZ,1997,6.269523,-75.565922,rafaelsaenz_marcoaureliosaenz_virgendelaanunciacion.png
+Escultura,LA VIRGEN DE LA MILAGROSA,LIBARDO RUIZ,1996,6.278417,-75.569462,libardoruiz_lavirgendelamilagrosa.png
+Escultura,LA VIRGEN DE LA LECHE,JOSE IGNACIO VÉLEZ ,1999,6.290553,-75.564677,joseignaciovelez_lavirgendelaleche.png
+Escultura,LA VISITACIÓN,LUCÍA SÁNCHEZ,1997,6.300428,-75.558433,luciasanchez_lavisitacion.png
+Escultura,VIRGEN DE CHIQUINQUIRÁ,ROMEL TORO,1996,6.316082,-75.555386,romeltoro_virgendechiquinquira.png
+Escultura,NUESTRA SEÑORA DE LOS DOLORES,CARLOS ACOSTA J,1998,6.258751,-75.597808,carlosacostaj_nuestrasenoradelosdolores.png
+Escultura,VIRGEN DE LA POPA,REPRODUCCIÓN EDUARDO TORO GRAU,1996,6.212229,-75.578067,reproduccioneduardotorograu_virgendelapopa.png
+Escultura,PERGAMINO AL TORO DE LIDIA,MARTÍN ACANTILADO ,1997,6.249611,-75.580652,martinacantilado_pergaminoaltorodelidia.png
+Escultura,AL TORO DE LIDIA,MARTÍN ACANTILADO,1997,6.249756,-75.580613,martinacantilado_altorodelidia.png
+Escultura,DIOS MERCURIO,RODRIGO ARENAS BETANCOURT,1997,6.247305,-75.569682,rodrigoarenasbetancourt_diosmercurio.png
+Escultura,MOTIVO DE UN RODILLO EN CERÁMICA COSTADO NORTE,EDGAR JAIME ISAZA - CESAR VALENCIA,1997,6.250690,-75.568239,edgarjaimeisaza_cesarvalencia_motivodeunrodilloenceramicacostadonorte.png
+Escultura,MOTIVO DE UN RODILLO EN CERÁMICA COSTADO SUR,EDGAR JAIME ISAZA - CESAR VALENCIA,1997,6.250714,-75.568242,edgarjaimeisaza_cesarvalencia_motivodeunrodilloenceramicacostadosur
+Escultura,título desconocido,autor desconocido,1948,6.249848,-75.569304,autordesconocido_titulodesconocido2.png
+Escultura,TROPEL ,ALICIA TAFUR,1969,6.250016,-75.569033,aliciatafur_tropel.png
+Escultura,ATLANTES,autor desconocido,sin fecha,6.250098,-75.566740,autordesconocido_atlantes.png
+Escultura,título desconocido,OCTAVIO MONTOYA,1965,6.272882,-75.588317,octaviomontoya_titulodesconocido.png
+Escultura,RELOJ SOLAR,ANTONIO BERNAL GONZÁLEZ ,1997,6.269603,-75.565932,antoniobernalgonzalez_relojsolar.png
+Escultura,RELIEVE DE AVES,PATRICIA RODRIGUEZ,1997,6.269531,-75.565917,patriciarodriguez_relievedeaves.png
+Escultura,RELIEVE DE MANOS,MEJÍA,1997,6.269517,-75.565915,mejia_relievedemanos.png
+Escultura,EL MAESTRO FORJADOR DE FUTURO,ALONSO RÍOS VANEGAS,1999,6.268973,-75.565987,alonsoriosvanegas_elmaestroforjadordefuturo.png
+Escultura,SEMBRADOR DE ESTRELLAS,ALONSO RÍOS VANEGAS,1994,6.268833,-75.566339,alonsoriosvanegas_sembradordeestrellas.png
+Escultura,MUJER EN LA BARANDA,FERNANDO ARROYAVE,1995,6.239527,-75.598430,fernandoarroyave_mujerenlabaranda.png
+Escultura,SIMÓN BOLIVAR,RODRIGO ARENAS BETANCOURT,sin fecha,6.241382,-75.588486,no hay imagen
+Escultura,JUEGO EN LA RAMPA,FERNANDO ARROYAVE,1994,6.240125,-75.598455,fernandoarroyave_juegoenlarampa.png
+Escultura,LAS MONTAÑAS DE ANTIOQUIA,RODRIGUEZ NEL,sin fecha,6.245557,-75.598177,rodrigueznel_lasmontanasdeantioquia.png
+Escultura,MONSEÑOR FÉLIX HENAO BOTERO,ALONSO GOEZ,1976,6.242442,-75.588789,alonsogoez_monseñorfelixhenaobotero.png
+Escultura,MANUEL JOSÉ SIERRA,CONSTANTINO CARVAJAL,sin fecha,6.241973,-75.589604,constantinocarvajal_manueljosesierra.png
+Escultura,título desconocido,autor desconocido,sin fecha,6.241802,-75.588918,autordesconocido_titulodesconocido3.png
+Escultura,MANGLAR,RICARDO CÁRDENAS,2009,6.227062,-75.575077,ricardocardenas_manglar.png
+Escultura,EL CAMINANTE (POSITIVO Y NEGATIVO),GRUPO UTOPÍA,2009,6.227195,-75.575640,grupoutopia_elcaminante.png
+Escultura,EL PENSADOR,NADÍN OSPINA,2009,6.226666,-75.575353,nadinospina_elpensador.png
+Escultura,MAMÁ CON COCHE,autor desconocido,sin fecha,6.254815,-75.619448,autordesconocido_mamaconcoche.png
+Escultura,SOLMONTANA,HUMBERTO ELÍAS,1991,6.261363,-75.602164,humbertoelias_solmontana.png
+Escultura,título desconocido,autor desconocido,sin fecha,6.212964,-75.569918,autordesconocido_titulodeconocido.png
+Escultura,CARLOS E RESTREPO,autor desconocido,sin fecha,6.248053,-75.560828,autordesconocido_carloserestrepo.png
+Escultura,ÁRBOL,autor desconocido,sin fecha,6.198251,-75.573933,autordesconocido_arbol.png
+Escultura,INDÍGENAS,autor desconocido,sin fecha,6.249852,-75.563228,autordesconocido_indigenas.png
+Escultura,PUJANZA,HUMBERTO ELÍAS,1983,6.250268,-75.564087,humbertoelias_pujanza.png
+Escultura,título desconocido,autor desconocido,sin fecha,6.249766,-75.563089,autordesconocido_titulodesconocido4.png
+Escultura,MARI - LUZ,FANNY FINKELMAN,2004,6.203141,-75.572053,fannyfinkelman_railuz.png
+Escultura,MAR Y POSA,RONNY VAYDA,2004,6.206330,-75.571795,ronnyvayda_maryposa.png
+Escultura,ANCIANO EN SILLA,PEDRO PABLO MURILLO,2002,6.308517,-75.572447,pedropablomurillo_ancianoensilla.png
+Escultura,título desconocido,JUSTO AROZEMENA,sin fecha,6.197490,-75.568419,justoarozamena_titulodesconocido.png
+Escultura,EL PESCADOR,ALONSO RÍOS VANEGAS,1977,6.247141,-75.562358,alonsoriosvanegas_elpescador.png
+Escultura,título desconocido,autor desconocido,sin fecha,6.238375,-75.591797,autordesconocido_titulodesconocido5.png
+Escultura,URBANIZACIÓN SAN SEBASTIÁN,OSCAR ROJAS,sin fecha,6.241110,-75.569687,no hay imagen
+Escultura,título desconocido,autor desconocido,sin fecha,6.249221,-75.561983,autordesconocido_titulodesconocido6.png
+Escultura,título desconocido,autor desconocido,sin fecha,6.251237,-75.563442,autordesconocido_titulodesconocido7.png
+Escultura,SEÑALES PARTICULARES,TULIO RESTREPO,sin fecha,6.255171,-75.577923,tuliorestrepo_senalesparticulares.png
+Escultura,DELIMA MARSH,TULIO RESTREPO,sin fecha,6.255158,-75.577959,tuliorestrepo_delimamarsh.png
+Hallazgo Arqueológico,Cerro El Volador ,,Siglos XV al XVII d.C.,6.267174,-75.581672,
+Hallazgo Arqueológico,Cerro de la Universidad Adventista - Barrio La Castellana ,,Siglos IX al XVI d.C.,6.237841,-75.614226,
+Hallazgo Arqueológico,La Colinita ,,Siglos IX al XVI d.C.,6.200739,-75.592813,
+Hallazgo Arqueológico,,,,,,
