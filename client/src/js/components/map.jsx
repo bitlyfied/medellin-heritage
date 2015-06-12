@@ -9,7 +9,7 @@ var searchFactory = require('../leafletComponents/controlFrame');
 //TODO
 // - Move "magic strings" to constants
 // - Clean up "componentDidMount" funciton
-// - Update map style
+// - DONE - Update map style
 // - Make map full screen then remove style from main.less
 // - Update map logo with Medelling heritage
 
