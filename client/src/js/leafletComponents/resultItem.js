@@ -31,7 +31,7 @@ var resultItem = {
   _createDetailRHC: function () {
     return '<div class="sharing col-xs-6">' + 
       '<div class="row">' +
-        '<div class="col-md-4"><p><i class="fa fa-2x fa-share-alt"></i></p><p><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://patrimoniomedellin.com/" data-text="¡Conoce la ubicación del patrimonio de Medellín!" data-count="none"><i class="fa fa-2x fa-twitter"></i></a></p></div>' +
+        '<div class="col-md-4"><p><i class="fa fa-2x fa-share-alt"></i></p><p><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://patrimoniomedellin.com/" data-text="¡Conoce la ubicación del patrimonio de Medellín!" data-count="none"><i class="fa fa-2x fa-twitter"></i></a><a href="https://www.facebook.com/sharer/sharer.php?u=patrimoniomedellin.com" target="_blank"><i class="fa fa-2x fa-facebook"></i></a></p></div>' +
         '<div class="col-md-4"><p><i class="fa fa-2x fa-google"></i></p><p><a href="https://www.google.com.co/search?q=' + this._options.props.Title + '" target="new">Learn More</a></p></div>' +
         '<div class="col-md-4"><p><i class="fa fa-2x fa-location-arrow"></i></p><p>Directions</p></div>' + 
       '</div>' +
