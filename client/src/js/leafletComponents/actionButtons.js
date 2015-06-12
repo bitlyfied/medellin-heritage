@@ -2,6 +2,11 @@
 
 /* global $ */
 
+//TODO
+//- Handle scenario when no search text...Back to results button doesn't make sense
+//- Spanish-ize text
+//- Need Rick to style
+
 var actions = require('../actions');
 
 var actionButtons = {
@@ -10,14 +15,13 @@ var actionButtons = {
     this._createElem();
   },
 
-  //TODO handle scenario when no search text...Back to results button doesn't make sense
   _createElem: function () {
     this._container.innerHTML = '<div class="row">' +
-      '<div class="col-xs-6">' +
-        '<button type="button" class="btn btn-primary back-to-results">&lt; Back to Results</button>' +
+      '<div class="col-xs-6 c-action-btn">' +
+        '<button type="button" class="btn back-to-results">&lt; Back to Results</button>' +
       '</div>' +
-      '<div class="col-xs-6">' +
-        '<button type="button" class="btn btn-primary new-search">New Search</button>' +
+      '<div class="col-xs-6 c-action-btn">' +
+        '<button type="button" class="btn new-search">New Search</button>' +
       '</div>' +
     '</div>';
 

@@ -1,14 +1,19 @@
 'use strict';
 /* global L */
 
-var _ = require('lodash');
-var search = require('./search');
-var filters = require('./filters');
-var resultList = require('./resultList');
-var mapStore = require('../stores/mapStore');
-var actionButtons = require('./actionButtons');
-// var actions = require('./actions');
+//TODO
+// -isShowingFilters && shouldShowFilters() are bad names
+// -Do we need to handle onRemove? (Clean up event listener)
+// -_refreshResults() smells
 
+var _              = require('lodash');
+var search         = require('./search');
+var filters        = require('./filters');
+var resultList     = require('./resultList');
+var mapStore       = require('../stores/mapStore');
+var actionButtons  = require('./actionButtons');
+var resultSelected = require('./resultSelected');
+var lightbox       = require('./lightbox');
 
 L.Control.ControlFrame = L.Control.extend({
   initialize: function (options) {
@@ -18,19 +23,21 @@ L.Control.ControlFrame = L.Control.extend({
   },
 
   onAdd: function (map) {
-    this._map = map;
-    var container = this._container = this._createContainer();
-    this._createSearchFrame();
-    this._createActionFrame();
-    this._createResultFrame();
+    var container = this._container = this._createContainer(map);
+
+    this._createSearch();
+    this._createAction();
+    this._createLightbox();
+    this._createResults();
+
     this.unsubscribe = mapStore.listen(this._refreshResults.bind(this));
 
     return container;
   },
 
-  _createContainer: function () {
-    var mapContainer = this._map.getContainer();
-    var container    = this._container = L.DomUtil.create('div', 'c-search', mapContainer);
+  _createContainer: function (map) {
+    var mapContainer = map.getContainer();
+    var container    = this._container = L.DomUtil.create('div', 'c-control-frame', mapContainer);
     var stop         = L.DomEvent.stopPropagation;
     
     L.DomEvent
@@ -43,20 +50,24 @@ L.Control.ControlFrame = L.Control.extend({
     return container;
   },
 
-  _createSearchFrame: function () {
-    var searchContainer = L.DomUtil.create('div', '', this._container);
+  _createSearch: function () {
+    var searchContainer = L.DomUtil.create('div', 'c-control-frame__search', this._container);
 
     search.create(searchContainer);
   },
 
-  _createActionFrame: function () {
-    var actionContainer = this._actionContainer = L.DomUtil.create('div', 's-container c-search__filters row', this._container);
+  _createAction: function () {
+    var actionContainer = this._actionContainer = L.DomUtil.create('div', 'c-control-frame__actions row', this._container);
 
     filters.create(actionContainer);
   },
 
-  _createResultFrame: function () {
-    var resultContainer = this._resultContainer = L.DomUtil.create('div', 's-container hide', this._container);
+  _createLightbox: function () {
+    this._lightboxContainer = L.DomUtil.create('div', 'hide c-control-frame__lightbox', this._container);
+  },
+
+  _createResults: function () {
+    var resultContainer = this._resultContainer = L.DomUtil.create('div', 'c-control-frame__results hide', this._container);
 
     resultList.create(resultContainer);
   },
@@ -68,47 +79,29 @@ L.Control.ControlFrame = L.Control.extend({
       L.DomUtil.removeClass(this._resultContainer, 'hide');
     }
 
-    if (mapStore.shouldShowFilters() && !this._isShowingFilters) {
-      // var childElem = this._resultContainer.childNodes[0];
-      // this._resultContainer.removeChild(childElem);
+    if (mapStore.shouldShowFilters()) {
+      if (!this._isShowingFilters) {
+        resultList.create(this._resultContainer);
+        filters.create(this._actionContainer);
+      }
+
+      resultList.update();
       this._isShowingFilters = true;
-      filters.create(this._actionContainer);
-    } else if (!mapStore.shouldShowFilters() && this._isShowingFilters) {
+      L.DomUtil.addClass(this._lightboxContainer, 'hide');
+      
+    } else if (!mapStore.shouldShowFilters()) {
+      if (this._isShowingFilters) {
+        L.DomUtil.removeClass(this._lightboxContainer, 'hide');
+        actionButtons.create(this._actionContainer);
+        lightbox.create(this._lightboxContainer);
+        resultSelected.create(this._resultContainer);
+      }
+
+      lightbox.update();
+      resultSelected.update();
       this._isShowingFilters = false;
-      actionButtons.create(this._actionContainer);
     }
   },
-
-  // _setFilter: function (value, isChecked) {
-  //   this._searchFilters[value] = isChecked;
-  //   this._refreshResults();
-  // },
-
-  // _setSearchText: function (searchText) {
-  //   this._searchText = searchText.toLowerCase();
-  //   this._refreshResults();
-  // },
-
-  // _refreshResults: function () {
-  //   var items = mapStore.getFilteredHeritageItems();
-  //   // var searchText = mapStore.getSearchText();
-
-  //   // var results = _.filter(this.options.items, function (item) {
-  //   //   return this._filterBySearchText(item) && this._filterByFilters(item);
-  //   // }, this);
-
-  //   // if (_.isEmpty(searchText)) {
-  //   //   L.DomUtil.addClass(this._resultContainer, 'hide');
-  //   // } else {
-  //   //   L.DomUtil.removeClass(this._resultContainer, 'hide');
-  //   // }
-
-  //   $('.c-search__results__item').remove();
-
-  //   _.forEach(items, function (result) {
-  //     this._createResult(result);
-  //   }, this);
-  // },
 });
 
 L.control.controlFrame = function (options) {

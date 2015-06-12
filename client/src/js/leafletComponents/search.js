@@ -2,7 +2,7 @@
 
 /* global $ */
 
-var actions = require('../actions');
+var actions  = require('../actions');
 var mapStore = require('../stores/mapStore');
 
 var search = {
@@ -13,8 +13,8 @@ var search = {
   },
 
   _createElem: function () {
-    this._container.innerHTML = '<input class="c-search__search__input />' + 
-      '<i class="fa fa-search fa-lg c-search__search__icon"><i>';
+    this._container.innerHTML = '<input class="c-search__search__input" />' + 
+      '<i class="fa fa-search fa-lg c-search__search__icon"></i>';
     
     var that = this;
     $('.c-search__search__input')[0].onkeyup = function (evt) {

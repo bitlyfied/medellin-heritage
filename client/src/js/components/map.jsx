@@ -1,16 +1,22 @@
 'use strict';
 
-var React    = require('react');
-var MapStore = require('../stores/mapStore');
-var Reflux   = require('reflux');
-var Actions = require('../actions');
-var searchFactory   = require('../leafletComponents/controlFrame');
-var resultFactory = require('../leafletComponents/result');
+var React         = require('react');
+var MapStore      = require('../stores/mapStore');
+var Reflux        = require('reflux');
+var Actions       = require('../actions');
+var searchFactory = require('../leafletComponents/controlFrame');
+
+//TODO
+// - Move "magic strings" to constants
+// - Clean up "componentDidMount" funciton
+// - Update map style
+// - Make map full screen then remove style from main.less
+// - Update map logo with Medelling heritage
 
 var Map = React.createClass({
   componentDidMount: function () {
     var result;
-    var items = MapStore.getHeritageItems();
+    var items = MapStore.getFilteredHeritageItems();
     var filters = MapStore.getHeritageCategories();
     var map = this.map = L.map(this.getDOMNode(), {
       center: [6.174469, -75.584556],
@@ -32,7 +38,7 @@ var Map = React.createClass({
     var statueIcon = new L.Icon({ iconUrl: 'images/icon-statue-25.png'});
     var archsiteIcon = new L.Icon({ iconUrl: 'images/icon-dig-25.png'});
 
-    L.geoJson(items, { onEachFeature: content }).addTo(map);
+    var geoJsonLayer = L.geoJson(items, { onEachFeature: content }).addTo(map);
 
     var zoomCtrl = L.control.zoom({ position: 'bottomleft' });
     zoomCtrl.addTo(map);
@@ -46,7 +52,9 @@ var Map = React.createClass({
     MapStore.listen(onSearch);
 
     function onSearch () {
-      console.log(MapStore.getFilteredHeritageItems());
+      var newItems = MapStore.getFilteredHeritageItems();
+      geoJsonLayer.clearLayers();
+      geoJsonLayer.addData(newItems);
     }
 
     function content (feature, layer) {
@@ -57,12 +65,6 @@ var Map = React.createClass({
 
     function onMarkerClick (evt) {
       var feature = evt.target.feature;
-      // if (result) {
-      //   result.removeFrom(map);
-      // }
-      // result = resultFactory({ feature: feature, position: 'topright' });
-      // result.addTo(map);
-      
       Actions.itemSelect(feature);
     }
   },

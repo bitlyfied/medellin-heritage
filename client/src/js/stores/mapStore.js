@@ -1,15 +1,9 @@
 'use strict';
 
-var Reflux = require('reflux');
-var _      = require('lodash');
-var Actions = require('../actions');
+var Reflux   = require('reflux');
+var _        = require('lodash');
+var Actions  = require('../actions');
 var SeedData = require('../seedData').features;
-
-var _heritageCategories = _.chain(SeedData)
-  .pluck('properties.Type')
-  .uniq()
-  .sortBy()
-  .value();
 
 var MapStore = Reflux.createStore({
   listenables: [Actions],
@@ -20,20 +14,20 @@ var MapStore = Reflux.createStore({
 
   _selectedFeature: null,
 
+  _heritageCategories: [],
+
   init: function () {
+    this._heritageCategories = _.chain(SeedData)
+      .pluck('properties.Type')
+      .uniq()
+      .sortBy()
+      .value();
     this._selectAllFilters();
+    console.log(this._heritageCategories)
   },
 
-  getSearchText: function () {
-    return this._searchText;
-  },
 
-  getFilteredHeritageItems: function () {
-    return _.filter(SeedData, function (item) {
-      return this._filterBySearchText(item) && this._filterByFilters(item);
-    }, this);
-  },
-
+  //EVENT HANDLERS
   onSearch: function (searchText) {
     this._selectedFeature = null;
     this._searchText = searchText.toLowerCase();
@@ -62,43 +56,41 @@ var MapStore = Reflux.createStore({
     this.trigger();
   },
 
-  getHeritageItems: function () {
-    return SeedData;
+  //ACCESSORS
+  getSearchText: function () {
+    return this._searchText;
   },
 
-  getTitles: function () {
-    return _.pluck(SeedData, 'properties.Title');
-  },
-
-  getArtists: function () {
-    return _.chain(SeedData)
-      .pluck('properties.Author')
-      .uniq()
-      .value();
+  getFilteredHeritageItems: function () {
+    return _.filter(SeedData, function (item) {
+      return this._filterBySearchText(item) && this._filterByFilters(item);
+    }, this);
   },
 
   getHeritageCategories: function () {
-    return _heritageCategories;
+    return this._heritageCategories;
   },
 
-  getSelectedHeritageCategories: function () {
-    //HACK For temporary commit
-    return _heritageCategories;
-    // debugger;
-    // return _.where(this._searchFilters, function (a,b,c) {
-    //   console.log(a,b,c);
-    //   debugger;
-    // });
+  getSearchFilters: function () {
+    return this._searchFilters;
   },
 
+  getSelectedFeature: function () {
+    return this._selectedFeature;
+  },
+
+
+  //BUSINESS RULES
   shouldHideResults: function () {
-    return _.isEmpty(this._searchText);
+    return _.isEmpty(this._searchText) && !this._selectedFeature;
   },
 
   shouldShowFilters: function () {
     return !this._selectedFeature;
   },
 
+
+  //PRIVATE
   _filterBySearchText: function (item) {
     var lcTitle = item.properties.Title.toLowerCase();
     var lcAuthor = item.properties.Author.toLowerCase();
@@ -114,7 +106,7 @@ var MapStore = Reflux.createStore({
   },
 
   _selectAllFilters: function () {
-    _.forEach(_heritageCategories, function (filter) {
+    _.forEach(this._heritageCategories, function (filter) {
       this._searchFilters[filter] = true;
     }, this);
   }

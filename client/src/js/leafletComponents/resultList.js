@@ -3,23 +3,21 @@
 /* global $ */
 
 var resultItem = require('./resultItem');
-var mapStore = require('../stores/mapStore');
-var _ = require('lodash');
+var mapStore   = require('../stores/mapStore');
+var _          = require('lodash');
 
 var resultList = {
   create: function (container) {
     this._container = container;
     this._createElem();
-
-    this.unsubscribe = mapStore.listen(this._refreshResults.bind(this));
   },
 
   _createElem: function () {
-    this._container.innerHTML = '<ul class="c-search__results"></ul>';
+    this._container.innerHTML = '<ul class="c-result-list"></ul>';
   },
 
-  _refreshResults: function () {
-    var resultItemContainer = $('.c-search__results').first();
+  update: function () {
+    var resultItemContainer = $('.c-result-list').first();
     var items = mapStore.getFilteredHeritageItems();
 
     resultItemContainer.children().remove();

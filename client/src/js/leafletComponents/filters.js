@@ -2,45 +2,49 @@
 
 /* global $ */
 
-var _ = require('lodash');
-var actions = require('../actions');
+//TODO 
+// -add icons to checkboxes
+// -Make sure first letter of checkbox label capitalized
+// -spanish-ize text
+
+var _        = require('lodash');
+var actions  = require('../actions');
 var mapStore = require('../stores/mapStore');
 
 var filters = {
   create: function (container) {
     this._container = container;
-    this._filters = mapStore.getSelectedHeritageCategories();
+    this._filters = mapStore.getSearchFilters();
     this._createElem();
   },
 
   _createElem: function () {
-    this._container.innerHTML = '<div class="c-search__filters__title col-xs-3">Show:</div>' + 
+    this._container.innerHTML = '<div class="c-filters__title col-xs-3">Show:</div>' + 
       '<div class="col-xs-9">' +
-        '<ul class="c-search__filters__group"></ul>' +
+        '<ul class="c-filters__list"></ul>' +
       '</div>';
 
-    _.forEach(this._filters, function (filter) {
-      this._createFilter(filter);
+    _.forEach(this._filters, function (val, key) {
+      this._createFilter(val, key);
     }, this);
   },
 
-  _createFilter: function (filter) {
-    var filterGroup = $('.c-search__filters__group')[0];
+  _createFilter: function (isChecked, name) {
+    var filterGroup = $('.c-filters__list')[0];
+    var checkedAttr = isChecked ? ' checked' : '';
 
-    var filterHTML = '<li class="c-search__filters__group__item">' +
-      '<div class="checkbox c-search__filters__group__item__wrapper">' + 
+    var filterHTML = '<li class="c-filters__list__item">' +
+      '<div class="checkbox c-filters__list__item__checkbox">' + 
         '<label>' +
-          '<input type="checkbox" class="c-search__filters__group__item__input" value="' + filter + 
-          '" checked="checked">' + filter +
+          '<input type="checkbox" value="' + name + '"' + checkedAttr + '>' + name +
         '</label>' + 
       '</div>' +
     '</li>';
 
     filterGroup.innerHTML += filterHTML;
-    // filterGroup.append(filterHTML);
 
     var that = this;
-    $('.c-search__filters__group__item__input').change(function (evt) {
+    $('.c-filters__list__item__checkbox input').change(function (evt) {
       var value = evt.currentTarget.value;
       var isChecked = evt.currentTarget.checked;
       actions.filter(value, isChecked);
