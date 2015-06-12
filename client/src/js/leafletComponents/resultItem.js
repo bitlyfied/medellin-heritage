@@ -29,10 +29,21 @@ var resultItem = {
   },
 
   _createDetailRHC: function () {
-    return '<div class="col-xs-6">' + 
-      'Share, directions, search' + 
+    return '<div class="sharing col-xs-6">' + 
+      '<div class="row">' +
+        '<div class="col-md-4"><p><i class="fa fa-2x fa-share-alt"></i></p><p>Share</p></div>' +
+        '<div class="col-md-4"><p><i class="fa fa-2x fa-google"></i></p><p>Learn More</p></div>' +
+        '<div class="col-md-4"><p><i class="fa fa-2x fa-location-arrow"></i></p><p>Directions</p></div>' + 
+      '</div>' +
     '</div>';
   }
 };
 
 module.exports = resultItem;
+
+
+// <p></p><p><a href="https://www.google.com.co/search?q=' + feature.properties.Title + '" target="new">Learn More</a></p>
+            
+   
+                // '<p><a href="https://twitter.com/share" class="twitter-share-button" data-text="¡Conoce la ubicación del patrimonio de Medellín!" data-lang="es" data-count="none">Twittear</a>' +
+     

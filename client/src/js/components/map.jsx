@@ -10,7 +10,7 @@ var searchFactory = require('../leafletComponents/controlFrame');
 // - Move "magic strings" to constants
 // - Clean up "componentDidMount" funciton
 // - DONE - Update map style
-// - Make map full screen then remove style from main.less
+// - DONE - Make map full screen then remove style from main.less
 // - Update map logo with Medelling heritage
 
 var Map = React.createClass({
