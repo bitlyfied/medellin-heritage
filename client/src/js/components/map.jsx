@@ -5,6 +5,7 @@ var MapStore      = require('../stores/mapStore');
 var Reflux        = require('reflux');
 var Actions       = require('../actions');
 var searchFactory = require('../leafletComponents/controlFrame');
+var Constants     = require('../constants');
 
 //TODO
 // - Move "magic strings" to constants
@@ -35,8 +36,8 @@ var Map = React.createClass({
       }
     ).addTo(map);
 
-    var statueIcon = new L.Icon({ iconUrl: 'images/icon-statue-25.png'});
-    var archsiteIcon = new L.Icon({ iconUrl: 'images/icon-dig-25.png'});
+    var statueIcon = new L.Icon({ iconUrl: Constants.icons.sculpture });
+    var archsiteIcon = new L.Icon({ iconUrl: Constants.icons.archSite });
 
     var geoJsonLayer = L.geoJson(items, { onEachFeature: content }).addTo(map);
 
