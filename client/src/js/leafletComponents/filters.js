@@ -3,14 +3,15 @@
 /* global $ */
 
 //TODO 
-// -add icons to checkboxes
-// -Make sure first letter of checkbox label capitalized
+// -DONE - add icons to checkboxes
+// -DONE- Make sure first letter of checkbox label capitalized
 // -DONE - spanish-ize text
 
-var _        = require('lodash');
-var actions  = require('../actions');
-var mapStore = require('../stores/mapStore');
+var _            = require('lodash');
+var actions      = require('../actions');
+var mapStore     = require('../stores/mapStore');
 var localization = require('../localization');
+var Constants    = require('../constants');
 
 var filters = {
   create: function (container) {
@@ -31,13 +32,16 @@ var filters = {
   },
 
   _createFilter: function (isChecked, name) {
-    var filterGroup = $('.c-filters__list')[0];
-    var checkedAttr = isChecked ? ' checked' : '';
+    var filterGroup     = $('.c-filters__list')[0];
+    var checkedAttr     = isChecked ? ' checked' : '';
+    var iconImageSrc    = Constants.icons[name];
+    var capitalizedName = _.capitalize(name);
 
     var filterHTML = '<li class="c-filters__list__item">' +
       '<div class="checkbox c-filters__list__item__checkbox">' + 
         '<label>' +
-          '<input type="checkbox" value="' + name + '"' + checkedAttr + '>' + name +
+          '<input class="pull-right" type="checkbox" value="' + capitalizedName + '"' + checkedAttr + '>' + 
+          '<img class="c-filters__list__item__icon" src="' + iconImageSrc + '" />' + name +
         '</label>' + 
       '</div>' +
     '</li>';

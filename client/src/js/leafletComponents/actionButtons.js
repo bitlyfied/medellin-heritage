@@ -3,12 +3,13 @@
 /* global $ */
 
 //TODO
-//- Handle scenario when no search text...Back to results button doesn't make sense
+//- DONE- Handle scenario when no search text...Back to results button doesn't make sense
 //- DONE - Spanish-ize text
-//- Need Rick to style
+//- DONE- Need Rick to style
 
 var actions = require('../actions');
 var localization = require('../localization');
+var mapStore = require('../stores/mapStore');
 
 var actionButtons = {
   create: function (container) {
@@ -17,10 +18,12 @@ var actionButtons = {
   },
 
   _createElem: function () {
+    var backButtonHtml = mapStore.shouldHideBackToResultsBtn() ? '' : '<div class="col-xs-6 c-action-btn">' +
+        '<button type="button" class="btn back-to-results"><i class="fa fa-chevron-left"></i> ' + localization.back + '</button>' +
+      '</div>';
+
     this._container.innerHTML = '<div class="row">' +
-      '<div class="col-xs-6 c-action-btn">' +
-        '<button type="button" class="btn back-to-results">&lt; ' + localization.back + '</button>' +
-      '</div>' +
+      backButtonHtml +
       '<div class="col-xs-6 c-action-btn">' +
         '<button type="button" class="btn new-search">' + localization.newSearch + '</button>' +
       '</div>' +

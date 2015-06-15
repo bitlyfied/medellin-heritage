@@ -23,7 +23,6 @@ var MapStore = Reflux.createStore({
       .sortBy()
       .value();
     this._selectAllFilters();
-    console.log(this._heritageCategories)
   },
 
 
@@ -82,11 +81,15 @@ var MapStore = Reflux.createStore({
 
   //BUSINESS RULES
   shouldHideResults: function () {
-    return _.isEmpty(this._searchText) && !this._selectedFeature;
+    return this._isSearchLongEnough() && !this._selectedFeature;
   },
 
   shouldShowFilters: function () {
     return !this._selectedFeature;
+  },
+
+  shouldHideBackToResultsBtn: function () {
+    return this._isSearchLongEnough();
   },
 
 
@@ -109,6 +112,10 @@ var MapStore = Reflux.createStore({
     _.forEach(this._heritageCategories, function (filter) {
       this._searchFilters[filter] = true;
     }, this);
+  },
+
+  _isSearchLongEnough: function () {
+    return this._searchText.length < 2;
   }
 });
 

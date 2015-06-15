@@ -18,7 +18,7 @@ var resultList = {
 
   update: function () {
     var resultItemContainer = $('.c-result-list').first();
-    var items = mapStore.getFilteredHeritageItems();
+    var items = _.take(mapStore.getFilteredHeritageItems(), 8);
 
     resultItemContainer.children().remove();
 
