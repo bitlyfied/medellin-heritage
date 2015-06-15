@@ -24,7 +24,7 @@ var resultItem = {
 
   _createSearchRHC: function () {
     return '<div class="col-xs-offset-3 col-xs-3">' +
-        '<img src="images/' + this._options.props.image_name + '">' +
+        '<img src="http://cdn.wanderingtrader.com/wp-content/uploads/2011/03/IMG_1971.jpg" class="c-result-item__img">' +
       '</div>';
   },
 
