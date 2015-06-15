@@ -38,8 +38,11 @@ var MapStore = Reflux.createStore({
     this.trigger();
   },
 
-  onItemSelect: function (feature) {
-    this._selectedFeature = feature;
+  onSelectItem: function (id) {
+    this._selectedFeature = _.find(SeedData, function (item) {
+      return item.properties.id === id;
+    });
+
     this.trigger();
   },
 

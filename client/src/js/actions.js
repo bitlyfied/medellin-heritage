@@ -5,7 +5,7 @@ var Reflux = require('reflux');
 var _actions = [
   'search',
   'filter',
-  'itemSelect',
+  'selectItem',
   'backToResults',
   'newSearch'
 ];
