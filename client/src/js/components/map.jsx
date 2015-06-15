@@ -66,7 +66,6 @@ var Map = React.createClass({
 
     function onMarkerClick (evt) {
       var feature = evt.target.feature;
-      console.log(feature);
       Actions.selectItem(feature.properties.id);
     }
   },
