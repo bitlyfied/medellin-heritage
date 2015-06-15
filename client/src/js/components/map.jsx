@@ -19,7 +19,7 @@ var Map = React.createClass({
     var items = MapStore.getFilteredHeritageItems();
     var filters = MapStore.getHeritageCategories();
     var map = this.map = L.map(this.getDOMNode(), {
-      center: [6.174469, -75.584556],
+      center: [6.201000, -75.572138],
       zoom: 15,
       minZoom: 2,
       maxZoom: 18,
