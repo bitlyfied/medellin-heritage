@@ -5,11 +5,12 @@
 //TODO 
 // -add icons to checkboxes
 // -Make sure first letter of checkbox label capitalized
-// -spanish-ize text
+// -DONE - spanish-ize text
 
 var _        = require('lodash');
 var actions  = require('../actions');
 var mapStore = require('../stores/mapStore');
+var localization = require('../localization');
 
 var filters = {
   create: function (container) {
@@ -19,7 +20,7 @@ var filters = {
   },
 
   _createElem: function () {
-    this._container.innerHTML = '<div class="c-filters__title col-xs-3">Show:</div>' + 
+    this._container.innerHTML = '<div class="c-filters__title col-xs-3">' + localization.show + ':</div>' + 
       '<div class="col-xs-9">' +
         '<ul class="c-filters__list"></ul>' +
       '</div>';
