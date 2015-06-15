@@ -4,6 +4,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 1,
         "type": "Escultura",
         "title": "GENERAL FRANCISCO DE PAULA SANTANDER",
         "author": "BERNARDO VIECO",
@@ -21,6 +22,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 2,
         "type": "Escultura",
         "title": "TOMÁS CARRASQUILLA",
         "author": "GUSTAVO LÓPEZ",
@@ -38,6 +40,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 3,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "SERGIO DE CAMARGO",
@@ -55,6 +58,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 4,
         "type": "Escultura",
         "title": "CONSTRUCCIÓN",
         "author": "JOHN CASTLES",
@@ -72,6 +76,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 5,
         "type": "Escultura",
         "title": "CONSTRUCCIÓN",
         "author": "MANUEL FELGUEREZ",
@@ -89,6 +94,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 6,
         "type": "Escultura",
         "title": "TORRE",
         "author": "EDGAR NEGRET",
@@ -106,6 +112,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 7,
         "type": "Escultura",
         "title": "SIGNO ALETETEANDO EL ESPACIO",
         "author": "OTTO HERBERT HAJEK",
@@ -123,6 +130,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 8,
         "type": "Escultura",
         "title": "ESTRUCTURA CROMOVEGETAL",
         "author": "CARLOS CRUZ DIEZ",
@@ -140,6 +148,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 9,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "CARLOS ROJAS",
@@ -157,6 +166,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 10,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "JULIO LE PARC",
@@ -174,6 +184,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 11,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "ALBERTO URIBE DUQUE",
@@ -191,6 +202,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 12,
         "type": "Escultura",
         "title": "CACIQUE NUTIBARA",
         "author": "JOSE HORACIO BETANCUR",
@@ -208,6 +220,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 13,
         "type": "Escultura",
         "title": "GUILLERMO ZULUAGA \"MONTECRISTO\"",
         "author": "LUZ MARIA PIEDRAHITA",
@@ -225,6 +238,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 14,
         "type": "Escultura",
         "title": "\"M\" CROMO INTERFERENCIA",
         "author": "CARLOS CRUZ DIEZ",
@@ -242,6 +256,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 15,
         "type": "Escultura",
         "title": "SIMÓN BOLIVAR",
         "author": "JOSUE GIRALDO",
@@ -259,6 +274,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 16,
         "type": "Escultura",
         "title": "GILBERTO ALZATE AVENDAÑO",
         "author": "GUSTAVO LÓPEZ",
@@ -276,6 +292,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 17,
         "type": "Escultura",
         "title": "MARCO FIDEL SUAREZ",
         "author": "OCTAVIO MONTOYA",
@@ -293,6 +310,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 18,
         "type": "Escultura",
         "title": "ATANASIO GIRARDOT",
         "author": "JOSE HORACIO BETANCUR",
@@ -310,6 +328,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 19,
         "type": "Escultura",
         "title": "LA BACHUE",
         "author": "JOSE HORACIO BETANCUR",
@@ -327,6 +346,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 20,
         "type": "Escultura",
         "title": "BERNARDO HERRERA RESTREPO",
         "author": "ALFONSO GOEZ",
@@ -344,6 +364,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 21,
         "type": "Escultura",
         "title": "MISTER JAMES TYLER MOORE",
         "author": "GUSTAVO LÓPEZ",
@@ -361,6 +382,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 22,
         "type": "Escultura",
         "title": "MANUEL URIBE ÁNGEL",
         "author": "JAIRO CANO ECHANDÍA",
@@ -378,6 +400,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 23,
         "type": "Escultura",
         "title": "PEDRO JUSTO BERRÍO",
         "author": "OCTAVIO MONTOYA",
@@ -395,6 +418,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 24,
         "type": "Escultura",
         "title": "JOSE MARÍA MARTINEZ PARDO",
         "author": "GUSTAVO LÓPEZ",
@@ -412,6 +436,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 25,
         "type": "Escultura",
         "title": "MARIANO OSPINA RODRIGUEZ",
         "author": "JAIRO CANO ECHANDÍA",
@@ -429,6 +454,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 26,
         "type": "Escultura",
         "title": "JUAN DE LA CRUZ GOMEZ PLATA",
         "author": "JAIRO CANO ECHANDÍA",
@@ -446,6 +472,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 27,
         "type": "Escultura",
         "title": "JOSE FELIX DE RESTREPO",
         "author": "OCTAVIO MONTOYA",
@@ -463,6 +490,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28,
         "type": "Escultura",
         "title": "JOSE MANUEL RESTREPO",
         "author": "JAIRO CANO ECHANDÍA",
@@ -480,6 +508,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 29,
         "type": "Escultura",
         "title": "JUAN DEL CORRAL",
         "author": "BERNARDO VIECO",
@@ -497,6 +526,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 30,
         "type": "Escultura",
         "title": "JUAN ANTONIO MON Y VELARDE",
         "author": "OCTAVIO MONTOYA",
@@ -514,6 +544,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 31,
         "type": "Escultura",
         "title": "GASPAR DE RODAS",
         "author": "JAIRO CANO ECHANDÍA",
@@ -531,6 +562,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 32,
         "type": "Escultura",
         "title": "JORGE ROBLEDO",
         "author": "CONSTANTINO CARVAJAL",
@@ -548,6 +580,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 33,
         "type": "Escultura",
         "title": "ANTONIO NARIÑO",
         "author": "ALFONSO GOEZ",
@@ -565,6 +598,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 34,
         "type": "Escultura",
         "title": "CARLOS GARDEL",
         "author": "ALFONSO GOEZ",
@@ -582,6 +616,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 35,
         "type": "Escultura",
         "title": "JORGE ELIÉCER GAITÁN AYALA",
         "author": "R. PATIÑO P.",
@@ -599,6 +634,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 36,
         "type": "Escultura",
         "title": "CARLOS VÁSQUEZ LA TORRE",
         "author": "ALFONSO GOEZ",
@@ -616,6 +652,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 37,
         "type": "Escultura",
         "title": "MONUMENTO A EL OBRERO",
         "author": "BERNARDO VIECO",
@@ -633,6 +670,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 38,
         "type": "Escultura",
         "title": "A LA FAMILIA",
         "author": "CESAR VILLA VILLA",
@@ -650,6 +688,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 39,
         "type": "Escultura",
         "title": "MONUM CONMEMORATIVO CENTENARIO DE LA U DE A",
         "author": "JOSE MARÍA AGUDELO",
@@ -667,6 +706,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 40,
         "type": "Escultura",
         "title": "MARCELIANO VÉLEZ",
         "author": "FRANCISCO ANTONIO CANO",
@@ -684,6 +724,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 41,
         "type": "Escultura",
         "title": "GENERAL JOSE MARÍA CÓRDOBA",
         "author": "MARCO TOBÓN MEJÍA",
@@ -701,6 +742,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 42,
         "type": "Escultura",
         "title": "CARLOS CASTRO SAAVEDRA",
         "author": "OSCAR ROJAS",
@@ -718,6 +760,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 43,
         "type": "Escultura",
         "title": "MANUEL DEL SOCORRO RODRÍGUEZ",
         "author": "DESCONOCIDO",
@@ -735,6 +778,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 44,
         "type": "Escultura",
         "title": "SAN JUAN BOSCO",
         "author": "DESCONOCIDO",
@@ -752,6 +796,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 45,
         "type": "Escultura",
         "title": "FUENTE PILA JARDINERA",
         "author": "DESCONOCIDO",
@@ -769,6 +814,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 46,
         "type": "Escultura",
         "title": "JUAN ANTONIO MON Y VELARDE",
         "author": "OCTAVIO MONTOYA",
@@ -786,6 +832,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 47,
         "type": "Escultura",
         "title": "TOMÁS CIPRIANO DE MOSQUERA",
         "author": "PIETRO TENERARI",
@@ -803,6 +850,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 48,
         "type": "Escultura",
         "title": "ARZOBISPO MANUEL JOSÉ CAICEDO ",
         "author": "PIETRO TENERARI",
@@ -820,6 +868,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 49,
         "type": "Escultura",
         "title": "FIDEL CANO",
         "author": "FRANCISCO CANO",
@@ -837,6 +886,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 50,
         "type": "Escultura",
         "title": "PLACA MISTER JAMES TYRREL MOORE",
         "author": "JOSE MARÍN VIECO",
@@ -854,6 +904,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 51,
         "type": "Escultura",
         "title": "GENERAL FRANCISCO ANTONIO ZEA",
         "author": "MARCO TOBÓN MEJÍA",
@@ -871,6 +922,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 52,
         "type": "Escultura",
         "title": "ATANASIO GIRARDOT",
         "author": "FRANCISCO ANTONIO CANO",
@@ -888,6 +940,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 53,
         "type": "Escultura",
         "title": "FUENTE PLAZA VERACRUZ",
         "author": "DESCONOCIDO",
@@ -905,6 +958,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 54,
         "type": "Escultura",
         "title": "RAFAEL URIBE URIBE",
         "author": "MARCO TOBÓN MEJÍA",
@@ -922,6 +976,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 55,
         "type": "Escultura",
         "title": "FUENTE PILETA",
         "author": "FRANCISCO ANTONIO CANO",
@@ -939,6 +994,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 56,
         "type": "Escultura",
         "title": "JORGE ELIÉCER GAITÁN",
         "author": "OSCAR ROJAS",
@@ -956,6 +1012,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 57,
         "type": "Escultura",
         "title": "JOSÉ DE SAN MARTÍN",
         "author": "ORALANDO S. TAGNATO",
@@ -973,6 +1030,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 58,
         "type": "Escultura",
         "title": "SIMÓN BOLIVAR",
         "author": "EUGENIO MACCAGNANI",
@@ -990,6 +1048,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 59,
         "type": "Escultura",
         "title": "JORGE ROBLEDO",
         "author": "OCTAVIO MONTOYA",
@@ -1007,6 +1066,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 60,
         "type": "Escultura",
         "title": "RAYUELA",
         "author": "GRUPO UTOPÍA",
@@ -1024,6 +1084,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 61,
         "type": "Escultura",
         "title": "VENUS DURMIENTE",
         "author": "FERNANDO BOTERO",
@@ -1041,6 +1102,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 62,
         "type": "Escultura",
         "title": "PÁJARO ",
         "author": "FERNANDO BOTERO",
@@ -1058,6 +1120,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 63,
         "type": "Escultura",
         "title": "TORSO MASCULINO",
         "author": "FERNANDO BOTERO",
@@ -1075,6 +1138,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 64,
         "type": "Escultura",
         "title": "PUERTA DE SAN ANTONIO",
         "author": "RONNY VAYDA",
@@ -1092,6 +1156,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 65,
         "type": "Escultura",
         "title": "PEDRO JUSTO BERRÍO",
         "author": "GIOVANNI ANDERLINI",
@@ -1109,6 +1174,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 66,
         "type": "Escultura",
         "title": "FERNANDO GOMEZ MARTÍNEZ",
         "author": "LUZ MARIA PIEDRAHITA",
@@ -1126,6 +1192,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 67,
         "type": "Escultura",
         "title": "EL CACIQUE NUTIBARA",
         "author": "PEDRO NEL GOMEZ",
@@ -1143,6 +1210,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 68,
         "type": "Escultura",
         "title": "PEDRO JOSÉ BERRÍO ",
         "author": "DESCONOCIDO",
@@ -1160,6 +1228,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 69,
         "type": "Escultura",
         "title": "EL ÁRBOL DE LA VIDA",
         "author": "FANOR HERNÁNDEZ ORDOÑEZ",
@@ -1177,6 +1246,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 70,
         "type": "Escultura",
         "title": "EL ÁRBOL DE LA VIDA",
         "author": "JOSÉ AUGUSTO RIVERA CASTRO",
@@ -1194,6 +1264,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 71,
         "type": "Escultura",
         "title": "MONUMENTO AL SALVADOR",
         "author": "SIGMONE Y CIA DE PED BURAGLIA",
@@ -1211,6 +1282,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 72,
         "type": "Escultura",
         "title": "MONUMENTO A LA RAZA",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -1228,6 +1300,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 73,
         "type": "Escultura",
         "title": "FRANCISCO JAVIER CISNEROS",
         "author": "MARCO TOBÓN MEJÍA",
@@ -1245,6 +1318,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 74,
         "type": "Escultura",
         "title": "PERENNIDAD",
         "author": "GUILLERMO VILLEGAS MEJÍA",
@@ -1262,6 +1336,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 75,
         "type": "Escultura",
         "title": "LA PODA",
         "author": "BERNARDO SALCEDO",
@@ -1279,6 +1354,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 76,
         "type": "Escultura",
         "title": "HORIZONTES",
         "author": "JOHN CASTLES",
@@ -1296,6 +1372,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 77,
         "type": "Escultura",
         "title": "SIGNO PARA MEDELLÍN",
         "author": "OTTO HERBERT HAJEK",
@@ -1313,6 +1390,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 78,
         "type": "Escultura",
         "title": "VENUS FRAGMENTÁNDOSE CON PLATANILLOS",
         "author": "MARTA MINUJIN",
@@ -1330,6 +1408,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 79,
         "type": "Escultura",
         "title": "FORMAS",
         "author": "FRANCISCO MATTO",
@@ -1347,6 +1426,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 80,
         "type": "Escultura",
         "title": "AGORA ",
         "author": "RONNY VAYDA",
@@ -1364,6 +1444,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 81,
         "type": "Escultura",
         "title": "EL MECÁNICO",
         "author": "JUSTO AROSEMENA",
@@ -1381,6 +1462,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 82,
         "type": "Escultura",
         "title": "TRAMPOLÍN 1 Y 2",
         "author": "SALVADOR ARANGO",
@@ -1398,6 +1480,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 83,
         "type": "Escultura",
         "title": "DOCTOR LEÓN ARANGO PAUCAL",
         "author": "JORGE VÉLEZ CORREA",
@@ -1415,6 +1498,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 84,
         "type": "Escultura",
         "title": "OFRENDA DE PAZ",
         "author": "LUCY CORREA",
@@ -1432,6 +1516,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 85,
         "type": "Escultura",
         "title": "EL ALADINO",
         "author": "GAVI GAVIRIA CRISTOBAL ",
@@ -1449,6 +1534,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 86,
         "type": "Escultura",
         "title": "EL GENIO",
         "author": "GAVI GAVIRIA CRISTOBAL ",
@@ -1466,6 +1552,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 87,
         "type": "Escultura",
         "title": "HOMENAJE A CARLOS GARDEL",
         "author": "SALVADOR ARANGO",
@@ -1483,6 +1570,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 88,
         "type": "Escultura",
         "title": "TALENTOS EN LIBERTAD",
         "author": "LUZ MARIA PIEDRAHITA",
@@ -1500,6 +1588,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 89,
         "type": "Escultura",
         "title": "JORGE ELIECER GAITÁN AYALA ",
         "author": "RODOLFO MONTOYA",
@@ -1517,6 +1606,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 90,
         "type": "Escultura",
         "title": "LA IGUALDAD - EL VOTO FEMENINO",
         "author": "OLGA INÉS ARANGO",
@@ -1534,6 +1624,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 91,
         "type": "Escultura",
         "title": "MARÍA CANO",
         "author": "JORGE VÉLEZ CORREA",
@@ -1551,6 +1642,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 92,
         "type": "Escultura",
         "title": "BENEDIKTA ZUR NIEDEN DE ECHAVARRÍA",
         "author": "LUZ MARIA PIEDRAHITA",
@@ -1568,6 +1660,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 93,
         "type": "Escultura",
         "title": "CACICA DABEIBA",
         "author": "PAULA ANDREA ÚSUGA JIMENEZ",
@@ -1585,6 +1678,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 94,
         "type": "Escultura",
         "title": "CACICA AGRAZABA",
         "author": "MARTHA ISABEL ARROYABE RUIZ",
@@ -1602,6 +1696,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 95,
         "type": "Escultura",
         "title": "MARIA CENTENO",
         "author": "GLORIA LONDOÑO ARANGO",
@@ -1619,6 +1714,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 96,
         "type": "Escultura",
         "title": "SIMONA DUQUE",
         "author": "MARIA RAQUEL SIERRA VARELA",
@@ -1636,6 +1732,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 97,
         "type": "Escultura",
         "title": "MADRE LAURA",
         "author": "CARLOS MARIO VÉLEZ",
@@ -1653,6 +1750,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 98,
         "type": "Escultura",
         "title": "JESUSITA VALLEJO DE MORA VÁSQUEZ",
         "author": "GLORIA LONDOÑO ARANGO",
@@ -1670,6 +1768,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 99,
         "type": "Escultura",
         "title": "MARÍA MARTINEZ DE NISSER",
         "author": "MARIA RAQUEL SIERRA VARELA",
@@ -1687,6 +1786,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 100,
         "type": "Escultura",
         "title": "BLANCA ISAZA JARAMILLO MEZA",
         "author": "JANETH REYES RIVERA",
@@ -1704,6 +1804,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 101,
         "type": "Escultura",
         "title": "DEBORA ARANGO PEREZ",
         "author": "JANETH REYES RIVERA",
@@ -1721,6 +1822,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 102,
         "type": "Escultura",
         "title": "LUZ CASTRO DE GUTIERREZ",
         "author": "LUZ MARIA PIEDRAHITA",
@@ -1738,6 +1840,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 103,
         "type": "Escultura",
         "title": "LUZMILA ACOSTA DE OCHOA",
         "author": "MARTHA CECILIA PEREZ LOZANO",
@@ -1755,6 +1858,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 104,
         "type": "Escultura",
         "title": "ROSITA TURIZO DE TRUJILLO",
         "author": "OLGA INÉS ARANGO",
@@ -1772,6 +1876,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 105,
         "type": "Escultura",
         "title": "EL DEPORTE",
         "author": "FANOR HERNÁNDEZ ORDOÑEZ",
@@ -1789,6 +1894,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 106,
         "type": "Escultura",
         "title": "EL CARRETILLERO",
         "author": "JANETH REYES RIVERA",
@@ -1806,6 +1912,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 107,
         "type": "Escultura",
         "title": "GUILLERMO CANO",
         "author": "autor desconocido",
@@ -1823,6 +1930,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 108,
         "type": "Escultura",
         "title": "CRISTO PROMETEO",
         "author": "RODRIGO ARENAS BETANCUR",
@@ -1840,6 +1948,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 109,
         "type": "Escultura",
         "title": "HOMENAJE AL ARRIERO",
         "author": "GABRIEL JAIME VÉLEZ",
@@ -1857,6 +1966,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 110,
         "type": "Escultura",
         "title": "EL GATO",
         "author": "FERNANDO BOTERO",
@@ -1874,6 +1984,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 111,
         "type": "Escultura",
         "title": "LOS NIÑOS DE VILLATINA",
         "author": "EDGAR GAMBOA VELÁSQUEZ",
@@ -1891,6 +2002,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 112,
         "type": "Escultura",
         "title": "HOMENAJE AL SILLETERO",
         "author": "LUZ MARIA PIEDRAHITA",
@@ -1908,6 +2020,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 113,
         "type": "Escultura",
         "title": "PÁJARO 2",
         "author": "RUBEN",
@@ -1925,6 +2038,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 114,
         "type": "Escultura",
         "title": "PÁJARO 1",
         "author": "RUBEN",
@@ -1942,6 +2056,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 115,
         "type": "Escultura",
         "title": "LA PRIMAVERA",
         "author": "LUZ MARIA PIEDRAHITA",
@@ -1959,6 +2074,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 116,
         "type": "Escultura",
         "title": "PALOMAS",
         "author": "ANÓNIMO",
@@ -1976,6 +2092,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 117,
         "type": "Escultura",
         "title": "SANTA ELENA DE ARVÍ",
         "author": "JUAN CARLOS VELÁSQUEZ RUA",
@@ -1993,6 +2110,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 118,
         "type": "Escultura",
         "title": "CHASERA",
         "author": "OLGA INÉS ARANGO P",
@@ -2010,6 +2128,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 119,
         "type": "Escultura",
         "title": "EL LOTERO",
         "author": "OLGA INÉS ARANGO P",
@@ -2027,6 +2146,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 120,
         "type": "Escultura",
         "title": "EL LUSTRABOTAS",
         "author": "OLGA INÉS ARANGO P",
@@ -2044,6 +2164,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 121,
         "type": "Escultura",
         "title": "VENDEDOR DE PRENSA",
         "author": "OLGA INÉS ARANGO P",
@@ -2061,6 +2182,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 122,
         "type": "Escultura",
         "title": "TORNAMESA",
         "author": "RONNY VAYDA",
@@ -2078,6 +2200,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 123,
         "type": "Escultura",
         "title": "RENACER",
         "author": "SALVADOR ARANGO",
@@ -2095,6 +2218,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 124,
         "type": "Escultura",
         "title": "RÉPLICA LOCOMOTORA",
         "author": "autor desconocido",
@@ -2112,6 +2236,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 125,
         "type": "Escultura",
         "title": "BUSTO GUILLERMO GAVIRIA",
         "author": "autor desconocido",
@@ -2129,6 +2254,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 126,
         "type": "Escultura",
         "title": "BUSTO GILBERTO ECHERRY",
         "author": "autor desconocido",
@@ -2146,6 +2272,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 127,
         "type": "Escultura",
         "title": "EL HINCHA",
         "author": "DESCONOCIDO",
@@ -2163,6 +2290,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 128,
         "type": "Escultura",
         "title": "FANTASMAS DE MEDELLÍN",
         "author": "GERMÁN LONDOÑO",
@@ -2180,6 +2308,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 129,
         "type": "Escultura",
         "title": "CRISTO ",
         "author": "JOSUE GIRALDO",
@@ -2197,6 +2326,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 130,
         "type": "Escultura",
         "title": "SIMÓN BOLIVAR",
         "author": "ANÓNIMO",
@@ -2214,6 +2344,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 131,
         "type": "Escultura",
         "title": "EL DESAFÍO DE LA RAZA ",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -2231,6 +2362,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 132,
         "type": "Escultura",
         "title": "MONUMENTO A LA PAZ",
         "author": "PABLO ECHAVARRÍA - CLARA LÓPEZ",
@@ -2248,6 +2380,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 133,
         "type": "Escultura",
         "title": "BENITO JUAREZ",
         "author": "DESCONOCIDO",
@@ -2265,6 +2398,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 134,
         "type": "Escultura",
         "title": "JUAN DEL CORRAL ",
         "author": "VIECO",
@@ -2282,6 +2416,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 135,
         "type": "Escultura",
         "title": "TORRE ROJA",
         "author": "AUGUSTO RAMÍREZ VILLAMIZAR",
@@ -2299,6 +2434,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 136,
         "type": "Escultura",
         "title": "EL SILLETERO",
         "author": "autor desconocido",
@@ -2316,6 +2452,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 137,
         "type": "Escultura",
         "title": "HOMENAJE AL TANGO",
         "author": "autor desconocido",
@@ -2333,6 +2470,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 138,
         "type": "Escultura",
         "title": "PLOMADA",
         "author": "autor desconocido",
@@ -2350,6 +2488,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 139,
         "type": "Escultura",
         "title": "TORSO FEMENINO",
         "author": "FERNANDO BOTERO",
@@ -2367,6 +2506,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 140,
         "type": "Escultura",
         "title": "ADÁN",
         "author": "FERNANDO BOTERO",
@@ -2384,6 +2524,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 141,
         "type": "Escultura",
         "title": "CABALLO",
         "author": "FERNANDO BOTERO",
@@ -2401,6 +2542,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 142,
         "type": "Escultura",
         "title": "CABALLO CON BRIDAS",
         "author": "FERNANDO BOTERO",
@@ -2418,6 +2560,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 143,
         "type": "Escultura",
         "title": "CABEZA",
         "author": "FERNANDO BOTERO",
@@ -2435,6 +2578,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 144,
         "type": "Escultura",
         "title": "ESFINGE",
         "author": "FERNANDO BOTERO",
@@ -2452,6 +2596,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 145,
         "type": "Escultura",
         "title": "EVA",
         "author": "FERNANDO BOTERO",
@@ -2469,6 +2614,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 146,
         "type": "Escultura",
         "title": "GATO",
         "author": "FERNANDO BOTERO",
@@ -2486,6 +2632,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 147,
         "type": "Escultura",
         "title": "HOMBRE A CABALLO",
         "author": "FERNANDO BOTERO",
@@ -2503,6 +2650,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 148,
         "type": "Escultura",
         "title": "HOMBRE CAMINANTE",
         "author": "FERNANDO BOTERO",
@@ -2520,6 +2668,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 149,
         "type": "Escultura",
         "title": "HOMBRE VESTIDO",
         "author": "FERNANDO BOTERO",
@@ -2537,6 +2686,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 150,
         "type": "Escultura",
         "title": "MANO ",
         "author": "FERNANDO BOTERO",
@@ -2554,6 +2704,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 151,
         "type": "Escultura",
         "title": "MATERNIDAD",
         "author": "FERNANDO BOTERO",
@@ -2571,6 +2722,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 152,
         "type": "Escultura",
         "title": "MUJER",
         "author": "FERNANDO BOTERO",
@@ -2588,6 +2740,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 153,
         "type": "Escultura",
         "title": "MUJER CON ESPEJO",
         "author": "FERNANDO BOTERO",
@@ -2605,6 +2758,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 154,
         "type": "Escultura",
         "title": "MUJER CON FRUTA",
         "author": "FERNANDO BOTERO",
@@ -2622,6 +2776,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 155,
         "type": "Escultura",
         "title": "MUJER RECLINADA",
         "author": "FERNANDO BOTERO",
@@ -2639,6 +2794,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 156,
         "type": "Escultura",
         "title": "MUJER SENTADA",
         "author": "FERNANDO BOTERO",
@@ -2656,6 +2812,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 157,
         "type": "Escultura",
         "title": "MUJER VESTIDA",
         "author": "FERNANDO BOTERO",
@@ -2673,6 +2830,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 158,
         "type": "Escultura",
         "title": "VENUS DORMIDA",
         "author": "FERNANDO BOTERO",
@@ -2690,6 +2848,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 159,
         "type": "Escultura",
         "title": "PENSAMIENTO",
         "author": "FERNANDO BOTERO",
@@ -2707,6 +2866,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 160,
         "type": "Escultura",
         "title": "PERRO",
         "author": "FERNANDO BOTERO",
@@ -2724,6 +2884,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 161,
         "type": "Escultura",
         "title": "RAPTO DE EUROPA",
         "author": "FERNANDO BOTERO",
@@ -2741,6 +2902,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 162,
         "type": "Escultura",
         "title": "SOLDADO ROMANO",
         "author": "FERNANDO BOTERO",
@@ -2758,6 +2920,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 163,
         "type": "Escultura",
         "title": "GLORIETA MINORISTA",
         "author": "autor desconocido",
@@ -2775,6 +2938,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 164,
         "type": "Escultura",
         "title": "SIGNO HOMENAJE",
         "author": "MANUEL HERNANDEZ",
@@ -2792,6 +2956,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 165,
         "type": "Escultura",
         "title": "ANDRÉS ESCOBAR",
         "author": "ALEJANDRO HERNANDEZ",
@@ -2809,6 +2974,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 166,
         "type": "Escultura",
         "title": "LUIS URIBE BUENO",
         "author": "DIEGO CANO",
@@ -2826,6 +2992,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 167,
         "type": "Escultura",
         "title": "JOSE MARÍA MARQUEZ BRAVO",
         "author": "JANETH REYES",
@@ -2843,6 +3010,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 168,
         "type": "Escultura",
         "title": "EL FLAUTISTA Y LA BAILARINA",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -2860,6 +3028,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 169,
         "type": "Escultura",
         "title": "HOMENAJE A GUILLERMO Y GILBERTO",
         "author": "SALVADOR ARANGO",
@@ -2877,6 +3046,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 170,
         "type": "Escultura",
         "title": "HOMENAJE AL PRIMER POBLADO",
         "author": "LUZ MARÍA PIEDRAHITA",
@@ -2894,6 +3064,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 171,
         "type": "Escultura",
         "title": "ANTONIO ROLDAN BETANCUR",
         "author": "SERGIO ARISTIZABAL CASTAÑO",
@@ -2911,6 +3082,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 172,
         "type": "Escultura",
         "title": "EL ARRIERO",
         "author": "OSCAR ROJAS",
@@ -2928,6 +3100,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 173,
         "type": "Escultura",
         "title": "ORESTE SINDICI",
         "author": "AMAYA - J PEDRO - OTROS",
@@ -2945,6 +3118,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 174,
         "type": "Escultura",
         "title": "ÁRBOL DE LA VIDA",
         "author": "LEOBARDO PÉREZ JIMÉNEZ",
@@ -2962,6 +3136,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 175,
         "type": "Escultura",
         "title": "FUENTE PARQUE SAN ANTONIO",
         "author": "LEOBARDO PÉREZ JIMÉNEZ",
@@ -2979,6 +3154,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 176,
         "type": "Escultura",
         "title": "BUSTO ANDRÉS ESCOBAR",
         "author": "CM VÉLEZ",
@@ -2996,6 +3172,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 177,
         "type": "Escultura",
         "title": "BUSTO GUSTAVO ROJAS PINILLA",
         "author": "CM VÉLEZ",
@@ -3013,6 +3190,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 178,
         "type": "Escultura",
         "title": "LA MEDICINA Y LA SALUD",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -3030,6 +3208,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 179,
         "type": "Escultura",
         "title": "HOMENAJE A GIORDANO BRUNO",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -3047,6 +3226,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 180,
         "type": "Escultura",
         "title": "LA FLAUTISTA EN MEDIA LUNA",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -3064,6 +3244,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 181,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "JOHN CASTLES",
@@ -3081,6 +3262,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 182,
         "type": "Escultura",
         "title": "ACOPLES (Serie Los Amantes)",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -3098,6 +3280,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 183,
         "type": "Escultura",
         "title": "ESTELAS",
         "author": "HUGO ZAPATA",
@@ -3115,6 +3298,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 184,
         "type": "Escultura",
         "title": "FUENTE DE LA VIDA",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -3132,6 +3316,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 185,
         "type": "Escultura",
         "title": "EL AMOR",
         "author": "SALVADOR ARANGO",
@@ -3149,6 +3334,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 186,
         "type": "Escultura",
         "title": "VANOS",
         "author": "JOHN CASTLES",
@@ -3166,6 +3352,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 187,
         "type": "Escultura",
         "title": "SIMBOLO EMPRESA SURAMERICANA",
         "author": "OCTAVIO MONTOYA",
@@ -3183,6 +3370,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 188,
         "type": "Escultura",
         "title": "TRADICION",
         "author": "SALVADOR ARANGO",
@@ -3200,6 +3388,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 189,
         "type": "Escultura",
         "title": "ZAFRA",
         "author": "JOHN CASTLES",
@@ -3217,6 +3406,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 190,
         "type": "Escultura",
         "title": "LABERINTO COSMICO",
         "author": "SALVADOR ARANGO",
@@ -3234,6 +3424,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 191,
         "type": "Escultura",
         "title": "BOSQUE AEREO",
         "author": "RICARDO CARDENAS",
@@ -3251,6 +3442,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 192,
         "type": "Escultura",
         "title": "LA LIBERTAD",
         "author": "MIGUEL ANGEL BETANCUR",
@@ -3268,6 +3460,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 193,
         "type": "Escultura",
         "title": "JUGADORES DE BOLOS",
         "author": "ISRAEL ROZO GOMEZ",
@@ -3285,6 +3478,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 194,
         "type": "Escultura",
         "title": "MOVIMIENTO DEL ORDEN",
         "author": "HUMBERTO ELIAS VELEZ ESCOBAR",
@@ -3302,6 +3496,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 195,
         "type": "Escultura",
         "title": "COLUMNA",
         "author": "GERMAN BOTERO",
@@ -3319,6 +3514,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 196,
         "type": "Escultura",
         "title": "RELOJ DE SOL",
         "author": "OCTAVIO URIBE",
@@ -3336,6 +3532,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 197,
         "type": "Escultura",
         "title": "EL TRABAJO",
         "author": "JUSTO AROSEMENA",
@@ -3353,6 +3550,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 198,
         "type": "Escultura",
         "title": "EL BOTELLON",
         "author": "SALVADOR ARANGO",
@@ -3370,6 +3568,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 199,
         "type": "Escultura",
         "title": "PYLLAR",
         "author": "RONNY VAYDA",
@@ -3387,6 +3586,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 200,
         "type": "Escultura",
         "title": "ENCUENTROS EN EL TIEMPO - ESPACIO",
         "author": "HUMBERTO ELIAS VELEZ ESCOBAR",
@@ -3404,6 +3604,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 201,
         "type": "Escultura",
         "title": "SOLO CON GUARDA ESPALDA",
         "author": "ION MURESANU",
@@ -3421,6 +3622,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 202,
         "type": "Escultura",
         "title": "BEN HUR",
         "author": "ALFONSO GOEZ",
@@ -3438,6 +3640,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 203,
         "type": "Escultura",
         "title": "OVALO AUREO",
         "author": "RONNY VAYDA",
@@ -3455,6 +3658,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 204,
         "type": "Escultura",
         "title": "HOMENAJE A LA AMISTAD",
         "author": "ALONSO RIOS VANEGAS",
@@ -3472,6 +3676,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 205,
         "type": "Escultura",
         "title": "JUGANDO CON EL VIENTO",
         "author": "JUSTO AROSEMENA",
@@ -3489,6 +3694,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 206,
         "type": "Escultura",
         "title": "FUENTE",
         "author": "AUGUSTO GONZALEZ Y CIA. ARQ.",
@@ -3506,6 +3712,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 207,
         "type": "Escultura",
         "title": "LA FLORA",
         "author": "MIGUEL ANGEL BETANCUR",
@@ -3523,6 +3730,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 208,
         "type": "Escultura",
         "title": "SERIES",
         "author": "RONNY VAYDA",
@@ -3540,6 +3748,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 209,
         "type": "Escultura",
         "title": "A LA RUEDA RUEDA",
         "author": "JUSTO AROSEMENA",
@@ -3557,6 +3766,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 210,
         "type": "Escultura",
         "title": "LOS ARRIEROS",
         "author": "JUSTO AROSEMENA",
@@ -3574,6 +3784,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 211,
         "type": "Escultura",
         "title": "GENERACIONES",
         "author": "FERNANDO ARROYAVE CALLE",
@@ -3591,6 +3802,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 212,
         "type": "Escultura",
         "title": "LA ALEGRIA DE VIVIR",
         "author": "SALVADOR ARANGO",
@@ -3608,6 +3820,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 213,
         "type": "Escultura",
         "title": "SOLIDARIDAD",
         "author": "FREDY SANCHEZ CABALLERO",
@@ -3625,6 +3838,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 214,
         "type": "Escultura",
         "title": "LIBERACION",
         "author": "SALVADOR ARANGO",
@@ -3642,6 +3856,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 215,
         "type": "Escultura",
         "title": "JARDIN DE PIEDRAS",
         "author": "HUGO ZAPATA",
@@ -3659,6 +3874,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 216,
         "type": "Escultura",
         "title": "GRUPO DE GAVIOTAS",
         "author": "JUSTO AROSEMENA",
@@ -3676,6 +3892,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 217,
         "type": "Escultura",
         "title": "METAMORFOSIS",
         "author": "EDGAR NEGRET",
@@ -3693,6 +3910,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 218,
         "type": "Escultura",
         "title": "HORIZONTES",
         "author": "SALVADOR ARANGO",
@@ -3710,6 +3928,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 219,
         "type": "Escultura",
         "title": "FUENTE",
         "author": "CAICEDO Y GOMEZ ARQ.",
@@ -3727,6 +3946,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 220,
         "type": "Escultura",
         "title": "INSPIRACION N° 2",
         "author": "SALVADOR ARANGO",
@@ -3744,6 +3964,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 221,
         "type": "Escultura",
         "title": "VICTORIA DE LA JUVENTUD",
         "author": "MIGUEL ANGEL BETANCUR",
@@ -3761,6 +3982,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 222,
         "type": "Escultura",
         "title": "LAS NAVES",
         "author": "DESCONOCIDO",
@@ -3778,6 +4000,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 223,
         "type": "Escultura",
         "title": "LOS ESCLAVOS",
         "author": "MIGUEL ANGEL BETANCUR",
@@ -3795,6 +4018,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 224,
         "type": "Escultura",
         "title": "SIGMA DE LA VIDA",
         "author": "HUMBERTO ELIAS VELEZ ESCOBAR",
@@ -3812,6 +4036,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 225,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "DESCONOCIDO",
@@ -3829,6 +4054,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 226,
         "type": "Escultura",
         "title": "CUBO",
         "author": "RONNY VAYDA",
@@ -3846,6 +4072,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 227,
         "type": "Escultura",
         "title": "HERMANO CABALLO",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -3863,6 +4090,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 228,
         "type": "Escultura",
         "title": "HOMENAJE AL LIBERTADOR DE LAS REPUBLICAS BOLIVARIANAS",
         "author": "ALVARO GOMEZ",
@@ -3880,6 +4108,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 229,
         "type": "Escultura",
         "title": "Y VIENTO",
         "author": "SALVADOR ARANGO",
@@ -3897,6 +4126,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 230,
         "type": "Escultura",
         "title": "EL NIÑO DEL GLOBO",
         "author": "JUSTO AROSEMENA",
@@ -3914,6 +4144,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 231,
         "type": "Escultura",
         "title": "FUENTE DE LA PAZ",
         "author": "SALVADOR ARANGO",
@@ -3931,6 +4162,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 232,
         "type": "Escultura",
         "title": "GEMINI",
         "author": "RONNY VAYDA",
@@ -3948,6 +4180,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 233,
         "type": "Escultura",
         "title": "FUENTE PROMETEO",
         "author": "BAYRON VASQUEZ",
@@ -3965,6 +4198,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 234,
         "type": "Escultura",
         "title": "BOCAS",
         "author": "VELILLA",
@@ -3982,6 +4216,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 235,
         "type": "Escultura",
         "title": "FUENTE",
         "author": "VIDA S. A., CONSTRUCTORA",
@@ -3999,6 +4234,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 236,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "TE ANA",
@@ -4016,6 +4252,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 237,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "JOHN CASTLES",
@@ -4033,6 +4270,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 238,
         "type": "Escultura",
         "title": "EN LA ISLA",
         "author": "MIGUEL ANGEL BETANCUR",
@@ -4050,6 +4288,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 239,
         "type": "Escultura",
         "title": "DAMA DEL ESPEJO",
         "author": "SALVADOR ARANGO",
@@ -4067,6 +4306,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 240,
         "type": "Escultura",
         "title": "ELEMENTOS",
         "author": "RONNY VAYDA",
@@ -4084,6 +4324,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 241,
         "type": "Escultura",
         "title": "SUEÑOS DE MUJER",
         "author": "SALVADOR ARANGO",
@@ -4101,6 +4342,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 242,
         "type": "Escultura",
         "title": "NOCHE DE LUNA",
         "author": "JUAN JARAMILLO - ALBERTO RIAÑO",
@@ -4118,6 +4360,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 243,
         "type": "Escultura",
         "title": "ASTERISCO",
         "author": "RONNY VAYDA",
@@ -4135,6 +4378,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 244,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "EDGAR NEGRET",
@@ -4152,6 +4396,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 245,
         "type": "Escultura",
         "title": "BANDADA DE PALOMAS",
         "author": "ANIBAL GIL",
@@ -4169,6 +4414,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 246,
         "type": "Escultura",
         "title": "CACTUS EN FLOR",
         "author": "ANIBAL GIL",
@@ -4186,6 +4432,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 247,
         "type": "Escultura",
         "title": "GNOMON",
         "author": "RONNY VAYDA",
@@ -4203,6 +4450,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 248,
         "type": "Escultura",
         "title": "HEXAEDRO",
         "author": "RONNY VAYDA",
@@ -4220,6 +4468,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 249,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "RONNY VAYDA",
@@ -4237,6 +4486,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 250,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "RONNY VAYDA",
@@ -4254,6 +4504,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 251,
         "type": "Escultura",
         "title": "INTERSECCION RECTANGULAR",
         "author": "RONNY VAYDA",
@@ -4271,6 +4522,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 252,
         "type": "Escultura",
         "title": "CANTOS",
         "author": "ALBERTO URIBE DUQUE",
@@ -4288,6 +4540,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 253,
         "type": "Escultura",
         "title": "ECLIPSE",
         "author": "RONNY VAYDA",
@@ -4305,6 +4558,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 254,
         "type": "Escultura",
         "title": "RELOJ SOLAR",
         "author": "OCTAVIO URIBE - GONZALO MEJIA",
@@ -4322,6 +4576,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 255,
         "type": "Escultura",
         "title": "TORSO DESNUDO",
         "author": "MIGUEL ANGEL BETANCUR",
@@ -4339,6 +4594,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 256,
         "type": "Escultura",
         "title": "ANDROGINIA",
         "author": "PEDRO NEL GOMEZ",
@@ -4356,6 +4612,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 257,
         "type": "Escultura",
         "title": "LA LLORONA",
         "author": "PEDRO NEL GOMEZ",
@@ -4373,6 +4630,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 258,
         "type": "Escultura",
         "title": "EL GRITON",
         "author": "PEDRO NEL GOMEZ",
@@ -4390,6 +4648,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 259,
         "type": "Escultura",
         "title": "LA PATA SOLA",
         "author": "PEDRO NEL GOMEZ",
@@ -4407,6 +4666,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 260,
         "type": "Escultura",
         "title": "LA PATETARRO",
         "author": "PEDRO NEL GOMEZ",
@@ -4424,6 +4684,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 261,
         "type": "Escultura",
         "title": "TIERRA, AGUA, AIRE Y FUEGO",
         "author": "PABLO JARAMILLO",
@@ -4441,6 +4702,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 262,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "ANN L.H; MARVIN ROSEMBERG",
@@ -4458,6 +4720,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 263,
         "type": "Escultura",
         "title": "CASTING",
         "author": "RONNY VAYDA",
@@ -4475,6 +4738,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 264,
         "type": "Escultura",
         "title": "ENTREAGUAS",
         "author": "HUGO ZAPATA",
@@ -4492,6 +4756,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 265,
         "type": "Escultura",
         "title": "SIN TITULO",
         "author": "PABLO JARAMILLO",
@@ -4509,6 +4774,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 266,
         "type": "Escultura",
         "title": "LA INDUSTRIA",
         "author": "MIGUEL ANGEL BETANCUR",
@@ -4526,6 +4792,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 267,
         "type": "Escultura",
         "title": "RELOJ SOLAR",
         "author": "OCTAVIO URIBE - LUIS G. MEJIA",
@@ -4543,6 +4810,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 268,
         "type": "Escultura",
         "title": "PEINE AL VIENTO",
         "author": "EDUARDO RAMIREZ VILLAMIZAR ",
@@ -4560,6 +4828,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 269,
         "type": "Escultura",
         "title": "COLUMNAS",
         "author": "MONICA NEGRET",
@@ -4577,6 +4846,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 270,
         "type": "Escultura",
         "title": "ESTRUCTURA ESPACIAL",
         "author": "ALBERTO URIBE DUQUE",
@@ -4594,6 +4864,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 271,
         "type": "Escultura",
         "title": "SOLIDARIDAD",
         "author": "MARIA CLEMENCIA ORTEGA M., ",
@@ -4611,6 +4882,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 272,
         "type": "Escultura",
         "title": "FRAY LUIS AMIGO",
         "author": "DESCONOCIDO",
@@ -4628,6 +4900,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 273,
         "type": "Escultura",
         "title": "INMACULADA CONCEPCION",
         "author": "DESCONOCIDO",
@@ -4645,6 +4918,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 274,
         "type": "Escultura",
         "title": "SAN CAYETANO",
         "author": "DESCONOCIDO",
@@ -4662,6 +4936,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 275,
         "type": "Escultura",
         "title": "ANIMAL MITICO 1",
         "author": "FISKE JW - NY",
@@ -4679,6 +4954,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 276,
         "type": "Escultura",
         "title": "ANIMAL MITICO 2",
         "author": "FISKE JW - NY",
@@ -4696,6 +4972,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 277,
         "type": "Escultura",
         "title": "ANIMAL MITICO 3",
         "author": "FISKE JW - NY",
@@ -4713,6 +4990,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 278,
         "type": "Escultura",
         "title": "ANIMAL MITICO 4",
         "author": "FISKE JW - NY",
@@ -4730,6 +5008,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 279,
         "type": "Escultura",
         "title": "ALEJANDRO ECHAVARRIA I",
         "author": "BERNARDO VIECO",
@@ -4747,6 +5026,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 280,
         "type": "Escultura",
         "title": "PLACA FUNDADORES DEL HOSPITAL",
         "author": "autor desconocido",
@@ -4764,6 +5044,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 281,
         "type": "Escultura",
         "title": "FUENTE",
         "author": "FISKE JW - NY",
@@ -4781,6 +5062,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 282,
         "type": "Escultura",
         "title": "ESCUDO DE MEDELLÍN",
         "author": "OCTAVIO MONTOYA",
@@ -4798,6 +5080,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 283,
         "type": "Escultura",
         "title": "JOAQUÍN ANTONIO URIBE",
         "author": "ALONSO RIOS V",
@@ -4815,6 +5098,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 284,
         "type": "Escultura",
         "title": "BAÑISTA",
         "author": "JORGE JANNA",
@@ -4832,6 +5116,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 285,
         "type": "Escultura",
         "title": "MONUMENTO FUENTE",
         "author": "DESCONOCIDO",
@@ -4849,6 +5134,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 286,
         "type": "Escultura",
         "title": "SIMÓN BOLIVAR",
         "author": "OCTAVIO MONTOYA",
@@ -4866,6 +5152,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 287,
         "type": "Escultura",
         "title": "FERNANDO VELEZ",
         "author": "JAIME CASTRO",
@@ -4883,6 +5170,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 288,
         "type": "Escultura",
         "title": "MADREMONTE",
         "author": "JOSE HORACIO BETANCUR",
@@ -4900,6 +5188,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 289,
         "type": "Escultura",
         "title": "PORFIRIO BARBA JOCOB",
         "author": "ALONSO RIOS V",
@@ -4917,6 +5206,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 290,
         "type": "Escultura",
         "title": "LUIS FERNANDO VÉLEZ V",
         "author": "APC (INICIALES)",
@@ -4934,6 +5224,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 291,
         "type": "Escultura",
         "title": "CRISTO PROMETEO",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -4951,6 +5242,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 292,
         "type": "Escultura",
         "title": "FRANCISCO DE PAULA SANTANDER",
         "author": "BERNARDO VIECO - FRANCISCO - DAVID",
@@ -4968,6 +5260,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 293,
         "type": "Escultura",
         "title": "EL HOMBRE CREADOR DE ENERGÍA",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -4985,6 +5278,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 294,
         "type": "Escultura",
         "title": "HACIA EL INFINITO",
         "author": "ALONSO RIOS V",
@@ -5002,6 +5296,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 295,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "JOHN CASTLES",
@@ -5019,6 +5314,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 296,
         "type": "Escultura",
         "title": "TORRE",
         "author": "GERMÁN BOTERO",
@@ -5036,6 +5332,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 297,
         "type": "Escultura",
         "title": "MURO ABRIÉNDOSE",
         "author": "EDUARDO RAMIREZ VILLAMIZAR",
@@ -5053,6 +5350,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 298,
         "type": "Escultura",
         "title": "LA CREACIÓN",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -5070,6 +5368,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 299,
         "type": "Escultura",
         "title": "SERIE INDIGENISTA M1",
         "author": "JORGE MARÍN VIECO",
@@ -5087,6 +5386,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 300,
         "type": "Escultura",
         "title": "SERIE INDIGENISTA M2",
         "author": "JORGE MARÍN VIECO",
@@ -5104,6 +5404,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 301,
         "type": "Escultura",
         "title": "SERIE INDIGENISTA M3",
         "author": "JORGE MARÍN VIECO",
@@ -5121,6 +5422,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 302,
         "type": "Escultura",
         "title": "LARGO VIAJE DESDE EL VIENTRE AL CORAZÓN DEL FUEGO M1",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -5138,6 +5440,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 303,
         "type": "Escultura",
         "title": "LARGO VIAJE DESDE EL VIENTRE AL CORAZÓN DEL FUEGO",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -5155,6 +5458,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 304,
         "type": "Escultura",
         "title": "EL HOMBRE Y EL UNIVERSO",
         "author": "ALONSO RIOS V",
@@ -5172,6 +5476,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 305,
         "type": "Escultura",
         "title": "TANGO",
         "author": "SALVADOR ARANGO",
@@ -5189,6 +5494,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 306,
         "type": "Escultura",
         "title": "NAVEGANTE 1",
         "author": "SALVADOR ARANGO",
@@ -5206,6 +5512,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 307,
         "type": "Escultura",
         "title": "LAS PALOMAS",
         "author": "ANIBAL GIL",
@@ -5223,6 +5530,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 308,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "RONNY VAYDA",
@@ -5240,6 +5548,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 309,
         "type": "Escultura",
         "title": "ESQUINA",
         "author": "PEDRO PABLO LALINDE",
@@ -5257,6 +5566,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 310,
         "type": "Escultura",
         "title": "PIERNAS",
         "author": "JORGE JANNA",
@@ -5274,6 +5584,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 311,
         "type": "Escultura",
         "title": "REFLEXIÓN CAMBIANTE",
         "author": "HUMBERTO ELÍAS VÉLEZ ESCOBAR",
@@ -5291,6 +5602,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 312,
         "type": "Escultura",
         "title": "PUNTO DE VISTA SOBRE UN PAISAJE URBANO SOBRE EL VALLE DE ABURRÁ",
         "author": "autor desconocido",
@@ -5308,6 +5620,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 313,
         "type": "Escultura",
         "title": "SUEÑOS ",
         "author": "JUSTO AROSEMENA",
@@ -5325,6 +5638,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 314,
         "type": "Escultura",
         "title": "ESPEJO DE AGUA Y TRATAMIENTO AMBIENTAL",
         "author": "TALLER DE DISEÑO",
@@ -5342,6 +5656,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 315,
         "type": "Escultura",
         "title": "LOS CAMINANTES 1",
         "author": "LUIS FERNANDO PELAEZ",
@@ -5359,6 +5674,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 316,
         "type": "Escultura",
         "title": "LOS CAMINANTES 2",
         "author": "LUIS FERNANDO PELAEZ",
@@ -5376,6 +5692,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 317,
         "type": "Escultura",
         "title": "PIEL DE FIGURA 3",
         "author": "ABELARDO OSORIO",
@@ -5393,6 +5710,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 318,
         "type": "Escultura",
         "title": "GAMINES ESCALANDO MURO",
         "author": "ALBERTO URIBE DUQUE",
@@ -5410,6 +5728,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 319,
         "type": "Escultura",
         "title": "PESCADOR",
         "author": "JUSTO AROSEMENA",
@@ -5427,6 +5746,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 320,
         "type": "Escultura",
         "title": "LOS AMIGOS",
         "author": "JUSTO AROSEMENA",
@@ -5444,6 +5764,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 321,
         "type": "Escultura",
         "title": "ARCOS",
         "author": "RONNY VAYDA",
@@ -5461,6 +5782,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 322,
         "type": "Escultura",
         "title": "EL RETORNO",
         "author": "OSCAR ROJAS",
@@ -5478,6 +5800,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 323,
         "type": "Escultura",
         "title": "CAIDA DE AGUA",
         "author": "JUSTO AROSEMENA",
@@ -5495,6 +5818,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 324,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "MAURICIO ARANGO MEJÍA",
@@ -5512,6 +5836,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 325,
         "type": "Escultura",
         "title": "TRES LIMONES",
         "author": "LUIS ALFONSO RAMIREZ",
@@ -5529,6 +5854,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 326,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "ALONSO RIOS VANEGAS",
@@ -5546,6 +5872,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 327,
         "type": "Escultura",
         "title": "EL ASIENTO DEL SOL",
         "author": "ALEJO SANTAMARÍA URIBE",
@@ -5563,6 +5890,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 328,
         "type": "Escultura",
         "title": "FRANGMENTOS DE LA TIERRA",
         "author": "OLGA SALAZAR",
@@ -5580,6 +5908,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 329,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "JEAN GABRIEL THENOT",
@@ -5597,6 +5926,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 330,
         "type": "Escultura",
         "title": "RESURRECCIÓN (DE PIE A PESAR DE)",
         "author": "JEAN GABRIEL THENOT",
@@ -5614,6 +5944,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 331,
         "type": "Escultura",
         "title": "HEXAEDRO ROTANDO",
         "author": "RONNY VAYDA",
@@ -5631,6 +5962,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 332,
         "type": "Escultura",
         "title": "CUADRICA",
         "author": "RONNY VAYDA",
@@ -5648,6 +5980,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 333,
         "type": "Escultura",
         "title": "TRES ESQUINAS",
         "author": "ALBERTO URIBE DUQUE",
@@ -5665,6 +5998,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 334,
         "type": "Escultura",
         "title": "FIGURAS SEDENTES ",
         "author": "NATALIA RIVERA",
@@ -5682,6 +6016,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 335,
         "type": "Escultura",
         "title": "SIN TÍTULO",
         "author": "ALBERTO URIBE DUQUE",
@@ -5699,6 +6034,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 336,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "GERMÁN BOTERO",
@@ -5716,6 +6052,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 337,
         "type": "Escultura",
         "title": "REJAS ",
         "author": "LUIS FERNANDO PELAEZ",
@@ -5733,6 +6070,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 338,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "HUGO ZAPATA",
@@ -5750,6 +6088,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 339,
         "type": "Escultura",
         "title": "INCITACIÓN AL JUEGO",
         "author": "FERNANDO ARROYAVE",
@@ -5767,6 +6106,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 340,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "CLEMENCIA ECHEVERRI",
@@ -5784,6 +6124,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 341,
         "type": "Escultura",
         "title": "PALOMAS",
         "author": "ANIBAL GIL",
@@ -5801,6 +6142,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 342,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "JOHN CASTLES",
@@ -5818,6 +6160,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 343,
         "type": "Escultura",
         "title": "ABSIDE",
         "author": "RONNY VAYDA",
@@ -5835,6 +6178,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 344,
         "type": "Escultura",
         "title": "ALEJANDRÍA",
         "author": "PEDRO PABLO LALINDE",
@@ -5852,6 +6196,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 345,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "RONNY VAYDA",
@@ -5869,6 +6214,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 346,
         "type": "Escultura",
         "title": "EL ABRAZO",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -5886,6 +6232,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 347,
         "type": "Escultura",
         "title": "ESPACIO AL SOL",
         "author": "CLEMENCIA ECHEVERRI",
@@ -5903,6 +6250,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 348,
         "type": "Escultura",
         "title": "FUENTE ",
         "author": "JAVIER PELAEZ",
@@ -5920,6 +6268,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 349,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "JAIRO RESTREPO TISNES",
@@ -5937,6 +6286,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 350,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "MAURICIO ARANGO",
@@ -5954,6 +6304,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 351,
         "type": "Escultura",
         "title": "LADRÓN DE GALLINAS",
         "author": "JUSTO AROSEMENA",
@@ -5971,6 +6322,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 352,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "HUGO ZAPATA",
@@ -5988,6 +6340,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 353,
         "type": "Escultura",
         "title": "UN LUGAR PARA EL AGUA",
         "author": "ALBERTO URIBE DUQUE ",
@@ -6005,6 +6358,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 354,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "SALVADOR ARANGO",
@@ -6022,6 +6376,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 355,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "RONNY VAYDA",
@@ -6039,6 +6394,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 356,
         "type": "Escultura",
         "title": "AGUA (FUENTE)",
         "author": "JAIRO RESTREPO T",
@@ -6056,6 +6412,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 357,
         "type": "Escultura",
         "title": "PÓRTICOS",
         "author": "RONNY VAYDA",
@@ -6073,6 +6430,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 358,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "ALBERTO URIBE DUQUE",
@@ -6090,6 +6448,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 359,
         "type": "Escultura",
         "title": "RELOJ SOLAR",
         "author": "OCTAVIO URIBE - LUIS GONZALO MEJÍA",
@@ -6107,6 +6466,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 360,
         "type": "Escultura",
         "title": "MARCOS TRIUNFANTES",
         "author": "NELO ROMERO",
@@ -6124,6 +6484,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 361,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "CLEMENCIA ECHEVERRI",
@@ -6141,6 +6502,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 362,
         "type": "Escultura",
         "title": "FUENTE",
         "author": "DESCONOCIDO",
@@ -6158,6 +6520,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 363,
         "type": "Escultura",
         "title": "PATIO ESPAÑOL DERRUIDO (FUENTE)",
         "author": "PEDRO PABLO LALINDE",
@@ -6175,6 +6538,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 364,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "DESCONOCIDO",
@@ -6192,6 +6556,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 365,
         "type": "Escultura",
         "title": "PENSADORA",
         "author": "SALVADOR ARANGO",
@@ -6209,6 +6574,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 366,
         "type": "Escultura",
         "title": "FUENTE",
         "author": "GUSTAVO GALLEGO",
@@ -6226,6 +6592,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 367,
         "type": "Escultura",
         "title": "FLAUTISTA",
         "author": "SALVADOR ARANGO",
@@ -6243,6 +6610,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 368,
         "type": "Escultura",
         "title": "LA NUEVA VIDA",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -6260,6 +6628,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 369,
         "type": "Escultura",
         "title": "RETORNO",
         "author": "SALVADOR ARANGO",
@@ -6277,6 +6646,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 370,
         "type": "Escultura",
         "title": "FORJADOR DEL FUTURO",
         "author": "ISRAEL ROZO GÓMEZ",
@@ -6294,6 +6664,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 371,
         "type": "Escultura",
         "title": "LA LUZ",
         "author": "JUSTO ATROSEMENA",
@@ -6311,6 +6682,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 372,
         "type": "Escultura",
         "title": "TEOREMA",
         "author": "RONNY VAYDA",
@@ -6328,6 +6700,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 373,
         "type": "Escultura",
         "title": "TIERRA AIRE MAR (CASCADA MULTICOLOR)",
         "author": "HUMBERTO ELÍAS VELEZ",
@@ -6345,6 +6718,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 374,
         "type": "Escultura",
         "title": "EL COLUMPIO",
         "author": "JUSTO AROSEMENA",
@@ -6362,6 +6736,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 375,
         "type": "Escultura",
         "title": "RELOJ SOLAR",
         "author": "OCTAVIO URIBE TORO - LUIS GONZALO MEJÍA",
@@ -6379,6 +6754,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 376,
         "type": "Escultura",
         "title": "CROQUIS",
         "author": "RONNY VAYDA",
@@ -6396,6 +6772,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 377,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "JEAN GABRIEL THENOT",
@@ -6413,6 +6790,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 378,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -6430,6 +6808,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 379,
         "type": "Escultura",
         "title": "ESTADIO CAMPESTRE",
         "author": "DESCONOCIDO",
@@ -6447,6 +6826,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 380,
         "type": "Escultura",
         "title": "JORGE ROBLEDO",
         "author": "DESCONOCIDO",
@@ -6464,6 +6844,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 381,
         "type": "Escultura",
         "title": "LOS INGENIEROS DE LAS MINAS ",
         "author": "PEDRO NEL GÓMEZ",
@@ -6481,6 +6862,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 382,
         "type": "Escultura",
         "title": "LA FAMILIA DE LOS MINEROS",
         "author": "PEDRO NEL GÓMEZ",
@@ -6498,6 +6880,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 383,
         "type": "Escultura",
         "title": "AL COMPÁS",
         "author": "MARIA VICTORIA GIRON",
@@ -6515,6 +6898,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 384,
         "type": "Escultura",
         "title": "MIGUEL ÁNGEL BUILES",
         "author": "DESCONOCIDO",
@@ -6532,6 +6916,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 385,
         "type": "Escultura",
         "title": "EL SEMBRADOR",
         "author": "ISRAEL ROZO GÓMEZ",
@@ -6549,6 +6934,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 386,
         "type": "Escultura",
         "title": "ENCUENTRO",
         "author": "ISRAEL ROZO GÓMEZ",
@@ -6566,6 +6952,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 387,
         "type": "Escultura",
         "title": "LA ENCOMIENDA",
         "author": "FERNANDO ARROYAVE",
@@ -6583,6 +6970,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 388,
         "type": "Escultura",
         "title": "MOMENTOS",
         "author": "ISRAEL ROZO GÓMEZ",
@@ -6600,6 +6988,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 389,
         "type": "Escultura",
         "title": "PAISAJE MURAL",
         "author": "OLGA LUCÍA SALAZAR",
@@ -6617,6 +7006,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 390,
         "type": "Escultura",
         "title": "ANSIAS DE LIBERTAD",
         "author": "ISRAEL ROZO GÓMEZ",
@@ -6634,6 +7024,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 391,
         "type": "Escultura",
         "title": "TORSO FEMENINO",
         "author": "ISRAEL ROZO GÓMEZ",
@@ -6651,6 +7042,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 392,
         "type": "Escultura",
         "title": "MUJER PALOMA",
         "author": "ISRAEL ROZO GÓMEZ",
@@ -6668,6 +7060,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 393,
         "type": "Escultura",
         "title": "SIN TÍTULO ",
         "author": "DESCONOCIDO",
@@ -6685,6 +7078,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 394,
         "type": "Escultura",
         "title": "MONUMENTO A JORGE ISAACS",
         "author": "MARCO TOBÓN MEJÍA",
@@ -6702,6 +7096,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 395,
         "type": "Escultura",
         "title": "LA PIEDAD",
         "author": "BERNARDO VIECO",
@@ -6719,6 +7114,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 396,
         "type": "Escultura",
         "title": "ÁNGEL DE LA GUARDA",
         "author": "BERNARDO VIECO",
@@ -6736,6 +7132,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 397,
         "type": "Escultura",
         "title": "MAUSOLEO TOMÁS URIBE",
         "author": "DESCONOCIDO",
@@ -6753,6 +7150,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 398,
         "type": "Escultura",
         "title": "EL VIACRUCIS - MAUSOLEO FAMILIA ARANGO",
         "author": "DESCONOCIDO",
@@ -6770,6 +7168,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 399,
         "type": "Escultura",
         "title": "CRUZ DEL CALVARIO - MAUSOLEO JUAN N. URIBE S.",
         "author": "DESCONOCIDO",
@@ -6787,6 +7186,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 400,
         "type": "Escultura",
         "title": "LA SANTÍSIMA TRINIDAD - FAMILIA ESCOBAR ARANGO",
         "author": "DESCONOCIDO",
@@ -6804,6 +7204,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 401,
         "type": "Escultura",
         "title": "LA PIEDAD - FAMILIA RAMÍREZ JOHNS",
         "author": "DESCONOCIDO",
@@ -6821,6 +7222,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 402,
         "type": "Escultura",
         "title": "LAS TRES MARÍAS - FAMILIA ESTRADA",
         "author": "BERNARDO VIECO",
@@ -6838,6 +7240,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 403,
         "type": "Escultura",
         "title": "MAUSOLEO LUCRECIO VÉLEZ ",
         "author": "E. SALU",
@@ -6855,6 +7258,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 404,
         "type": "Escultura",
         "title": "CRUZ DEL CALVARIO - FAMILIA RESTREPO",
         "author": "DESCONOCIDO",
@@ -6872,6 +7276,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 405,
         "type": "Escultura",
         "title": "CRISTO - MAUSOLEO URIBE RESTREPO",
         "author": "DESCONOCIDO",
@@ -6889,6 +7294,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 406,
         "type": "Escultura",
         "title": "MAUSOLEO ALEJANDRO LALINDE",
         "author": "DESCONOCIDO",
@@ -6906,6 +7312,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 407,
         "type": "Escultura",
         "title": "EL ÁNGEL DEL SILENCIO - FAMILIA URIBE",
         "author": "DESCONOCIDO",
@@ -6923,6 +7330,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 408,
         "type": "Escultura",
         "title": "JESÚS CRUCIFICADO - MAUSOLEO CAMILO C. RESTREPO",
         "author": "DESCONOCIDO",
@@ -6940,6 +7348,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 409,
         "type": "Escultura",
         "title": "LAS CARIÁTIDES - FAMILIA ECHAVARRÍA ",
         "author": "DESCONOCIDO",
@@ -6957,6 +7366,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 410,
         "type": "Escultura",
         "title": "CRUZ DEL CALVARIO - FAMILIA RESTREPO",
         "author": "DESCONOCIDO",
@@ -6974,6 +7384,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 411,
         "type": "Escultura",
         "title": "LA PIEDAD - MAUSOLEO SALDARRIAGA DUQUE",
         "author": "DESCONOCIDO",
@@ -6991,6 +7402,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 412,
         "type": "Escultura",
         "title": "MAUSOLEO ALEJANDRO ÁNGEL",
         "author": "DESCONOCIDO",
@@ -7008,6 +7420,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 413,
         "type": "Escultura",
         "title": "LA VIRGEN MARÍA - MAUSOLEO GIL J. GIL",
         "author": "DESCONOCIDO",
@@ -7025,6 +7438,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 414,
         "type": "Escultura",
         "title": "GIULIANA SCALABERNI",
         "author": "PEDRO NEL GÓMEZ",
@@ -7042,6 +7456,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 415,
         "type": "Escultura",
         "title": "JESÚS GÓMEZ GONZÁLEZ ",
         "author": "PEDRO NEL GÓMEZ ",
@@ -7059,6 +7474,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 416,
         "type": "Escultura",
         "title": "CRISTO PASTOR",
         "author": "CONSTANTINO CARVAJAL",
@@ -7076,6 +7492,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 417,
         "type": "Escultura",
         "title": "MONUMENTO A PEDRO JUSTO BERRÍO",
         "author": "MARCO TOBÓN MEJÍA",
@@ -7093,6 +7510,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 418,
         "type": "Escultura",
         "title": "CRISTO AGONIZANTE",
         "author": "MARCO TOBÓN MEJÍA",
@@ -7110,6 +7528,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 419,
         "type": "Escultura",
         "title": "LA VIRGEN DEL CARMEN",
         "author": "MARCO TOBÓN MEJÍA",
@@ -7127,6 +7546,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 420,
         "type": "Escultura",
         "title": "ROSALIA Q. DE CARVAJAL",
         "author": "CONSTANTINO CARVAJAL",
@@ -7144,6 +7564,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 421,
         "type": "Escultura",
         "title": "ÁLVARO CARVAJAL MTZ",
         "author": "CONSTANTINO CARVAJAL",
@@ -7161,6 +7582,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 422,
         "type": "Escultura",
         "title": "JESÚS",
         "author": "MARCO TOBÓN MEJÍA",
@@ -7178,6 +7600,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 423,
         "type": "Escultura",
         "title": "MAUSOLEO FAMILIA CARMONA URIBE",
         "author": "DESCONOCIDO",
@@ -7195,6 +7618,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 424,
         "type": "Escultura",
         "title": "CRUCIFIJO - MAUSOLEO FAMILIA RESTREPO MESA",
         "author": "DESCONOCIDO",
@@ -7212,6 +7636,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 425,
         "type": "Escultura",
         "title": "MAUSOLEO FAMILIA JUAN PABLO GONZÁLEZ ",
         "author": "DESCONOCIDO",
@@ -7229,6 +7654,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 426,
         "type": "Escultura",
         "title": "MAUSOLEO FAMILIA VÁSQUEZ URIBE",
         "author": "DESCONOCIDO",
@@ -7246,6 +7672,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 427,
         "type": "Escultura",
         "title": "MAUSOLEO FAMILIA MORENO",
         "author": "DESCONOCIDO",
@@ -7263,6 +7690,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 428,
         "type": "Escultura",
         "title": "EL CORAZÓN DE JESÚS",
         "author": "DESCONOCIDO",
@@ -7280,6 +7708,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 429,
         "type": "Escultura",
         "title": "VIRGEN DEL PERPETUO SOCORRO",
         "author": "RAUL ÁLVAREZ MEJÍA",
@@ -7297,6 +7726,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 430,
         "type": "Escultura",
         "title": "NUESTRA SEÑORA DEL CARMEN",
         "author": "MARTHA VÉLEZ ",
@@ -7314,6 +7744,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 431,
         "type": "Escultura",
         "title": "NUESTRA SEÑORA DE LA MACARENA",
         "author": "GABRIEL RIPOLL",
@@ -7331,6 +7762,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 432,
         "type": "Escultura",
         "title": "VIRGEN DE FÁTIMA",
         "author": "RODRIGO ISAZA",
@@ -7348,6 +7780,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 433,
         "type": "Escultura",
         "title": "NUESTRA SEÑORA DE COLOMBIA",
         "author": "FERNANDO BOTERO - LIBARDO RUIZ",
@@ -7365,6 +7798,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 434,
         "type": "Escultura",
         "title": "LA VIRGEN DE LA MONTAÑA",
         "author": "MARTHA LUCÍA VÉLEZ",
@@ -7382,6 +7816,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 435,
         "type": "Escultura",
         "title": "NUESTRA SEÑORA DE LA CANDELARIA",
         "author": "EDUARDO TORO",
@@ -7399,6 +7834,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 436,
         "type": "Escultura",
         "title": "LA NIÑA MARÍA",
         "author": "HUMBERTO PÉREZ ",
@@ -7416,6 +7852,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 437,
         "type": "Escultura",
         "title": "VIRGEN DEL BUEN CONSEJO",
         "author": "GABRIEL JAIME PEPE OTÁLVARO",
@@ -7433,6 +7870,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 438,
         "type": "Escultura",
         "title": "NUESTRA SEÑORA DE GUADALUPE",
         "author": "OLGA LUCÍA GUTIÉRREZ ",
@@ -7450,6 +7888,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 439,
         "type": "Escultura",
         "title": "VIRGEN DE LA ANUNCIACIÓN ",
         "author": "RAFAEL SAENZ - MARCO AURELIO SAENZ",
@@ -7467,6 +7906,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 440,
         "type": "Escultura",
         "title": "LA VIRGEN DE LA MILAGROSA",
         "author": "LIBARDO RUIZ",
@@ -7484,6 +7924,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 441,
         "type": "Escultura",
         "title": "LA VIRGEN DE LA LECHE",
         "author": "JOSE IGNACIO VÉLEZ ",
@@ -7501,6 +7942,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 442,
         "type": "Escultura",
         "title": "LA VISITACIÓN",
         "author": "LUCÍA SÁNCHEZ",
@@ -7518,6 +7960,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 443,
         "type": "Escultura",
         "title": "VIRGEN DE CHIQUINQUIRÁ",
         "author": "ROMEL TORO",
@@ -7535,6 +7978,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 444,
         "type": "Escultura",
         "title": "NUESTRA SEÑORA DE LOS DOLORES",
         "author": "CARLOS ACOSTA J",
@@ -7552,6 +7996,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 445,
         "type": "Escultura",
         "title": "VIRGEN DE LA POPA",
         "author": "REPRODUCCIÓN EDUARDO TORO GRAU",
@@ -7569,6 +8014,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 446,
         "type": "Escultura",
         "title": "PERGAMINO AL TORO DE LIDIA",
         "author": "MARTÍN ACANTILADO ",
@@ -7586,6 +8032,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 447,
         "type": "Escultura",
         "title": "AL TORO DE LIDIA",
         "author": "MARTÍN ACANTILADO",
@@ -7603,6 +8050,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 448,
         "type": "Escultura",
         "title": "DIOS MERCURIO",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -7620,6 +8068,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 449,
         "type": "Escultura",
         "title": "MOTIVO DE UN RODILLO EN CERÁMICA COSTADO NORTE",
         "author": "EDGAR JAIME ISAZA - CESAR VALENCIA",
@@ -7637,6 +8086,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 450,
         "type": "Escultura",
         "title": "MOTIVO DE UN RODILLO EN CERÁMICA COSTADO SUR",
         "author": "EDGAR JAIME ISAZA - CESAR VALENCIA",
@@ -7654,6 +8104,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 451,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -7671,6 +8122,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 452,
         "type": "Escultura",
         "title": "TROPEL ",
         "author": "ALICIA TAFUR",
@@ -7688,6 +8140,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 453,
         "type": "Escultura",
         "title": "ATLANTES",
         "author": "autor desconocido",
@@ -7705,6 +8158,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 454,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "OCTAVIO MONTOYA",
@@ -7722,6 +8176,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 455,
         "type": "Escultura",
         "title": "RELOJ SOLAR",
         "author": "ANTONIO BERNAL GONZÁLEZ ",
@@ -7739,6 +8194,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 456,
         "type": "Escultura",
         "title": "RELIEVE DE AVES",
         "author": "PATRICIA RODRIGUEZ",
@@ -7756,6 +8212,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 457,
         "type": "Escultura",
         "title": "RELIEVE DE MANOS",
         "author": "MEJÍA",
@@ -7773,6 +8230,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 458,
         "type": "Escultura",
         "title": "EL MAESTRO FORJADOR DE FUTURO",
         "author": "ALONSO RÍOS VANEGAS",
@@ -7790,6 +8248,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 459,
         "type": "Escultura",
         "title": "SEMBRADOR DE ESTRELLAS",
         "author": "ALONSO RÍOS VANEGAS",
@@ -7807,6 +8266,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 460,
         "type": "Escultura",
         "title": "MUJER EN LA BARANDA",
         "author": "FERNANDO ARROYAVE",
@@ -7824,6 +8284,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 461,
         "type": "Escultura",
         "title": "SIMÓN BOLIVAR",
         "author": "RODRIGO ARENAS BETANCOURT",
@@ -7841,6 +8302,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 462,
         "type": "Escultura",
         "title": "JUEGO EN LA RAMPA",
         "author": "FERNANDO ARROYAVE",
@@ -7858,6 +8320,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 463,
         "type": "Escultura",
         "title": "LAS MONTAÑAS DE ANTIOQUIA",
         "author": "RODRIGUEZ NEL",
@@ -7875,6 +8338,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 464,
         "type": "Escultura",
         "title": "MONSEÑOR FÉLIX HENAO BOTERO",
         "author": "ALONSO GOEZ",
@@ -7892,6 +8356,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 465,
         "type": "Escultura",
         "title": "MANUEL JOSÉ SIERRA",
         "author": "CONSTANTINO CARVAJAL",
@@ -7909,6 +8374,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 466,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -7926,6 +8392,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 467,
         "type": "Escultura",
         "title": "MANGLAR",
         "author": "RICARDO CÁRDENAS",
@@ -7943,6 +8410,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 468,
         "type": "Escultura",
         "title": "EL CAMINANTE (POSITIVO Y NEGATIVO)",
         "author": "GRUPO UTOPÍA",
@@ -7960,6 +8428,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 469,
         "type": "Escultura",
         "title": "EL PENSADOR",
         "author": "NADÍN OSPINA",
@@ -7977,6 +8446,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 470,
         "type": "Escultura",
         "title": "MAMÁ CON COCHE",
         "author": "autor desconocido",
@@ -7994,6 +8464,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 471,
         "type": "Escultura",
         "title": "SOLMONTANA",
         "author": "HUMBERTO ELÍAS",
@@ -8011,6 +8482,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 472,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -8028,6 +8500,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 473,
         "type": "Escultura",
         "title": "CARLOS E RESTREPO",
         "author": "autor desconocido",
@@ -8045,6 +8518,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 474,
         "type": "Escultura",
         "title": "ÁRBOL",
         "author": "autor desconocido",
@@ -8062,6 +8536,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 475,
         "type": "Escultura",
         "title": "INDÍGENAS",
         "author": "autor desconocido",
@@ -8079,6 +8554,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 476,
         "type": "Escultura",
         "title": "PUJANZA",
         "author": "HUMBERTO ELÍAS",
@@ -8096,6 +8572,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 477,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -8113,6 +8590,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 478,
         "type": "Escultura",
         "title": "MARI - LUZ",
         "author": "FANNY FINKELMAN",
@@ -8130,6 +8608,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 479,
         "type": "Escultura",
         "title": "MAR Y POSA",
         "author": "RONNY VAYDA",
@@ -8147,6 +8626,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 480,
         "type": "Escultura",
         "title": "ANCIANO EN SILLA",
         "author": "PEDRO PABLO MURILLO",
@@ -8164,6 +8644,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 481,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "JUSTO AROZEMENA",
@@ -8181,6 +8662,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 482,
         "type": "Escultura",
         "title": "EL PESCADOR",
         "author": "ALONSO RÍOS VANEGAS",
@@ -8198,6 +8680,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 483,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -8215,6 +8698,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 484,
         "type": "Escultura",
         "title": "URBANIZACIÓN SAN SEBASTIÁN",
         "author": "OSCAR ROJAS",
@@ -8232,6 +8716,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 485,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -8249,6 +8734,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 486,
         "type": "Escultura",
         "title": "título desconocido",
         "author": "autor desconocido",
@@ -8266,6 +8752,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 487,
         "type": "Escultura",
         "title": "SEÑALES PARTICULARES",
         "author": "TULIO RESTREPO",
@@ -8283,6 +8770,7 @@ var seeds = {
     {
       "type": "Feature",
       "properties": {
+        "id": 488,
         "type": "Escultura",
         "title": "DELIMA MARSH",
         "author": "TULIO RESTREPO",
