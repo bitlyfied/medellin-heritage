@@ -101,7 +101,7 @@ var MapStore = Reflux.createStore({
   },
 
   _filterByFilters: function (item) {
-    var type = item.properties.Type;
+    var type = item.properties.type;
     return this._searchFilters[type];
   },
 
