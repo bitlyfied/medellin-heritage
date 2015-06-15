@@ -58,7 +58,7 @@ var Map = React.createClass({
     }
 
     function content (feature, layer) {
-      var icon = feature.properties.Type === 'statue' ? statueIcon : archsiteIcon;
+      var icon = feature.properties.Type === 'escultura' ? statueIcon : archsiteIcon;
       layer.setIcon(icon);
       layer.on('click', onMarkerClick);
     }

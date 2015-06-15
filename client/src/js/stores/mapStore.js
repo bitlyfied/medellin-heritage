@@ -18,7 +18,7 @@ var MapStore = Reflux.createStore({
 
   init: function () {
     this._heritageCategories = _.chain(SeedData)
-      .pluck('properties.Type')
+      .pluck('properties.type')
       .uniq()
       .sortBy()
       .value();
