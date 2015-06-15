@@ -27,3 +27,4 @@ var lightbox = {
 };
 
 module.exports = lightbox;
+

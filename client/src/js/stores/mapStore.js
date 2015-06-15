@@ -18,7 +18,7 @@ var MapStore = Reflux.createStore({
 
   init: function () {
     this._heritageCategories = _.chain(SeedData)
-      .pluck('properties.Type')
+      .pluck('properties.type')
       .uniq()
       .sortBy()
       .value();
@@ -92,8 +92,8 @@ var MapStore = Reflux.createStore({
 
   //PRIVATE
   _filterBySearchText: function (item) {
-    var lcTitle = item.properties.Title.toLowerCase();
-    var lcAuthor = item.properties.Author.toLowerCase();
+    var lcTitle = item.properties.title.toLowerCase();
+    var lcAuthor = item.properties.author.toLowerCase();
 
     return _.isEmpty(this._searchText) || 
       lcTitle.indexOf(this._searchText) > -1 || 
@@ -101,7 +101,7 @@ var MapStore = Reflux.createStore({
   },
 
   _filterByFilters: function (item) {
-    var type = item.properties.Type;
+    var type = item.properties.type;
     return this._searchFilters[type];
   },
 
