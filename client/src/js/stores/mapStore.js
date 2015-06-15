@@ -92,8 +92,8 @@ var MapStore = Reflux.createStore({
 
   //PRIVATE
   _filterBySearchText: function (item) {
-    var lcTitle = item.properties.Title.toLowerCase();
-    var lcAuthor = item.properties.Author.toLowerCase();
+    var lcTitle = item.properties.title.toLowerCase();
+    var lcAuthor = item.properties.author.toLowerCase();
 
     return _.isEmpty(this._searchText) || 
       lcTitle.indexOf(this._searchText) > -1 || 
