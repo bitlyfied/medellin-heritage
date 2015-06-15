@@ -3,7 +3,7 @@
 /*global $ */
 
 //TODO 
-// -CHECK - this code is below, needs to be implemented. Need to set img src to selectedFeature's src
+// -Need to set img src to selectedFeature's src
 
 var mapStore = require('../stores/mapStore');
 
@@ -28,6 +28,3 @@ var lightbox = {
 
 module.exports = lightbox;
 
-
-
-// '<img src="images/' + this._options.props.image_name + '">'
