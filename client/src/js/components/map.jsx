@@ -9,8 +9,8 @@ var searchFactory = require('../leafletComponents/controlFrame');
 //TODO
 // - Move "magic strings" to constants
 // - Clean up "componentDidMount" funciton
-// - Update map style
-// - Make map full screen then remove style from main.less
+// - DONE - Update map style
+// - DONE - Make map full screen then remove style from main.less
 // - Update map logo with Medelling heritage
 
 var Map = React.createClass({
@@ -30,8 +30,8 @@ var Map = React.createClass({
       'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
         maxZoom: 18,
-        id: 'mandym.0417cffe',
-        accessToken: 'pk.eyJ1IjoibWFuZHltIiwiYSI6InJ0N0t5UzQifQ.QuC-ffTnnah5oonnfh-hlQ'
+        id: 'rickymetz.9458305e',
+        accessToken: 'pk.eyJ1Ijoicmlja3ltZXR6IiwiYSI6IjQ0MDkxNWJiOTU0ZWJmMzNkMGVlODZiOWM0ODgwNmMwIn0.n3vqv0FdFTjASE09SDiUSg'
       }
     ).addTo(map);
 
