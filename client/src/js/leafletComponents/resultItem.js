@@ -13,7 +13,7 @@ var localization = require('../localization');
 var resultItem = {
   create: function (options) {
     this._options = options;
-    var colCount = options.isSearchResult ? 'col-xs-9'  : 'col-xs-6 c-result-item';
+    var colCount = options.isSearchResult ? 'col-xs-9 result'  : 'col-xs-6 c-result-item';
     // var imgColCount = options.isSearchResult ? 'col-xs-3'  : 'col-xs-6';
     var rhc = options.isSearchResult ? this._createSearchRHC() : this._createDetailRHC();
     var resultItemHTML = '<div class="row">' +
