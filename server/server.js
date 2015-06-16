@@ -17,4 +17,4 @@ app.all('/*', function(req, res) {
 
 });
 
-server.listen(config.listenPort);
+server.listen(process.env.PORT || config.listenPort);
