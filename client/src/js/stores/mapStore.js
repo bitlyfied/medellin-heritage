@@ -85,7 +85,14 @@ var MapStore = Reflux.createStore({
 
   //BUSINESS RULES
   shouldHideResults: function () {
-    return this._isSearchLongEnough() && !this._selectedFeature;
+    var activeFilters = [];
+    _.forEach(this._searchFilters, function (val, key) {
+      if (val) {
+        activeFilters.push(key);
+      }
+    });
+    
+    return (this._isSearchLongEnough() || _.isEmpty(activeFilters)) && !this._selectedFeature;
   },
 
   shouldShowFilters: function () {
