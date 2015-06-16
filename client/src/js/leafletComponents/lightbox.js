@@ -2,6 +2,8 @@
 
 /*global $ */
 
+var Constants = require('../constants');
+
 //TODO 
 // -Need to set img src to selectedFeature's src
 
@@ -20,9 +22,10 @@ var lightbox = {
   },
 
   update: function () {
-    // this._selectedFeature = mapStore.getSelectedFeature();
+    var selectedFeature = mapStore.getSelectedFeature();
+    var imgSrc = Constants.imageSrcRoot + selectedFeature.properties.image_name;
     var src = 'http://cdn.wanderingtrader.com/wp-content/uploads/2011/03/IMG_1971.jpg';
-    $('.c-lightbox__img').attr('src', src);
+    $('.c-lightbox__img').attr('src', imgSrc);
   }
 };
 

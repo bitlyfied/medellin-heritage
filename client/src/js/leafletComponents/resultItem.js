@@ -1,9 +1,10 @@
 'use strict';
 
 var localization = require('../localization');
+var Constants    = require('../constants');
 
 //TODO: 
-//  -Use real img src
+//  -DONE- Use real img src
 //  -CHECK - Styling on the left side of the results item needs padding fixed.
 //  -Handle architecture properties
 //  -Directions
@@ -27,8 +28,9 @@ var resultItem = {
   },
 
   _createSearchRHC: function () {
+    var imgSrc = Constants.imageSrcRoot + this._options.props.image_name;
     return '<div class="col-xs-3">' +
-        '<img src="http://cdn.wanderingtrader.com/wp-content/uploads/2011/03/IMG_1971.jpg" class="c-result-item__img">' +
+        '<img src="' + imgSrc + '" class="c-result-item__img">' +
       '</div>';
   },
 
