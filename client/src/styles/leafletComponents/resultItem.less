@@ -2,7 +2,11 @@
 
 .row-no-margin {
   margin: 0;
-  border-top: 1px solid #E6E6E6;
+
+  //Skip the border on the first row
+  &:nth-child(n + 2) {
+    border-top: 1px solid #E6E6E6;
+  }
 }
 
 .c-result-item {
