@@ -1,9 +1,21 @@
+@import '../colors';
+
+.row-no-margin {
+  margin: 0;
+  border-top: 1px solid #E6E6E6;
+}
+
 .c-result-item {
-  height         : 100px;
-  list-style-type: none;
+  height          : 100px;
+  list-style-type : none;
   background-color: #f5efe9;
-  color: #3f3a30;
-  padding: 0;
+  color           : #3f3a30;
+  padding         : 0 5px;
+}
+
+.c-result-item--individual {
+  height          : 100px;
+  padding         : 10px 0;
 }
 
   .c-result-item__title {
@@ -27,14 +39,24 @@
     font-style: italic;
   }
 
-  .c-result-item__img {
-    max-width : 95px;
-    max-height: 95px;
+  //override leaflet styles
+  img.c-result-item__img {
+    max-width : 90px !important;
+    max-height: 100px;
+    padding   : 5px 0;
   }
 
-.sharing {
-  color: #6e88b6;
-  font-size: 14px;
-  text-align: center;
-  padding-top: 5px;
-}
+  .c-result-item__links {
+    font-size: 14px;
+    text-align: center;
+    padding-top: 5px;
+
+    .fa, a, p {
+      color: @blue-purple;
+      cursor: pointer;
+    }
+  }
+
+    .c-result-item__sharing {
+      padding-top: 7px;
+    }
