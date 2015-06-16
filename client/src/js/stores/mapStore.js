@@ -44,6 +44,7 @@ var MapStore = Reflux.createStore({
     });
 
     this.trigger();
+    Actions.itemSelected(this._selectedFeature);
   },
 
   onBackToResults: function () {

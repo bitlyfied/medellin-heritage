@@ -7,6 +7,7 @@ var Actions       = require('../actions');
 var searchFactory = require('../leafletComponents/controlFrame');
 var Constants     = require('../constants');
 
+
 //TODO
 // - Move "magic strings" to constants
 // - Clean up "componentDidMount" funciton
@@ -25,6 +26,12 @@ var Map = React.createClass({
       minZoom: 2,
       maxZoom: 18,
       zoomControl: false
+    });
+    
+    Reflux.ListenerMethods.listenTo(Actions.itemSelected, function (selectedFeature) {
+      var lng = selectedFeature.geometry.coordinates[0];
+      var lat = selectedFeature.geometry.coordinates[1];
+      map.panTo(new L.LatLng(lat, lng));
     });
 
     L.tileLayer(

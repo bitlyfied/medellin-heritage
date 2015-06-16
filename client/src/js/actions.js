@@ -7,7 +7,8 @@ var _actions = [
   'filter',
   'selectItem',
   'backToResults',
-  'newSearch'
+  'newSearch',
+  'itemSelected'
 ];
 
 module.exports = Reflux.createActions(_actions);
