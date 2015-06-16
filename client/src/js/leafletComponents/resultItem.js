@@ -48,7 +48,7 @@ var resultItem = {
   _createDetailRHC: function () {
     return '<div class="c-result-item__links col-xs-3">' + 
       '<div class="row">' +
-        '<div><p class="c-result-item__sharing"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://patrimoniomedellin.com/" data-text="¡Conoce la ubicación del patrimonio de Medellín!" data-count="none"><i class="fa fa-2x fa-twitter"></i></a><a href="https://www.facebook.com/sharer/sharer.php?u=patrimoniomedellin.com" target="_blank"><i class="fa fa-2x fa-facebook"></i></a></p><div class="fb-like" data-share="true" data-width="450" data-show-faces="true"> test</div></div>' +
+        '<div><p class="c-result-item__sharing"><a href="https://twitter.com/intent/tweet?text=%C2%A1Conoce%20la%20ubicaci%C3%B3n%20del%20patrimonio%20de%20Medell%C3%ADn!&url=http%3A%2F%2Fpatrimoniomedellin.com" target="_blank"><i class="fa fa-2x fa-twitter"></i></a><a href="https://www.facebook.com/sharer/sharer.php?u=patrimoniomedellin.com" target="_blank"><i class="fa fa-2x fa-facebook"></i></a></p></div>' +
       '</div>' +
     '</div>';
   }
