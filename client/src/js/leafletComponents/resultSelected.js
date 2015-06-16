@@ -16,11 +16,11 @@ var resultSelected = {
   },
 
   update: function () {
-    var resultContainer = $('.c-result-selected').first();
+    var resultContainer = $('.c-result-selected')[0];
     var selectedFeature = mapStore.getSelectedFeature();
     var props = selectedFeature.properties;
 
-    resultContainer.append('<div class="c-result-selected__details"></div>');
+    resultContainer.innerHTML = '<div class="c-result-selected__details"></div>';
     var detailContainer = $('.c-result-selected__details')[0];
     var options = {
       props: props,
