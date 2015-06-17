@@ -13,12 +13,13 @@ var resultList = {
   },
 
   _createElem: function () {
-    this._container.innerHTML = '<ul class="c-result-list"></ul>';
+    this._container.innerHTML = '<ul class="c-result-list js-result-list"></ul>';
   },
 
   update: function () {
     var resultItemContainer = $('.c-result-list').first();
-    var items = _.take(mapStore.getFilteredHeritageItems(), 8);
+    var items = mapStore.getFilteredHeritageItems();
+    var html = '';
 
     resultItemContainer.children().remove();
 
@@ -29,8 +30,11 @@ var resultList = {
         isSearchResult: true
       };
 
-      resultItem.create(options);
+      html += resultItem.create(options);
     });
+
+    resultItemContainer[0].innerHTML = html;
+    resultItem.addSearchResultHanlders();
   }
 };
 

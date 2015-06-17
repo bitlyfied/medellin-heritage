@@ -92,7 +92,8 @@ var MapStore = Reflux.createStore({
       }
     });
     
-    return (this._isSearchLongEnough() || _.isEmpty(activeFilters)) && !this._selectedFeature;
+    return (!this._isSearchLongEnough() || _.isEmpty(activeFilters) || _.isEmpty(this.getFilteredHeritageItems())) && 
+      !this._selectedFeature;
   },
 
   shouldShowFilters: function () {
@@ -100,7 +101,7 @@ var MapStore = Reflux.createStore({
   },
 
   shouldHideBackToResultsBtn: function () {
-    return this._isSearchLongEnough();
+    return !this._isSearchLongEnough();
   },
 
 
@@ -126,7 +127,7 @@ var MapStore = Reflux.createStore({
   },
 
   _isSearchLongEnough: function () {
-    return this._searchText.length < 2;
+    return !_.isEmpty(this._searchText);
   }
 });
 
