@@ -28,20 +28,25 @@ var resultItem = {
       '</div>' + 
       rhc +
     '</div>'; 
-    options.container.innerHTML += resultItemHTML;
 
-    if (options.isSearchResult) {
-      $('.js-result-item').on('click', function (evt) {
-        var id = _.parseInt(evt.currentTarget.attributes['data-feature-id'].value);
-        actions.selectItem(id);
-      });      
-    }
+    return resultItemHTML;
+  },
+
+  addSearchResultHanlders: function () {
+    $('.js-result-item').on('click', function (evt) {
+      var id = _.parseInt(evt.currentTarget.attributes['data-feature-id'].value);
+      actions.selectItem(id);
+    }); 
+
+    $('.c-result-item__img').lazyload({
+      container: $('.js-result-list')
+    });   
   },
 
   _createSearchRHC: function () {
     var imgSrc = Constants.imageSrcRoot + this._options.props.image_name;
     return '<div class="col-xs-3">' +
-        '<img src="' + imgSrc + '" class="c-result-item__img pull-right">' +
+        '<img data-original="' + imgSrc + '" class="c-result-item__img pull-right">' +
       '</div>';
   },
 

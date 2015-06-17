@@ -21,13 +21,13 @@ var resultSelected = {
     var props = selectedFeature.properties;
 
     resultContainer.innerHTML = '<div class="c-result-selected__details"></div>';
-    var detailContainer = $('.c-result-selected__details')[0];
     var options = {
       props: props,
-      container: detailContainer,
       isSearchResult: false
     };
-    resultItem.create(options);
+    var html = resultItem.create(options);
+    var detailContainer = $('.c-result-selected__details')[0];
+    detailContainer.innerHTML = html;
   }
 };
 
