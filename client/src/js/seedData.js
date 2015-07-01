@@ -547,7 +547,7 @@ var seeds = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.563354,
+          -75.563354,
           6.24853
         ]
       }
@@ -1364,7 +1364,7 @@ var seeds = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.573396,
+          -75.573396,
           6.244365
         ]
       }
@@ -1383,7 +1383,7 @@ var seeds = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.572613,
+          -75.572613,
           6.245033
         ]
       }
@@ -1801,7 +1801,7 @@ var seeds = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.563765,
+          -75.563765,
           6.27192
         ]
       }
@@ -1839,7 +1839,7 @@ var seeds = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.56353,
+          -75.56353,
           6.272041
         ]
       }
@@ -4969,7 +4969,7 @@ var seeds = {
         "author": "Ann L.H; Marvin Rosemberg",
         "year": 1980,
         "image_name": "annlhmarvinrosemberg_sintitulo.png",
-        "": ""
+        "": "annlhmarvinrosemberg_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -9088,7 +9088,7 @@ var seeds = {
       "properties": {
         "id": 479,
         "type": "Escultura",
-        "title": "Mar Y Posa",
+        "title": "Mar y Posa",
         "author": "Ronny Vayda",
         "year": 2004,
         "image_name": "ronnyvayda_maryposa.png",
@@ -9270,6 +9270,63 @@ var seeds = {
         "coordinates": [
           -75.577959,
           6.255158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 489,
+        "type": "Hallazgo Arqueológico",
+        "title": "Cerro El Volador",
+        "author": "",
+        "year": "Siglos XV al XVII d.C.",
+        "image_name": "cerroelvolador.png",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.581672,
+          6.267174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 490,
+        "type": "Hallazgo Arqueológico",
+        "title": "Cerro De La Universidad Adventista",
+        "author": "Barrio La Castellana",
+        "year": "Siglos IX al XVI d.C.",
+        "image_name": "cerrodelauniversidadadventista.png",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.614226,
+          6.237841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 491,
+        "type": "Hallazgo Arqueológico",
+        "title": "La Colinita",
+        "author": "",
+        "year": "Siglos IX al XVI d.C.",
+        "image_name": "lacolinita.png",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.592813,
+          6.200739
         ]
       }
     }
