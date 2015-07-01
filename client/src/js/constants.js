@@ -7,6 +7,7 @@ var Constants = {
     'archSite': 'images/icon-dig-25.png',
     'Hallazgo Arqueológico': 'images/icon-dig-25.png'
   },
+  logo: 'images/logo.png',
   imageSrcRoot: 'images/heritageItems/'
 };
 

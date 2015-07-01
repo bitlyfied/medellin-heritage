@@ -5,6 +5,7 @@ var MapStore      = require('../stores/mapStore');
 var Reflux        = require('reflux');
 var Actions       = require('../actions');
 var searchFactory = require('../leafletComponents/controlFrame');
+var logoFactory   = require('../leafletComponents/logo');
 var Constants     = require('../constants');
 
 
@@ -60,6 +61,12 @@ var Map = React.createClass({
     };
     var searchCtrl = searchFactory(searchCtrlOpts);
     searchCtrl.addTo(map);
+
+    var logoOpts = {
+      position: 'bottomright'
+    };
+    var logo = logoFactory(logoOpts);
+    logo.addTo(map);
 
     MapStore.listen(onSearch);
 
