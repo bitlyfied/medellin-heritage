@@ -24,7 +24,7 @@ var Map = React.createClass({
       center: [6.201000, -75.572138],
       zoom: 15,
       minZoom: 2,
-      maxZoom: 30,
+      maxZoom: 22,
       zoomControl: false
     });
     
@@ -37,7 +37,7 @@ var Map = React.createClass({
     L.tileLayer(
       'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-        maxZoom: 30,
+        maxZoom: 22,
         id: 'rickymetz.9458305e',
         accessToken: 'pk.eyJ1Ijoicmlja3ltZXR6IiwiYSI6IjQ0MDkxNWJiOTU0ZWJmMzNkMGVlODZiOWM0ODgwNmMwIn0.n3vqv0FdFTjASE09SDiUSg'
       }
