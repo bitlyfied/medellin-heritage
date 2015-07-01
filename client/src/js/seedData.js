@@ -9,8 +9,7 @@ var seeds = {
         "title": "General Francisco De Paula Santander",
         "author": "Bernardo Vieco",
         "year": 1940,
-        "image_name": "bernardovieco_generalfranciscodepaulasantander.png",
-        "": ""
+        "image_name": "bernardovieco_generalfranciscodepaulasantander.png"
       },
       "geometry": {
         "type": "Point",
@@ -28,8 +27,7 @@ var seeds = {
         "title": "Tomás Carrasquilla",
         "author": "Gustavo López",
         "year": 1978,
-        "image_name": "gustavolopez_tomascarrasquilla.png",
-        "": ""
+        "image_name": "gustavolopez_tomascarrasquilla.png"
       },
       "geometry": {
         "type": "Point",
@@ -47,8 +45,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Sergio De Camargo",
         "year": 1983,
-        "image_name": "sergiodecamargo_sintitulo.png",
-        "": ""
+        "image_name": "sergiodecamargo_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -66,8 +63,7 @@ var seeds = {
         "title": "Construcción",
         "author": "John Castles",
         "year": 1983,
-        "image_name": "johncastles_constuccion.png",
-        "": ""
+        "image_name": "johncastles_constuccion.png"
       },
       "geometry": {
         "type": "Point",
@@ -85,8 +81,7 @@ var seeds = {
         "title": "Construcción",
         "author": "Manuel Felguerez",
         "year": 1983,
-        "image_name": "manuelfelguerez_construccion.png",
-        "": ""
+        "image_name": "manuelfelguerez_construccion.png"
       },
       "geometry": {
         "type": "Point",
@@ -104,8 +99,7 @@ var seeds = {
         "title": "Torre",
         "author": "Edgar Negret",
         "year": 1983,
-        "image_name": "edgarnegret_torre.png",
-        "": ""
+        "image_name": "edgarnegret_torre.png"
       },
       "geometry": {
         "type": "Point",
@@ -123,8 +117,7 @@ var seeds = {
         "title": "Signo Aleteteando El Espacio",
         "author": "Otto Herbert Hajek",
         "year": 1988,
-        "image_name": "ottoherberthajek_signoaleteando.png",
-        "": ""
+        "image_name": "ottoherberthajek_signoaleteando.png"
       },
       "geometry": {
         "type": "Point",
@@ -142,8 +135,7 @@ var seeds = {
         "title": "Estructura Cromovegetal",
         "author": "Carlos Cruz Diez",
         "year": 1983,
-        "image_name": "carloscruzdiez_estructuracromovegetal.png",
-        "": ""
+        "image_name": "carloscruzdiez_estructuracromovegetal.png"
       },
       "geometry": {
         "type": "Point",
@@ -161,8 +153,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Carlos Rojas",
         "year": 1983,
-        "image_name": "carlosrojas_sintitulo.png",
-        "": ""
+        "image_name": "carlosrojas_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -180,8 +171,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Julio Le Parc",
         "year": "sin fecha",
-        "image_name": "julioleparc_sintitulo.png",
-        "": ""
+        "image_name": "julioleparc_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -199,8 +189,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Alberto Uribe Duque",
         "year": 1983,
-        "image_name": "albertouribe_sintitulo.png",
-        "": ""
+        "image_name": "albertouribe_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -218,8 +207,7 @@ var seeds = {
         "title": "Cacique Nutibara",
         "author": "Jose Horacio Betancur",
         "year": 1955,
-        "image_name": "josehoraciobetancur_caciquenutibara.png",
-        "": ""
+        "image_name": "josehoraciobetancur_caciquenutibara.png"
       },
       "geometry": {
         "type": "Point",
@@ -237,8 +225,7 @@ var seeds = {
         "title": "Guillermo Zuluaga - Montecristo",
         "author": "Luz Maria Piedrahita",
         "year": 2000,
-        "image_name": "luzmariapierahita_guillermozuluaga.png",
-        "": ""
+        "image_name": "luzmariapierahita_guillermozuluaga.png"
       },
       "geometry": {
         "type": "Point",
@@ -256,8 +243,7 @@ var seeds = {
         "title": "M - Cromo Interferencia",
         "author": "Carlos Cruz Diez",
         "year": 1985,
-        "image_name": "carloscruzdiez_mcromo.png",
-        "": ""
+        "image_name": "carloscruzdiez_mcromo.png"
       },
       "geometry": {
         "type": "Point",
@@ -275,8 +261,7 @@ var seeds = {
         "title": "Simón Bolivar",
         "author": "Josue Giraldo",
         "year": 1930,
-        "image_name": "josuegiraldo_simonbolivar.png",
-        "": ""
+        "image_name": "josuegiraldo_simonbolivar.png"
       },
       "geometry": {
         "type": "Point",
@@ -294,8 +279,7 @@ var seeds = {
         "title": "Gilberto Alzate Avendaño",
         "author": "Gustavo López",
         "year": 1978,
-        "image_name": "gustavolopez_gilbertoalzateavendano.png",
-        "": ""
+        "image_name": "gustavolopez_gilbertoalzateavendano.png"
       },
       "geometry": {
         "type": "Point",
@@ -313,8 +297,7 @@ var seeds = {
         "title": "Marco Fidel Suarez",
         "author": "Octavio Montoya",
         "year": 1954,
-        "image_name": "octaviomontoya_marcofidelsuarez.png",
-        "": ""
+        "image_name": "octaviomontoya_marcofidelsuarez.png"
       },
       "geometry": {
         "type": "Point",
@@ -332,8 +315,7 @@ var seeds = {
         "title": "Atanasio Girardot",
         "author": "Jose Horacio Betancur",
         "year": 1954,
-        "image_name": "josehoraciobetancur_atanasiogirardot.png",
-        "": ""
+        "image_name": "josehoraciobetancur_atanasiogirardot.png"
       },
       "geometry": {
         "type": "Point",
@@ -351,8 +333,7 @@ var seeds = {
         "title": "La Bachue",
         "author": "Jose Horacio Betancur",
         "year": 1954,
-        "image_name": "josehoraciobetancur_labachue.png",
-        "": ""
+        "image_name": "josehoraciobetancur_labachue.png"
       },
       "geometry": {
         "type": "Point",
@@ -370,8 +351,7 @@ var seeds = {
         "title": "Bernardo Herrera Restrepo",
         "author": "Alfonso Goez",
         "year": 1962,
-        "image_name": "alfonsogoez_bernardoherrerarestrepo.png",
-        "": ""
+        "image_name": "alfonsogoez_bernardoherrerarestrepo.png"
       },
       "geometry": {
         "type": "Point",
@@ -389,8 +369,7 @@ var seeds = {
         "title": "Mister James Tyler Moore",
         "author": "Gustavo López",
         "year": 1962,
-        "image_name": "gustavolopez_misterjamestylermoore.png",
-        "": ""
+        "image_name": "gustavolopez_misterjamestylermoore.png"
       },
       "geometry": {
         "type": "Point",
@@ -408,8 +387,7 @@ var seeds = {
         "title": "Manuel Uribe Ángel",
         "author": "Jairo Cano Echandía",
         "year": 1963,
-        "image_name": "jairocanoechandia_manueluribeangel.png",
-        "": ""
+        "image_name": "jairocanoechandia_manueluribeangel.png"
       },
       "geometry": {
         "type": "Point",
@@ -427,8 +405,7 @@ var seeds = {
         "title": "Pedro Justo Berrío",
         "author": "Octavio Montoya",
         "year": 1963,
-        "image_name": "octaviomontoya_pedrojustoberrio.png",
-        "": ""
+        "image_name": "octaviomontoya_pedrojustoberrio.png"
       },
       "geometry": {
         "type": "Point",
@@ -446,8 +423,7 @@ var seeds = {
         "title": "Jose María Martinez Pardo",
         "author": "Gustavo López",
         "year": 1962,
-        "image_name": "gustavolopez_josemariamartinezprado.png",
-        "": ""
+        "image_name": "gustavolopez_josemariamartinezprado.png"
       },
       "geometry": {
         "type": "Point",
@@ -465,8 +441,7 @@ var seeds = {
         "title": "Mariano Ospina Rodriguez",
         "author": "Jairo Cano Echandía",
         "year": 1963,
-        "image_name": "jairocanoechandia_marianoospinarodriguez.png",
-        "": ""
+        "image_name": "jairocanoechandia_marianoospinarodriguez.png"
       },
       "geometry": {
         "type": "Point",
@@ -484,8 +459,7 @@ var seeds = {
         "title": "Juan De La Cruz Gomez Plata",
         "author": "Jairo Cano Echandía",
         "year": 1963,
-        "image_name": "jairocanoechandia_juandelacruzgomezplata.png",
-        "": ""
+        "image_name": "jairocanoechandia_juandelacruzgomezplata.png"
       },
       "geometry": {
         "type": "Point",
@@ -503,8 +477,7 @@ var seeds = {
         "title": "Jose Felix De Restrepo",
         "author": "Octavio Montoya",
         "year": 1963,
-        "image_name": "octaviomontoya_josefelixderestrepo.png",
-        "": ""
+        "image_name": "octaviomontoya_josefelixderestrepo.png"
       },
       "geometry": {
         "type": "Point",
@@ -522,8 +495,7 @@ var seeds = {
         "title": "Jose Manuel Restrepo",
         "author": "Jairo Cano Echandía",
         "year": 1963,
-        "image_name": "jairocanoechandia_josemanuelrestrepo.png",
-        "": ""
+        "image_name": "jairocanoechandia_josemanuelrestrepo.png"
       },
       "geometry": {
         "type": "Point",
@@ -541,13 +513,12 @@ var seeds = {
         "title": "Juan Del Corral",
         "author": "Bernardo Vieco",
         "year": 1963,
-        "image_name": "bernardovieco_juandelcorral.png",
-        "": ""
+        "image_name": "bernardovieco_juandelcorral.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.563354,
+          -75.563354,
           6.24853
         ]
       }
@@ -560,8 +531,7 @@ var seeds = {
         "title": "Juan Antonio Mon Y Velarde",
         "author": "Octavio Montoya",
         "year": 1963,
-        "image_name": "octaviomontoya_juanantoniomonyvelarde.png",
-        "": ""
+        "image_name": "octaviomontoya_juanantoniomonyvelarde.png"
       },
       "geometry": {
         "type": "Point",
@@ -579,8 +549,7 @@ var seeds = {
         "title": "Gaspar De Rodas",
         "author": "Jairo Cano Echandía",
         "year": 1963,
-        "image_name": "jairocanoechandia_gasparderodas.png",
-        "": ""
+        "image_name": "jairocanoechandia_gasparderodas.png"
       },
       "geometry": {
         "type": "Point",
@@ -598,8 +567,7 @@ var seeds = {
         "title": "Jorge Robledo",
         "author": "Constantino Carvajal",
         "year": 1960,
-        "image_name": "constantinocarvajal_jorgerobledo.png",
-        "": ""
+        "image_name": "constantinocarvajal_jorgerobledo.png"
       },
       "geometry": {
         "type": "Point",
@@ -617,8 +585,7 @@ var seeds = {
         "title": "Antonio Nariño",
         "author": "Alfonso Goez",
         "year": "sin fecha",
-        "image_name": "alfonsogoez_antonionarino.png",
-        "": ""
+        "image_name": "alfonsogoez_antonionarino.png"
       },
       "geometry": {
         "type": "Point",
@@ -636,8 +603,7 @@ var seeds = {
         "title": "Carlos Gardel",
         "author": "Alfonso Goez",
         "year": 1968,
-        "image_name": "alfonsogoez_carlosgardel.png",
-        "": ""
+        "image_name": "alfonsogoez_carlosgardel.png"
       },
       "geometry": {
         "type": "Point",
@@ -655,8 +621,7 @@ var seeds = {
         "title": "Jorge Eliécer Gaitán Ayala",
         "author": "R. Patiño P.",
         "year": 1991,
-        "image_name": "rpatinop_jorgeeliecergaitanayala.png",
-        "": ""
+        "image_name": "rpatinop_jorgeeliecergaitanayala.png"
       },
       "geometry": {
         "type": "Point",
@@ -674,8 +639,7 @@ var seeds = {
         "title": "Carlos Vásquez La Torre",
         "author": "Alfonso Goez",
         "year": 1966,
-        "image_name": "alfonsogoez_carlosvasquezlatorre.png",
-        "": ""
+        "image_name": "alfonsogoez_carlosvasquezlatorre.png"
       },
       "geometry": {
         "type": "Point",
@@ -693,8 +657,7 @@ var seeds = {
         "title": "Monumento A El Obrero",
         "author": "Bernardo Vieco",
         "year": 1934,
-        "image_name": "bernardovieco_monumentoaelobrero.png",
-        "": ""
+        "image_name": "bernardovieco_monumentoaelobrero.png"
       },
       "geometry": {
         "type": "Point",
@@ -712,8 +675,7 @@ var seeds = {
         "title": "A La Familia",
         "author": "Cesar Villa Villa",
         "year": 1934,
-        "image_name": "cesarvillavilla_alafamilia.png",
-        "": ""
+        "image_name": "cesarvillavilla_alafamilia.png"
       },
       "geometry": {
         "type": "Point",
@@ -731,8 +693,7 @@ var seeds = {
         "title": "Monum. Conmemorativo Centenario De La U De A",
         "author": "Jose María Agudelo",
         "year": 1922,
-        "image_name": "josemariaagudelo_monumconmemorativocentenarioudea.png",
-        "": ""
+        "image_name": "josemariaagudelo_monumconmemorativocentenarioudea.png"
       },
       "geometry": {
         "type": "Point",
@@ -750,8 +711,7 @@ var seeds = {
         "title": "Marceliano Vélez",
         "author": "Francisco Antonio Cano",
         "year": 1925,
-        "image_name": "franciscoantoniocano_marcelinovelez.png",
-        "": ""
+        "image_name": "franciscoantoniocano_marcelinovelez.png"
       },
       "geometry": {
         "type": "Point",
@@ -769,8 +729,7 @@ var seeds = {
         "title": "General Jose María Córdoba",
         "author": "Marco Tobón Mejía",
         "year": 1957,
-        "image_name": "marcotobonmejia_generaljosemariacordoba.png",
-        "": ""
+        "image_name": "marcotobonmejia_generaljosemariacordoba.png"
       },
       "geometry": {
         "type": "Point",
@@ -788,8 +747,7 @@ var seeds = {
         "title": "Carlos Castro Saavedra",
         "author": "Oscar Rojas",
         "year": 1989,
-        "image_name": "oscarrojas_carloscastrosaavedra.png",
-        "": ""
+        "image_name": "oscarrojas_carloscastrosaavedra.png"
       },
       "geometry": {
         "type": "Point",
@@ -807,8 +765,7 @@ var seeds = {
         "title": "Manuel Del Socorro Rodríguez",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_manueldelsocorrorodriguez.png",
-        "": ""
+        "image_name": "desconocido_manueldelsocorrorodriguez.png"
       },
       "geometry": {
         "type": "Point",
@@ -826,8 +783,7 @@ var seeds = {
         "title": "San Juan Bosco",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_sanjuanbosco.png",
-        "": ""
+        "image_name": "desconocido_sanjuanbosco.png"
       },
       "geometry": {
         "type": "Point",
@@ -845,8 +801,7 @@ var seeds = {
         "title": "Fuente Pila Jardinera",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_fuentepilajardinera.png",
-        "": ""
+        "image_name": "desconocido_fuentepilajardinera.png"
       },
       "geometry": {
         "type": "Point",
@@ -864,8 +819,7 @@ var seeds = {
         "title": "Juan Antonio Mon Y Velarde",
         "author": "Octavio Montoya",
         "year": 1957,
-        "image_name": "octaviomontoya_juanantoniomonyvelarde2.png",
-        "": ""
+        "image_name": "octaviomontoya_juanantoniomonyvelarde2.png"
       },
       "geometry": {
         "type": "Point",
@@ -883,8 +837,7 @@ var seeds = {
         "title": "Tomás Cipriano De Mosquera",
         "author": "Pietro Tenerari",
         "year": 1978,
-        "image_name": "pietrotenerari_tomasciprianodemosquera.png",
-        "": ""
+        "image_name": "pietrotenerari_tomasciprianodemosquera.png"
       },
       "geometry": {
         "type": "Point",
@@ -902,8 +855,7 @@ var seeds = {
         "title": "Arzobispo Manuel José Caicedo",
         "author": "Pietro Tenerari",
         "year": 1951,
-        "image_name": "pietrotenerari_arzobispomanueljosecaicedo.png",
-        "": ""
+        "image_name": "pietrotenerari_arzobispomanueljosecaicedo.png"
       },
       "geometry": {
         "type": "Point",
@@ -921,8 +873,7 @@ var seeds = {
         "title": "Fidel Cano",
         "author": "Francisco Cano",
         "year": 1920,
-        "image_name": "franciscocano_fidelcano.png",
-        "": ""
+        "image_name": "franciscocano_fidelcano.png"
       },
       "geometry": {
         "type": "Point",
@@ -940,8 +891,7 @@ var seeds = {
         "title": "Placa Mister James Tyrrel Moore",
         "author": "Jose Marín Vieco",
         "year": 1942,
-        "image_name": "josemarinvieco_placamisterjamestyrrelmoore.png",
-        "": ""
+        "image_name": "josemarinvieco_placamisterjamestyrrelmoore.png"
       },
       "geometry": {
         "type": "Point",
@@ -959,8 +909,7 @@ var seeds = {
         "title": "General Francisco Antonio Zea",
         "author": "Marco Tobón Mejía",
         "year": 1952,
-        "image_name": "marcotobonmejia_generalfranciscoantoniozea.png",
-        "": ""
+        "image_name": "marcotobonmejia_generalfranciscoantoniozea.png"
       },
       "geometry": {
         "type": "Point",
@@ -978,8 +927,7 @@ var seeds = {
         "title": "Atanasio Girardot",
         "author": "Francisco Antonio Cano",
         "year": 1910,
-        "image_name": "franciscoantoniocano_atanasiogirardot.png",
-        "": ""
+        "image_name": "franciscoantoniocano_atanasiogirardot.png"
       },
       "geometry": {
         "type": "Point",
@@ -997,8 +945,7 @@ var seeds = {
         "title": "Fuente Plaza Veracruz",
         "author": "Autor Desconocido",
         "year": 1853,
-        "image_name": "desconocido_fuenteplazaveracruz.png",
-        "": ""
+        "image_name": "desconocido_fuenteplazaveracruz.png"
       },
       "geometry": {
         "type": "Point",
@@ -1016,8 +963,7 @@ var seeds = {
         "title": "Rafael Uribe Uribe",
         "author": "Marco Tobón Mejía",
         "year": 1964,
-        "image_name": "marcotobonmejia_rafaeluribeuribe.png",
-        "": ""
+        "image_name": "marcotobonmejia_rafaeluribeuribe.png"
       },
       "geometry": {
         "type": "Point",
@@ -1035,8 +981,7 @@ var seeds = {
         "title": "Fuente Pileta",
         "author": "Francisco Antonio Cano",
         "year": 1902,
-        "image_name": "franciscoantoniocano_fuentepileta.png",
-        "": ""
+        "image_name": "franciscoantoniocano_fuentepileta.png"
       },
       "geometry": {
         "type": "Point",
@@ -1054,8 +999,7 @@ var seeds = {
         "title": "Jorge Eliécer Gaitán",
         "author": "Oscar Rojas",
         "year": "sin fecha",
-        "image_name": "oscarrojas_jorgeeliecergaitan.png",
-        "": ""
+        "image_name": "oscarrojas_jorgeeliecergaitan.png"
       },
       "geometry": {
         "type": "Point",
@@ -1073,8 +1017,7 @@ var seeds = {
         "title": "José De San Martín",
         "author": "Oralando S. Tagnato",
         "year": 1950,
-        "image_name": "orlandostagnato_josedesanmartin.png",
-        "": ""
+        "image_name": "orlandostagnato_josedesanmartin.png"
       },
       "geometry": {
         "type": "Point",
@@ -1092,8 +1035,7 @@ var seeds = {
         "title": "Simón Bolivar",
         "author": "Eugenio Maccagnani",
         "year": 1923,
-        "image_name": "eugeniomaccagnani_simonbolivar.png",
-        "": ""
+        "image_name": "eugeniomaccagnani_simonbolivar.png"
       },
       "geometry": {
         "type": "Point",
@@ -1111,8 +1053,7 @@ var seeds = {
         "title": "Jorge Robledo",
         "author": "Octavio Montoya",
         "year": 1946,
-        "image_name": "octaviomontoya_jorgerobledo.png",
-        "": ""
+        "image_name": "octaviomontoya_jorgerobledo.png"
       },
       "geometry": {
         "type": "Point",
@@ -1130,8 +1071,7 @@ var seeds = {
         "title": "Rayuela",
         "author": "Grupo Utopía",
         "year": 1997,
-        "image_name": "grupoutopia_rayuela.png",
-        "": ""
+        "image_name": "grupoutopia_rayuela.png"
       },
       "geometry": {
         "type": "Point",
@@ -1149,8 +1089,7 @@ var seeds = {
         "title": "Venus Durmiente",
         "author": "Fernando Botero",
         "year": 1994,
-        "image_name": "fernandobotero_venusdurmiente.png",
-        "": ""
+        "image_name": "fernandobotero_venusdurmiente.png"
       },
       "geometry": {
         "type": "Point",
@@ -1168,8 +1107,7 @@ var seeds = {
         "title": "Pájaro",
         "author": "Fernando Botero",
         "year": 1994,
-        "image_name": "fernandobotero_pajaro.png",
-        "": ""
+        "image_name": "fernandobotero_pajaro.png"
       },
       "geometry": {
         "type": "Point",
@@ -1187,8 +1125,7 @@ var seeds = {
         "title": "Torso Masculino",
         "author": "Fernando Botero",
         "year": 1994,
-        "image_name": "fernandobotero_torsomasculino.png",
-        "": ""
+        "image_name": "fernandobotero_torsomasculino.png"
       },
       "geometry": {
         "type": "Point",
@@ -1206,8 +1143,7 @@ var seeds = {
         "title": "Puerta De San Antonio",
         "author": "Ronny Vayda",
         "year": 1994,
-        "image_name": "ronnyvayda_puertadesanantonio.png",
-        "": ""
+        "image_name": "ronnyvayda_puertadesanantonio.png"
       },
       "geometry": {
         "type": "Point",
@@ -1225,8 +1161,7 @@ var seeds = {
         "title": "Pedro Justo Berrío",
         "author": "Giovanni Anderlini",
         "year": 1893,
-        "image_name": "giovannianderlini_pedrojustoberrio.png",
-        "": ""
+        "image_name": "giovannianderlini_pedrojustoberrio.png"
       },
       "geometry": {
         "type": "Point",
@@ -1244,8 +1179,7 @@ var seeds = {
         "title": "Fernando Gomez Martínez",
         "author": "Luz Maria Piedrahita",
         "year": 1999,
-        "image_name": "luzmariapiedrahita_fernandogomezmartinez.png",
-        "": ""
+        "image_name": "luzmariapiedrahita_fernandogomezmartinez.png"
       },
       "geometry": {
         "type": "Point",
@@ -1263,8 +1197,7 @@ var seeds = {
         "title": "El Cacique Nutibara",
         "author": "Pedro Nel Gomez",
         "year": 1954,
-        "image_name": "pedronelgomez_elcaciquenutibara.png",
-        "": ""
+        "image_name": "pedronelgomez_elcaciquenutibara.png"
       },
       "geometry": {
         "type": "Point",
@@ -1282,8 +1215,7 @@ var seeds = {
         "title": "Pedro José Berrío",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_pedrojoseberrio.png",
-        "": ""
+        "image_name": "desconocido_pedrojoseberrio.png"
       },
       "geometry": {
         "type": "Point",
@@ -1301,8 +1233,7 @@ var seeds = {
         "title": "El Árbol De La Vida",
         "author": "Fanor Hernández Ordoñez",
         "year": 1997,
-        "image_name": "fanorhernandezordonez_elarboldelavida.png",
-        "": ""
+        "image_name": "fanorhernandezordonez_elarboldelavida.png"
       },
       "geometry": {
         "type": "Point",
@@ -1320,8 +1251,7 @@ var seeds = {
         "title": "El Árbol De La Vida",
         "author": "José Augusto Rivera Castro",
         "year": 1997,
-        "image_name": "joseaugustoriveracastro_elarboldelavida.png",
-        "": ""
+        "image_name": "joseaugustoriveracastro_elarboldelavida.png"
       },
       "geometry": {
         "type": "Point",
@@ -1339,8 +1269,7 @@ var seeds = {
         "title": "Monumento Al Salvador",
         "author": "Sigmone Y Cia De Ped Buraglia",
         "year": 1917,
-        "image_name": "sigmoneyciadepedburaglia_monumentoalsalvador.png",
-        "": ""
+        "image_name": "sigmoneyciadepedburaglia_monumentoalsalvador.png"
       },
       "geometry": {
         "type": "Point",
@@ -1358,13 +1287,12 @@ var seeds = {
         "title": "Monumento A La Raza",
         "author": "Rodrigo Arenas Betancourt",
         "year": "1979 - 1988",
-        "image_name": "rodrigoarenasbetancourt_monumentoalaraza.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_monumentoalaraza.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.573396,
+          -75.573396,
           6.244365
         ]
       }
@@ -1377,13 +1305,12 @@ var seeds = {
         "title": "Francisco Javier Cisneros",
         "author": "Marco Tobón Mejía",
         "year": 1923,
-        "image_name": "marcotobonmejia_franciscojaviercisneros.png",
-        "": ""
+        "image_name": "marcotobonmejia_franciscojaviercisneros.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.572613,
+          -75.572613,
           6.245033
         ]
       }
@@ -1396,8 +1323,7 @@ var seeds = {
         "title": "Perennidad",
         "author": "Guillermo Villegas Mejía",
         "year": 1997,
-        "image_name": "guillermovillegasmejia_perennidad.png",
-        "": ""
+        "image_name": "guillermovillegasmejia_perennidad.png"
       },
       "geometry": {
         "type": "Point",
@@ -1415,8 +1341,7 @@ var seeds = {
         "title": "La Poda",
         "author": "Bernardo Salcedo",
         "year": 1997,
-        "image_name": "bernardosalcedo_lapoda.png",
-        "": ""
+        "image_name": "bernardosalcedo_lapoda.png"
       },
       "geometry": {
         "type": "Point",
@@ -1434,8 +1359,7 @@ var seeds = {
         "title": "Horizontes",
         "author": "John Castles",
         "year": 1997,
-        "image_name": "johncastles_horizontes.png",
-        "": ""
+        "image_name": "johncastles_horizontes.png"
       },
       "geometry": {
         "type": "Point",
@@ -1453,8 +1377,7 @@ var seeds = {
         "title": "Signo Para Medellín",
         "author": "Otto Herbert Hajek",
         "year": 1997,
-        "image_name": "ottoherberthajek_signoparamedellin.png",
-        "": ""
+        "image_name": "ottoherberthajek_signoparamedellin.png"
       },
       "geometry": {
         "type": "Point",
@@ -1472,8 +1395,7 @@ var seeds = {
         "title": "Venus Fragmentándose Con Platanillos",
         "author": "Marta Minujin",
         "year": 1997,
-        "image_name": "martaminujin_venusfragmentandoseconplatanillos.png",
-        "": ""
+        "image_name": "martaminujin_venusfragmentandoseconplatanillos.png"
       },
       "geometry": {
         "type": "Point",
@@ -1491,8 +1413,7 @@ var seeds = {
         "title": "Formas",
         "author": "Francisco Matto",
         "year": 1997,
-        "image_name": "franciscomatto_formas.png",
-        "": ""
+        "image_name": "franciscomatto_formas.png"
       },
       "geometry": {
         "type": "Point",
@@ -1510,8 +1431,7 @@ var seeds = {
         "title": "Agora",
         "author": "Ronny Vayda",
         "year": 1997,
-        "image_name": "ronnyvayda_agora.png",
-        "": ""
+        "image_name": "ronnyvayda_agora.png"
       },
       "geometry": {
         "type": "Point",
@@ -1529,8 +1449,7 @@ var seeds = {
         "title": "El Mecánico",
         "author": "Justo Arosemena",
         "year": 1997,
-        "image_name": "justoarosemena_elmecanico.png",
-        "": ""
+        "image_name": "justoarosemena_elmecanico.png"
       },
       "geometry": {
         "type": "Point",
@@ -1548,8 +1467,7 @@ var seeds = {
         "title": "Trampolín 1 Y 2",
         "author": "Salvador Arango",
         "year": 1997,
-        "image_name": "salvadorarango_trampolin1y2.png",
-        "": ""
+        "image_name": "salvadorarango_trampolin1y2.png"
       },
       "geometry": {
         "type": "Point",
@@ -1567,8 +1485,7 @@ var seeds = {
         "title": "Doctor León Arango Paucal",
         "author": "Jorge Vélez Correa",
         "year": 1991,
-        "image_name": "jorgevelezcorrea_doctorleonarangopaucal.png",
-        "": ""
+        "image_name": "jorgevelezcorrea_doctorleonarangopaucal.png"
       },
       "geometry": {
         "type": "Point",
@@ -1586,8 +1503,7 @@ var seeds = {
         "title": "Ofrenda De Paz",
         "author": "Lucy Correa",
         "year": 2003,
-        "image_name": "lucycorrea_ofrendadepaz.png",
-        "": ""
+        "image_name": "lucycorrea_ofrendadepaz.png"
       },
       "geometry": {
         "type": "Point",
@@ -1605,8 +1521,7 @@ var seeds = {
         "title": "El Aladino",
         "author": "Gavi Gaviria Cristobal",
         "year": 2003,
-        "image_name": "gavigaviriacristobal_elaladino.png",
-        "": ""
+        "image_name": "gavigaviriacristobal_elaladino.png"
       },
       "geometry": {
         "type": "Point",
@@ -1624,8 +1539,7 @@ var seeds = {
         "title": "El Genio",
         "author": "Gavi Gaviria Cristobal",
         "year": 2003,
-        "image_name": "gavigaviriacristobal_elgenio.png",
-        "": ""
+        "image_name": "gavigaviriacristobal_elgenio.png"
       },
       "geometry": {
         "type": "Point",
@@ -1643,8 +1557,7 @@ var seeds = {
         "title": "Homenaje A Carlos Gardel",
         "author": "Salvador Arango",
         "year": 2003,
-        "image_name": "salvadorarango_homenajeacarlosgardel.png",
-        "": ""
+        "image_name": "salvadorarango_homenajeacarlosgardel.png"
       },
       "geometry": {
         "type": "Point",
@@ -1662,8 +1575,7 @@ var seeds = {
         "title": "Talentos En Libertad",
         "author": "Luz Maria Piedrahita",
         "year": 2003,
-        "image_name": "luzmariapiedrahita_talentosdelibertad.png",
-        "": ""
+        "image_name": "luzmariapiedrahita_talentosdelibertad.png"
       },
       "geometry": {
         "type": "Point",
@@ -1681,8 +1593,7 @@ var seeds = {
         "title": "Jorge Eliecer Gaitán Ayala",
         "author": "Rodolfo Montoya",
         "year": 2004,
-        "image_name": "rodolfomontoya_jorgeeliecergaitanayala.png",
-        "": ""
+        "image_name": "rodolfomontoya_jorgeeliecergaitanayala.png"
       },
       "geometry": {
         "type": "Point",
@@ -1700,8 +1611,7 @@ var seeds = {
         "title": "La Igualdad - El Voto Femenino",
         "author": "Olga Inés Arango",
         "year": "sin fecha",
-        "image_name": "olgainesarango_laigualdadelvotofemenino.png",
-        "": ""
+        "image_name": "olgainesarango_laigualdadelvotofemenino.png"
       },
       "geometry": {
         "type": "Point",
@@ -1719,8 +1629,7 @@ var seeds = {
         "title": "María Cano",
         "author": "Jorge Vélez Correa",
         "year": 2006,
-        "image_name": "jorgevelezcorrea_mariacano.png",
-        "": ""
+        "image_name": "jorgevelezcorrea_mariacano.png"
       },
       "geometry": {
         "type": "Point",
@@ -1738,8 +1647,7 @@ var seeds = {
         "title": "Benedikta Zur Nieden De Echavarría",
         "author": "Luz Maria Piedrahita",
         "year": 2006,
-        "image_name": "luzmariapiedrahita_benediktazurniedendeechavarria.png",
-        "": ""
+        "image_name": "luzmariapiedrahita_benediktazurniedendeechavarria.png"
       },
       "geometry": {
         "type": "Point",
@@ -1757,8 +1665,7 @@ var seeds = {
         "title": "Cacica Dabeiba",
         "author": "Paula Andrea Úsuga Jimenez",
         "year": 2006,
-        "image_name": "paulaandreausugajimenez_cacicadabeiba.png",
-        "": ""
+        "image_name": "paulaandreausugajimenez_cacicadabeiba.png"
       },
       "geometry": {
         "type": "Point",
@@ -1776,8 +1683,7 @@ var seeds = {
         "title": "Cacica Agrazaba",
         "author": "Martha Isabel Arroyabe Ruiz",
         "year": 2006,
-        "image_name": "marthaisabelarroyaberuiz_cacicaagrazaba.png",
-        "": ""
+        "image_name": "marthaisabelarroyaberuiz_cacicaagrazaba.png"
       },
       "geometry": {
         "type": "Point",
@@ -1795,13 +1701,12 @@ var seeds = {
         "title": "Maria Centeno",
         "author": "Gloria Londoño Arango",
         "year": 2006,
-        "image_name": "glorialondonoarango_mariacenteno.png",
-        "": ""
+        "image_name": "glorialondonoarango_mariacenteno.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.563765,
+          -75.563765,
           6.27192
         ]
       }
@@ -1814,8 +1719,7 @@ var seeds = {
         "title": "Simona Duque",
         "author": "Maria Raquel Sierra Varela",
         "year": 2006,
-        "image_name": "mariaraquelsierravarela_simonaduque.png",
-        "": ""
+        "image_name": "mariaraquelsierravarela_simonaduque.png"
       },
       "geometry": {
         "type": "Point",
@@ -1833,13 +1737,12 @@ var seeds = {
         "title": "Madre Laura",
         "author": "Carlos Mario Vélez",
         "year": 2006,
-        "image_name": "carlosmariovelez_madrelaura.png",
-        "": ""
+        "image_name": "carlosmariovelez_madrelaura.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.56353,
+          -75.56353,
           6.272041
         ]
       }
@@ -1852,8 +1755,7 @@ var seeds = {
         "title": "Jesusita Vallejo De Mora Vásquez",
         "author": "Gloria Londoño Arango",
         "year": 2006,
-        "image_name": "glorialondonoarango_jesusitavallejodemoravasquez.png",
-        "": ""
+        "image_name": "glorialondonoarango_jesusitavallejodemoravasquez.png"
       },
       "geometry": {
         "type": "Point",
@@ -1871,8 +1773,7 @@ var seeds = {
         "title": "María Martinez De Nisser",
         "author": "Maria Raquel Sierra Varela",
         "year": 2006,
-        "image_name": "mariaraquelsierravarela_mariamartinezdenisser.png",
-        "": ""
+        "image_name": "mariaraquelsierravarela_mariamartinezdenisser.png"
       },
       "geometry": {
         "type": "Point",
@@ -1890,8 +1791,7 @@ var seeds = {
         "title": "Blanca Isaza Jaramillo Meza",
         "author": "Janeth Reyes Rivera",
         "year": 2006,
-        "image_name": "janethreyesrivera_blancaisazajaramillomeza.png",
-        "": ""
+        "image_name": "janethreyesrivera_blancaisazajaramillomeza.png"
       },
       "geometry": {
         "type": "Point",
@@ -1909,8 +1809,7 @@ var seeds = {
         "title": "Debora Arango Perez",
         "author": "Janeth Reyes Rivera",
         "year": 2006,
-        "image_name": "janethreyesrivera_deboraarangoperez.png",
-        "": ""
+        "image_name": "janethreyesrivera_deboraarangoperez.png"
       },
       "geometry": {
         "type": "Point",
@@ -1928,8 +1827,7 @@ var seeds = {
         "title": "Luz Castro De Gutierrez",
         "author": "Luz Maria Piedrahita",
         "year": 2006,
-        "image_name": "luzmariapiedrahita_luzcastrodegutierrez.png",
-        "": ""
+        "image_name": "luzmariapiedrahita_luzcastrodegutierrez.png"
       },
       "geometry": {
         "type": "Point",
@@ -1947,8 +1845,7 @@ var seeds = {
         "title": "Luzmila Acosta De Ochoa",
         "author": "Martha Cecilia Perez Lozano",
         "year": 2006,
-        "image_name": "marthaceciliaperezlozano_luzmilaacostadeochoa.png",
-        "": ""
+        "image_name": "marthaceciliaperezlozano_luzmilaacostadeochoa.png"
       },
       "geometry": {
         "type": "Point",
@@ -1966,8 +1863,7 @@ var seeds = {
         "title": "Rosita Turizo De Trujillo",
         "author": "Olga Inés Arango",
         "year": 2006,
-        "image_name": "olgainesarango_rositaturizodetrujillo.png",
-        "": ""
+        "image_name": "olgainesarango_rositaturizodetrujillo.png"
       },
       "geometry": {
         "type": "Point",
@@ -1985,8 +1881,7 @@ var seeds = {
         "title": "El Deporte",
         "author": "Fanor Hernández Ordoñez",
         "year": 2003,
-        "image_name": "fanorhernandezordonez_eldeporte.png",
-        "": ""
+        "image_name": "fanorhernandezordonez_eldeporte.png"
       },
       "geometry": {
         "type": "Point",
@@ -2004,8 +1899,7 @@ var seeds = {
         "title": "El Carretillero",
         "author": "Janeth Reyes Rivera",
         "year": 2003,
-        "image_name": "janethreyesrivera_elcarretillero.png",
-        "": ""
+        "image_name": "janethreyesrivera_elcarretillero.png"
       },
       "geometry": {
         "type": "Point",
@@ -2023,8 +1917,7 @@ var seeds = {
         "title": "Guillermo Cano",
         "author": "Autor Desconocido",
         "year": 2007,
-        "image_name": "autordesconocido_guillermocano.png",
-        "": ""
+        "image_name": "autordesconocido_guillermocano.png"
       },
       "geometry": {
         "type": "Point",
@@ -2042,8 +1935,7 @@ var seeds = {
         "title": "Cristo Prometeo",
         "author": "Rodrigo Arenas Betancur",
         "year": 2003,
-        "image_name": "rodrigoarenasbetancur_cristoprometeo.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancur_cristoprometeo.png"
       },
       "geometry": {
         "type": "Point",
@@ -2061,8 +1953,7 @@ var seeds = {
         "title": "Homenaje Al Arriero",
         "author": "Gabriel Jaime Vélez",
         "year": 2008,
-        "image_name": "grabieljaimevelez_homenajealarriero.png",
-        "": ""
+        "image_name": "grabieljaimevelez_homenajealarriero.png"
       },
       "geometry": {
         "type": "Point",
@@ -2080,8 +1971,7 @@ var seeds = {
         "title": "El Gato",
         "author": "Fernando Botero",
         "year": 2010,
-        "image_name": "fernandobotero_elgato.png",
-        "": ""
+        "image_name": "fernandobotero_elgato.png"
       },
       "geometry": {
         "type": "Point",
@@ -2099,8 +1989,7 @@ var seeds = {
         "title": "Los Niños De Villatina",
         "author": "Edgar Gamboa Velásquez",
         "year": 2003,
-        "image_name": "edgargamboavelasquez_losninosdevillatina.png",
-        "": ""
+        "image_name": "edgargamboavelasquez_losninosdevillatina.png"
       },
       "geometry": {
         "type": "Point",
@@ -2118,8 +2007,7 @@ var seeds = {
         "title": "Homenaje Al Silletero",
         "author": "Luz Maria Piedrahita",
         "year": 1997,
-        "image_name": "luzmariapiedrahita_homenajealsilletero.png",
-        "": ""
+        "image_name": "luzmariapiedrahita_homenajealsilletero.png"
       },
       "geometry": {
         "type": "Point",
@@ -2137,8 +2025,7 @@ var seeds = {
         "title": "Pájaro 2",
         "author": "Ruben",
         "year": 2006,
-        "image_name": "ruben_pajaro2.png",
-        "": ""
+        "image_name": "ruben_pajaro2.png"
       },
       "geometry": {
         "type": "Point",
@@ -2156,8 +2043,7 @@ var seeds = {
         "title": "Pájaro 1",
         "author": "Ruben",
         "year": 2006,
-        "image_name": "ruben_pagaro1.png",
-        "": ""
+        "image_name": "ruben_pagaro1.png"
       },
       "geometry": {
         "type": "Point",
@@ -2175,8 +2061,7 @@ var seeds = {
         "title": "La Primavera",
         "author": "Luz Maria Piedrahita",
         "year": 1997,
-        "image_name": "luzmariapiedrahita_laprimavera.png",
-        "": ""
+        "image_name": "luzmariapiedrahita_laprimavera.png"
       },
       "geometry": {
         "type": "Point",
@@ -2194,8 +2079,7 @@ var seeds = {
         "title": "Palomas",
         "author": "Anónimo",
         "year": "sin fecha",
-        "image_name": "anonimo_palomas.png",
-        "": ""
+        "image_name": "anonimo_palomas.png"
       },
       "geometry": {
         "type": "Point",
@@ -2213,8 +2097,7 @@ var seeds = {
         "title": "Santa Elena De Arví",
         "author": "Juan Carlos Velásquez Rua",
         "year": 2006,
-        "image_name": "juancarlosvelasquezrua_santaelenadearvi.png",
-        "": ""
+        "image_name": "juancarlosvelasquezrua_santaelenadearvi.png"
       },
       "geometry": {
         "type": "Point",
@@ -2232,8 +2115,7 @@ var seeds = {
         "title": "Chasera",
         "author": "Olga Inés Arango P",
         "year": 2002,
-        "image_name": "olgainesarangop_chasera.png",
-        "": ""
+        "image_name": "olgainesarangop_chasera.png"
       },
       "geometry": {
         "type": "Point",
@@ -2251,8 +2133,7 @@ var seeds = {
         "title": "El Lotero",
         "author": "Olga Inés Arango P",
         "year": 2003,
-        "image_name": "olgainesarangop_ellotero.png",
-        "": ""
+        "image_name": "olgainesarangop_ellotero.png"
       },
       "geometry": {
         "type": "Point",
@@ -2270,8 +2151,7 @@ var seeds = {
         "title": "El Lustrabotas",
         "author": "Olga Inés Arango P",
         "year": 2003,
-        "image_name": "olgainesarangop_ellustrabotas.png",
-        "": ""
+        "image_name": "olgainesarangop_ellustrabotas.png"
       },
       "geometry": {
         "type": "Point",
@@ -2289,8 +2169,7 @@ var seeds = {
         "title": "Vendedor De Prensa",
         "author": "Olga Inés Arango P",
         "year": 2002,
-        "image_name": "olgainesarangop_vendedordeprensa.png",
-        "": ""
+        "image_name": "olgainesarangop_vendedordeprensa.png"
       },
       "geometry": {
         "type": "Point",
@@ -2308,8 +2187,7 @@ var seeds = {
         "title": "Tornamesa",
         "author": "Ronny Vayda",
         "year": 1997,
-        "image_name": "ronnyvayda_tornamesa.png",
-        "": ""
+        "image_name": "ronnyvayda_tornamesa.png"
       },
       "geometry": {
         "type": "Point",
@@ -2327,8 +2205,7 @@ var seeds = {
         "title": "Renacer",
         "author": "Salvador Arango",
         "year": 2002,
-        "image_name": "salvadorarango_renacer.png",
-        "": ""
+        "image_name": "salvadorarango_renacer.png"
       },
       "geometry": {
         "type": "Point",
@@ -2346,8 +2223,7 @@ var seeds = {
         "title": "Réplica Locomotora",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_replicalocomotora.png",
-        "": ""
+        "image_name": "autordesconocido_replicalocomotora.png"
       },
       "geometry": {
         "type": "Point",
@@ -2365,8 +2241,7 @@ var seeds = {
         "title": "Busto Guillermo Gaviria",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_bustoguillermogaviria.png",
-        "": ""
+        "image_name": "autordesconocido_bustoguillermogaviria.png"
       },
       "geometry": {
         "type": "Point",
@@ -2384,8 +2259,7 @@ var seeds = {
         "title": "Busto Gilberto Echerry",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_bustogilbertoecheverry.png",
-        "": ""
+        "image_name": "autordesconocido_bustogilbertoecheverry.png"
       },
       "geometry": {
         "type": "Point",
@@ -2403,8 +2277,7 @@ var seeds = {
         "title": "El Hincha",
         "author": "Autor Desconocido",
         "year": 1994,
-        "image_name": "desconocido_elhincha.png",
-        "": ""
+        "image_name": "desconocido_elhincha.png"
       },
       "geometry": {
         "type": "Point",
@@ -2422,8 +2295,7 @@ var seeds = {
         "title": "Fantasmas De Medellín",
         "author": "Germán Londoño",
         "year": 1997,
-        "image_name": "germanlondono_fantasmasdemedellin.png",
-        "": ""
+        "image_name": "germanlondono_fantasmasdemedellin.png"
       },
       "geometry": {
         "type": "Point",
@@ -2441,8 +2313,7 @@ var seeds = {
         "title": "Cristo",
         "author": "Josue Giraldo",
         "year": 1983,
-        "image_name": "josuegiraldo_cristo.png",
-        "": ""
+        "image_name": "josuegiraldo_cristo.png"
       },
       "geometry": {
         "type": "Point",
@@ -2460,8 +2331,7 @@ var seeds = {
         "title": "Simón Bolivar",
         "author": "Anónimo",
         "year": "sin fecha",
-        "image_name": "anonimo_simonbolivar.png",
-        "": ""
+        "image_name": "anonimo_simonbolivar.png"
       },
       "geometry": {
         "type": "Point",
@@ -2479,8 +2349,7 @@ var seeds = {
         "title": "El Desafío De La Raza",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1978,
-        "image_name": "rodrigoarenasbetancourt_eldesafiodelaraza.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_eldesafiodelaraza.png"
       },
       "geometry": {
         "type": "Point",
@@ -2498,8 +2367,7 @@ var seeds = {
         "title": "Monumento A La Paz",
         "author": "Pablo Echavarría - Clara López",
         "year": 1994,
-        "image_name": "pabloechavarria_claralopez_monumentoalapaz.png",
-        "": ""
+        "image_name": "pabloechavarria_claralopez_monumentoalapaz.png"
       },
       "geometry": {
         "type": "Point",
@@ -2517,8 +2385,7 @@ var seeds = {
         "title": "Benito Juarez",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_benitojuarez.png",
-        "": ""
+        "image_name": "desconocido_benitojuarez.png"
       },
       "geometry": {
         "type": "Point",
@@ -2536,8 +2403,7 @@ var seeds = {
         "title": "Juan Del Corral",
         "author": "Vieco",
         "year": "sin fecha",
-        "image_name": "vieco_juandelcorral.png",
-        "": ""
+        "image_name": "vieco_juandelcorral.png"
       },
       "geometry": {
         "type": "Point",
@@ -2555,8 +2421,7 @@ var seeds = {
         "title": "Torre Roja",
         "author": "Augusto Ramírez Villamizar",
         "year": "sin fecha",
-        "image_name": "augustoramirezvillamizar_torreroja.png",
-        "": ""
+        "image_name": "augustoramirezvillamizar_torreroja.png"
       },
       "geometry": {
         "type": "Point",
@@ -2574,8 +2439,7 @@ var seeds = {
         "title": "El Silletero",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_elsilletero.png",
-        "": ""
+        "image_name": "autordesconocido_elsilletero.png"
       },
       "geometry": {
         "type": "Point",
@@ -2593,8 +2457,7 @@ var seeds = {
         "title": "Homenaje Al Tango",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_homenajealtango.png",
-        "": ""
+        "image_name": "autordesconocido_homenajealtango.png"
       },
       "geometry": {
         "type": "Point",
@@ -2612,8 +2475,7 @@ var seeds = {
         "title": "Plomada",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_plomada.png",
-        "": ""
+        "image_name": "autordesconocido_plomada.png"
       },
       "geometry": {
         "type": "Point",
@@ -2631,8 +2493,7 @@ var seeds = {
         "title": "Torso Femenino",
         "author": "Fernando Botero",
         "year": 1990,
-        "image_name": "fernandobotero_torsofemenino.png",
-        "": ""
+        "image_name": "fernandobotero_torsofemenino.png"
       },
       "geometry": {
         "type": "Point",
@@ -2650,8 +2511,7 @@ var seeds = {
         "title": "Adán",
         "author": "Fernando Botero",
         "year": 1990,
-        "image_name": "fernandobotero_adan.png",
-        "": ""
+        "image_name": "fernandobotero_adan.png"
       },
       "geometry": {
         "type": "Point",
@@ -2669,8 +2529,7 @@ var seeds = {
         "title": "Caballo",
         "author": "Fernando Botero",
         "year": 1992,
-        "image_name": "fernandobotero_caballo.png",
-        "": ""
+        "image_name": "fernandobotero_caballo.png"
       },
       "geometry": {
         "type": "Point",
@@ -2688,8 +2547,7 @@ var seeds = {
         "title": "Caballo Con Bridas",
         "author": "Fernando Botero",
         "year": 1992,
-        "image_name": "fernandobotero_caballoconbridas.png",
-        "": ""
+        "image_name": "fernandobotero_caballoconbridas.png"
       },
       "geometry": {
         "type": "Point",
@@ -2707,8 +2565,7 @@ var seeds = {
         "title": "Cabeza",
         "author": "Fernando Botero",
         "year": 1999,
-        "image_name": "fernandobotero_cabeza.png",
-        "": ""
+        "image_name": "fernandobotero_cabeza.png"
       },
       "geometry": {
         "type": "Point",
@@ -2726,8 +2583,7 @@ var seeds = {
         "title": "Esfinge",
         "author": "Fernando Botero",
         "year": 1995,
-        "image_name": "fernandobotero_esfinge.png",
-        "": ""
+        "image_name": "fernandobotero_esfinge.png"
       },
       "geometry": {
         "type": "Point",
@@ -2745,8 +2601,7 @@ var seeds = {
         "title": "Eva",
         "author": "Fernando Botero",
         "year": 1990,
-        "image_name": "fernandobotero_eva.png",
-        "": ""
+        "image_name": "fernandobotero_eva.png"
       },
       "geometry": {
         "type": "Point",
@@ -2764,8 +2619,7 @@ var seeds = {
         "title": "Gato",
         "author": "Fernando Botero",
         "year": 1993,
-        "image_name": "fernandobotero_gato.png",
-        "": ""
+        "image_name": "fernandobotero_gato.png"
       },
       "geometry": {
         "type": "Point",
@@ -2783,8 +2637,7 @@ var seeds = {
         "title": "Hombre A Caballo",
         "author": "Fernando Botero",
         "year": 1994,
-        "image_name": "fernandobotero_hombreacaballo.png",
-        "": ""
+        "image_name": "fernandobotero_hombreacaballo.png"
       },
       "geometry": {
         "type": "Point",
@@ -2802,8 +2655,7 @@ var seeds = {
         "title": "Hombre Caminante",
         "author": "Fernando Botero",
         "year": 1999,
-        "image_name": "fernandobotero_hombrecaminante.png",
-        "": ""
+        "image_name": "fernandobotero_hombrecaminante.png"
       },
       "geometry": {
         "type": "Point",
@@ -2821,8 +2673,7 @@ var seeds = {
         "title": "Hombre Vestido",
         "author": "Fernando Botero",
         "year": 1989,
-        "image_name": "fernandobotero_hombrevestido.png",
-        "": ""
+        "image_name": "fernandobotero_hombrevestido.png"
       },
       "geometry": {
         "type": "Point",
@@ -2840,8 +2691,7 @@ var seeds = {
         "title": "Mano",
         "author": "Fernando Botero",
         "year": 1992,
-        "image_name": "fernandobotero_mano.png",
-        "": ""
+        "image_name": "fernandobotero_mano.png"
       },
       "geometry": {
         "type": "Point",
@@ -2859,8 +2709,7 @@ var seeds = {
         "title": "Maternidad",
         "author": "Fernando Botero",
         "year": 1995,
-        "image_name": "fernandobotero_maternidad.png",
-        "": ""
+        "image_name": "fernandobotero_maternidad.png"
       },
       "geometry": {
         "type": "Point",
@@ -2878,8 +2727,7 @@ var seeds = {
         "title": "Mujer",
         "author": "Fernando Botero",
         "year": 1990,
-        "image_name": "fernandobotero_mujer.png",
-        "": ""
+        "image_name": "fernandobotero_mujer.png"
       },
       "geometry": {
         "type": "Point",
@@ -2897,8 +2745,7 @@ var seeds = {
         "title": "Mujer Con Espejo",
         "author": "Fernando Botero",
         "year": 1987,
-        "image_name": "fernandobotero_mujerconespejo.png",
-        "": ""
+        "image_name": "fernandobotero_mujerconespejo.png"
       },
       "geometry": {
         "type": "Point",
@@ -2916,8 +2763,7 @@ var seeds = {
         "title": "Mujer Con Fruta",
         "author": "Fernando Botero",
         "year": 1996,
-        "image_name": "fernandobotero_mujerconfruta.png",
-        "": ""
+        "image_name": "fernandobotero_mujerconfruta.png"
       },
       "geometry": {
         "type": "Point",
@@ -2935,8 +2781,7 @@ var seeds = {
         "title": "Mujer Reclinada",
         "author": "Fernando Botero",
         "year": 1984,
-        "image_name": "fernandobotero_mujerreclinada.png",
-        "": ""
+        "image_name": "fernandobotero_mujerreclinada.png"
       },
       "geometry": {
         "type": "Point",
@@ -2954,8 +2799,7 @@ var seeds = {
         "title": "Mujer Sentada",
         "author": "Fernando Botero",
         "year": 1991,
-        "image_name": "fernandobotero_mujersentada.png",
-        "": ""
+        "image_name": "fernandobotero_mujersentada.png"
       },
       "geometry": {
         "type": "Point",
@@ -2973,8 +2817,7 @@ var seeds = {
         "title": "Mujer Vestida",
         "author": "Fernando Botero",
         "year": 1989,
-        "image_name": "fernandobotero_mujervestida.png",
-        "": ""
+        "image_name": "fernandobotero_mujervestida.png"
       },
       "geometry": {
         "type": "Point",
@@ -2992,8 +2835,7 @@ var seeds = {
         "title": "Venus Dormida",
         "author": "Fernando Botero",
         "year": 1994,
-        "image_name": "fernandobotero_venusdormida.png",
-        "": ""
+        "image_name": "fernandobotero_venusdormida.png"
       },
       "geometry": {
         "type": "Point",
@@ -3011,8 +2853,7 @@ var seeds = {
         "title": "Pensamiento",
         "author": "Fernando Botero",
         "year": 1992,
-        "image_name": "fernandobotero_pensamiento.png",
-        "": ""
+        "image_name": "fernandobotero_pensamiento.png"
       },
       "geometry": {
         "type": "Point",
@@ -3030,8 +2871,7 @@ var seeds = {
         "title": "Perro",
         "author": "Fernando Botero",
         "year": 1993,
-        "image_name": "fernandobotero_perro.png",
-        "": ""
+        "image_name": "fernandobotero_perro.png"
       },
       "geometry": {
         "type": "Point",
@@ -3049,8 +2889,7 @@ var seeds = {
         "title": "Rapto De Europa",
         "author": "Fernando Botero",
         "year": 1991,
-        "image_name": "fernandobotero_raptodeeuropa.png",
-        "": ""
+        "image_name": "fernandobotero_raptodeeuropa.png"
       },
       "geometry": {
         "type": "Point",
@@ -3068,8 +2907,7 @@ var seeds = {
         "title": "Soldado Romano",
         "author": "Fernando Botero",
         "year": 1986,
-        "image_name": "fernandobotero_soldadoromano.png",
-        "": ""
+        "image_name": "fernandobotero_soldadoromano.png"
       },
       "geometry": {
         "type": "Point",
@@ -3087,8 +2925,7 @@ var seeds = {
         "title": "Glorieta Minorista",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_glorietaminorista.png",
-        "": ""
+        "image_name": "autordesconocido_glorietaminorista.png"
       },
       "geometry": {
         "type": "Point",
@@ -3106,8 +2943,7 @@ var seeds = {
         "title": "Signo Homenaje",
         "author": "Manuel Hernandez",
         "year": 2009,
-        "image_name": "manuelhernandez_signohomenaje.png",
-        "": ""
+        "image_name": "manuelhernandez_signohomenaje.png"
       },
       "geometry": {
         "type": "Point",
@@ -3125,8 +2961,7 @@ var seeds = {
         "title": "Andrés Escobar",
         "author": "Alejandro Hernandez",
         "year": 2000,
-        "image_name": "alejandrohernandez_andresescobar.png",
-        "": ""
+        "image_name": "alejandrohernandez_andresescobar.png"
       },
       "geometry": {
         "type": "Point",
@@ -3144,8 +2979,7 @@ var seeds = {
         "title": "Luis Uribe Bueno",
         "author": "Diego Cano",
         "year": 2003,
-        "image_name": "diegocano_luisuribebueno.png",
-        "": ""
+        "image_name": "diegocano_luisuribebueno.png"
       },
       "geometry": {
         "type": "Point",
@@ -3163,8 +2997,7 @@ var seeds = {
         "title": "Jose María Marquez Bravo",
         "author": "Janeth Reyes",
         "year": "sin fecha",
-        "image_name": "janethreyes_josemariamarquezbravo.png",
-        "": ""
+        "image_name": "janethreyes_josemariamarquezbravo.png"
       },
       "geometry": {
         "type": "Point",
@@ -3182,8 +3015,7 @@ var seeds = {
         "title": "El Flautista Y La Bailarina",
         "author": "Rodrigo Arenas Betancourt",
         "year": "sin fecha",
-        "image_name": "rodrigoarenasbetancourt_elflautistaylabailarina.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_elflautistaylabailarina.png"
       },
       "geometry": {
         "type": "Point",
@@ -3201,8 +3033,7 @@ var seeds = {
         "title": "Homenaje A Guillermo Y Gilberto",
         "author": "Salvador Arango",
         "year": "sin fecha",
-        "image_name": "salvadorarango_homenajeaguillermoygilberto.png",
-        "": ""
+        "image_name": "salvadorarango_homenajeaguillermoygilberto.png"
       },
       "geometry": {
         "type": "Point",
@@ -3220,8 +3051,7 @@ var seeds = {
         "title": "Homenaje Al Primer Poblado",
         "author": "Luz María Piedrahita",
         "year": "sin fecha",
-        "image_name": "luzmariapiedrahita_homenajealprimerpoblado.png",
-        "": ""
+        "image_name": "luzmariapiedrahita_homenajealprimerpoblado.png"
       },
       "geometry": {
         "type": "Point",
@@ -3239,8 +3069,7 @@ var seeds = {
         "title": "Antonio Roldan Betancur",
         "author": "Sergio Aristizabal Castaño",
         "year": "sin fecha",
-        "image_name": "placeholder-statue.jpg",
-        "": ""
+        "image_name": "placeholder-statue.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3258,8 +3087,7 @@ var seeds = {
         "title": "El Arriero",
         "author": "Oscar Rojas",
         "year": 1975,
-        "image_name": "oscarrojas_elarriero.png",
-        "": ""
+        "image_name": "oscarrojas_elarriero.png"
       },
       "geometry": {
         "type": "Point",
@@ -3277,8 +3105,7 @@ var seeds = {
         "title": "Oreste Sindici",
         "author": "Amaya - J Pedro - Otros",
         "year": 1978,
-        "image_name": "amaya_jpedro_otros_orestesindici.png",
-        "": ""
+        "image_name": "amaya_jpedro_otros_orestesindici.png"
       },
       "geometry": {
         "type": "Point",
@@ -3296,8 +3123,7 @@ var seeds = {
         "title": "Árbol De La Vida",
         "author": "Leobardo Pérez Jiménez",
         "year": 2012,
-        "image_name": "leobardoperezjimenez_arboldelavida.png",
-        "": ""
+        "image_name": "leobardoperezjimenez_arboldelavida.png"
       },
       "geometry": {
         "type": "Point",
@@ -3315,8 +3141,7 @@ var seeds = {
         "title": "Fuente Parque San Antonio",
         "author": "Leobardo Pérez Jiménez",
         "year": 2012,
-        "image_name": "placeholder-statue.jpg",
-        "": ""
+        "image_name": "placeholder-statue.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3334,8 +3159,7 @@ var seeds = {
         "title": "Busto Andrés Escobar",
         "author": "Cm Vélez",
         "year": 2012,
-        "image_name": "cmvelez_bustoandresescobar.png",
-        "": ""
+        "image_name": "cmvelez_bustoandresescobar.png"
       },
       "geometry": {
         "type": "Point",
@@ -3353,8 +3177,7 @@ var seeds = {
         "title": "Busto Gustavo Rojas Pinilla",
         "author": "Cm Vélez",
         "year": 2012,
-        "image_name": "cmvelez_bustogustavorojaspinilla.png",
-        "": ""
+        "image_name": "cmvelez_bustogustavorojaspinilla.png"
       },
       "geometry": {
         "type": "Point",
@@ -3372,8 +3195,7 @@ var seeds = {
         "title": "La Medicina Y La Salud",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1997,
-        "image_name": "rodrigoarenasbetancourt_lamedicinaylasalud.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_lamedicinaylasalud.png"
       },
       "geometry": {
         "type": "Point",
@@ -3391,8 +3213,7 @@ var seeds = {
         "title": "Homenaje A Giordano Bruno",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1997,
-        "image_name": "rodrigoarenasbetancourt_homenajeagiordanobruno.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_homenajeagiordanobruno.png"
       },
       "geometry": {
         "type": "Point",
@@ -3410,8 +3231,7 @@ var seeds = {
         "title": "La Flautista En Media Luna",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1994,
-        "image_name": "rodrigoarenasbetancourt_laflautistaenmedialuna.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_laflautistaenmedialuna.png"
       },
       "geometry": {
         "type": "Point",
@@ -3429,8 +3249,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "John Castles",
         "year": 1981,
-        "image_name": "johncastles_sintitulo.png",
-        "": ""
+        "image_name": "johncastles_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -3448,8 +3267,7 @@ var seeds = {
         "title": "Acoples (Serie Los Amantes)",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1981,
-        "image_name": "rodrigoarenasbetancourt_acoples.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_acoples.png"
       },
       "geometry": {
         "type": "Point",
@@ -3467,8 +3285,7 @@ var seeds = {
         "title": "Estelas",
         "author": "Hugo Zapata",
         "year": 1987,
-        "image_name": "hugozapata_estelas.png",
-        "": ""
+        "image_name": "hugozapata_estelas.png"
       },
       "geometry": {
         "type": "Point",
@@ -3486,8 +3303,7 @@ var seeds = {
         "title": "Fuente De La Vida",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1974,
-        "image_name": "rodrigoarenasbetancourt_fuentedelavida.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_fuentedelavida.png"
       },
       "geometry": {
         "type": "Point",
@@ -3505,8 +3321,7 @@ var seeds = {
         "title": "El Amor",
         "author": "Salvador Arango",
         "year": 1972,
-        "image_name": "salvadorarango_elamor.png",
-        "": ""
+        "image_name": "salvadorarango_elamor.png"
       },
       "geometry": {
         "type": "Point",
@@ -3524,8 +3339,7 @@ var seeds = {
         "title": "Vanos",
         "author": "John Castles",
         "year": 1975,
-        "image_name": "johncastles_vanos.png",
-        "": ""
+        "image_name": "johncastles_vanos.png"
       },
       "geometry": {
         "type": "Point",
@@ -3543,8 +3357,7 @@ var seeds = {
         "title": "Simbolo Empresa Suramericana",
         "author": "Octavio Montoya",
         "year": 1950,
-        "image_name": "octaviomontoya_simboloempresasuramericana.png",
-        "": ""
+        "image_name": "octaviomontoya_simboloempresasuramericana.png"
       },
       "geometry": {
         "type": "Point",
@@ -3562,8 +3375,7 @@ var seeds = {
         "title": "Tradicion",
         "author": "Salvador Arango",
         "year": 1972,
-        "image_name": "salvadorarango_tradicion.png",
-        "": ""
+        "image_name": "salvadorarango_tradicion.png"
       },
       "geometry": {
         "type": "Point",
@@ -3581,8 +3393,7 @@ var seeds = {
         "title": "Zafra",
         "author": "John Castles",
         "year": 1989,
-        "image_name": "johncastles_zafra.png",
-        "": ""
+        "image_name": "johncastles_zafra.png"
       },
       "geometry": {
         "type": "Point",
@@ -3600,8 +3411,7 @@ var seeds = {
         "title": "Laberinto Cosmico",
         "author": "Salvador Arango",
         "year": 1979,
-        "image_name": "salvadorarango_laberintocosmico.png",
-        "": ""
+        "image_name": "salvadorarango_laberintocosmico.png"
       },
       "geometry": {
         "type": "Point",
@@ -3619,8 +3429,7 @@ var seeds = {
         "title": "Bosque Aereo",
         "author": "Ricardo Cardenas",
         "year": 2013,
-        "image_name": "ricardocardenas_bosqueaereo.png",
-        "": ""
+        "image_name": "ricardocardenas_bosqueaereo.png"
       },
       "geometry": {
         "type": "Point",
@@ -3638,8 +3447,7 @@ var seeds = {
         "title": "La Libertad",
         "author": "Miguel Angel Betancur",
         "year": 1988,
-        "image_name": "miguelangelbetancur_lalibertad.png",
-        "": ""
+        "image_name": "miguelangelbetancur_lalibertad.png"
       },
       "geometry": {
         "type": "Point",
@@ -3657,8 +3465,7 @@ var seeds = {
         "title": "Jugadores De Bolos",
         "author": "Israel Rozo Gomez",
         "year": 1981,
-        "image_name": "israelrozogomez_jugadoresdebolos.png",
-        "": ""
+        "image_name": "israelrozogomez_jugadoresdebolos.png"
       },
       "geometry": {
         "type": "Point",
@@ -3676,8 +3483,7 @@ var seeds = {
         "title": "Movimiento Del Orden",
         "author": "Humberto Elias Velez Escobar",
         "year": 1987,
-        "image_name": "humbertoeliazvelezescobar_movimientodelorden.png",
-        "": ""
+        "image_name": "humbertoeliazvelezescobar_movimientodelorden.png"
       },
       "geometry": {
         "type": "Point",
@@ -3695,8 +3501,7 @@ var seeds = {
         "title": "Columna",
         "author": "German Botero",
         "year": 1979,
-        "image_name": "germanbotero_columna.png",
-        "": ""
+        "image_name": "germanbotero_columna.png"
       },
       "geometry": {
         "type": "Point",
@@ -3714,8 +3519,7 @@ var seeds = {
         "title": "Reloj De Sol",
         "author": "Octavio Uribe",
         "year": 1986,
-        "image_name": "octaviouribe_relojdesol.png",
-        "": ""
+        "image_name": "octaviouribe_relojdesol.png"
       },
       "geometry": {
         "type": "Point",
@@ -3733,8 +3537,7 @@ var seeds = {
         "title": "El Trabajo",
         "author": "Justo Arosemena",
         "year": "1980 - 1985",
-        "image_name": "justoarosemena_eltrabajo.png",
-        "": ""
+        "image_name": "justoarosemena_eltrabajo.png"
       },
       "geometry": {
         "type": "Point",
@@ -3752,8 +3555,7 @@ var seeds = {
         "title": "El Botellon",
         "author": "Salvador Arango",
         "year": 1990,
-        "image_name": "salvadorarango_elbotellon.png",
-        "": ""
+        "image_name": "salvadorarango_elbotellon.png"
       },
       "geometry": {
         "type": "Point",
@@ -3771,8 +3573,7 @@ var seeds = {
         "title": "Pyllar",
         "author": "Ronny Vayda",
         "year": 1990,
-        "image_name": "ronnyvayda_pyllar.png",
-        "": ""
+        "image_name": "ronnyvayda_pyllar.png"
       },
       "geometry": {
         "type": "Point",
@@ -3790,8 +3591,7 @@ var seeds = {
         "title": "Encuentros En El Tiempo - Espacio",
         "author": "Humberto Elias Velez Escobar",
         "year": 1985,
-        "image_name": "humbertoeliazvelezescobar_encuentroseneltiempoespacio.png",
-        "": ""
+        "image_name": "humbertoeliazvelezescobar_encuentroseneltiempoespacio.png"
       },
       "geometry": {
         "type": "Point",
@@ -3809,8 +3609,7 @@ var seeds = {
         "title": "Solo Con Guarda Espalda",
         "author": "Ion Muresanu",
         "year": 1981,
-        "image_name": "ionmuresanu_soloconguardaespalda.png",
-        "": ""
+        "image_name": "ionmuresanu_soloconguardaespalda.png"
       },
       "geometry": {
         "type": "Point",
@@ -3828,8 +3627,7 @@ var seeds = {
         "title": "Ben Hur",
         "author": "Alfonso Goez",
         "year": 1940,
-        "image_name": "alfonsogoez_benhur.png",
-        "": ""
+        "image_name": "alfonsogoez_benhur.png"
       },
       "geometry": {
         "type": "Point",
@@ -3847,8 +3645,7 @@ var seeds = {
         "title": "Ovalo Aureo",
         "author": "Ronny Vayda",
         "year": 1989,
-        "image_name": "ronnyvayda_ovaloaureo.png",
-        "": ""
+        "image_name": "ronnyvayda_ovaloaureo.png"
       },
       "geometry": {
         "type": "Point",
@@ -3866,8 +3663,7 @@ var seeds = {
         "title": "Homenaje A La Amistad",
         "author": "Alonso Rios Vanegas",
         "year": 1985,
-        "image_name": "alonsoriosvanegas_homenajealaamistad.png",
-        "": ""
+        "image_name": "alonsoriosvanegas_homenajealaamistad.png"
       },
       "geometry": {
         "type": "Point",
@@ -3885,8 +3681,7 @@ var seeds = {
         "title": "Jugando Con El Viento",
         "author": "Justo Arosemena",
         "year": 1985,
-        "image_name": "justoarosemena_jugandoconelviento.png",
-        "": ""
+        "image_name": "justoarosemena_jugandoconelviento.png"
       },
       "geometry": {
         "type": "Point",
@@ -3904,8 +3699,7 @@ var seeds = {
         "title": "Fuente",
         "author": "Augusto Gonzalez Y Cia. Arq.",
         "year": 1985,
-        "image_name": "augustogonzalezyciarquitectos_fuente.png",
-        "": ""
+        "image_name": "augustogonzalezyciarquitectos_fuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -3923,8 +3717,7 @@ var seeds = {
         "title": "La Flora",
         "author": "Miguel Angel Betancur",
         "year": 1985,
-        "image_name": "miguelangelbetancur_laflora.png",
-        "": ""
+        "image_name": "miguelangelbetancur_laflora.png"
       },
       "geometry": {
         "type": "Point",
@@ -3942,8 +3735,7 @@ var seeds = {
         "title": "Series",
         "author": "Ronny Vayda",
         "year": 1987,
-        "image_name": "ronnyvayda_series.png",
-        "": ""
+        "image_name": "ronnyvayda_series.png"
       },
       "geometry": {
         "type": "Point",
@@ -3961,8 +3753,7 @@ var seeds = {
         "title": "A La Rueda Rueda",
         "author": "Justo Arosemena",
         "year": 1986,
-        "image_name": "justoarosemena_alaruedarueda.png",
-        "": ""
+        "image_name": "justoarosemena_alaruedarueda.png"
       },
       "geometry": {
         "type": "Point",
@@ -3980,8 +3771,7 @@ var seeds = {
         "title": "Los Arrieros",
         "author": "Justo Arosemena",
         "year": 1981,
-        "image_name": "justoarosemena_losarrieros.png",
-        "": ""
+        "image_name": "justoarosemena_losarrieros.png"
       },
       "geometry": {
         "type": "Point",
@@ -3999,8 +3789,7 @@ var seeds = {
         "title": "Generaciones",
         "author": "Fernando Arroyave Calle",
         "year": 1989,
-        "image_name": "fernandoarroyavecalle_generaciones.png",
-        "": ""
+        "image_name": "fernandoarroyavecalle_generaciones.png"
       },
       "geometry": {
         "type": "Point",
@@ -4018,8 +3807,7 @@ var seeds = {
         "title": "La Alegria De Vivir",
         "author": "Salvador Arango",
         "year": 1977,
-        "image_name": "salvadorarango_laalegriadevivir.png",
-        "": ""
+        "image_name": "salvadorarango_laalegriadevivir.png"
       },
       "geometry": {
         "type": "Point",
@@ -4037,8 +3825,7 @@ var seeds = {
         "title": "Solidaridad",
         "author": "Fredy Sanchez Caballero",
         "year": 1992,
-        "image_name": "fredysanchezcaballero_solidaridad.png",
-        "": ""
+        "image_name": "fredysanchezcaballero_solidaridad.png"
       },
       "geometry": {
         "type": "Point",
@@ -4056,8 +3843,7 @@ var seeds = {
         "title": "Liberacion",
         "author": "Salvador Arango",
         "year": 1974,
-        "image_name": "salvadorarango_liberacion.png",
-        "": ""
+        "image_name": "salvadorarango_liberacion.png"
       },
       "geometry": {
         "type": "Point",
@@ -4075,8 +3861,7 @@ var seeds = {
         "title": "Jardin De Piedras",
         "author": "Hugo Zapata",
         "year": 1989,
-        "image_name": "hugozapata_jardindepiedras.png",
-        "": ""
+        "image_name": "hugozapata_jardindepiedras.png"
       },
       "geometry": {
         "type": "Point",
@@ -4094,8 +3879,7 @@ var seeds = {
         "title": "Grupo De Gaviotas",
         "author": "Justo Arosemena",
         "year": 1982,
-        "image_name": "justoarosemena_grupodegaviotas.png",
-        "": ""
+        "image_name": "justoarosemena_grupodegaviotas.png"
       },
       "geometry": {
         "type": "Point",
@@ -4113,8 +3897,7 @@ var seeds = {
         "title": "Metamorfosis",
         "author": "Edgar Negret",
         "year": 1982,
-        "image_name": "edgarnegret_metamorfosis.png",
-        "": ""
+        "image_name": "edgarnegret_metamorfosis.png"
       },
       "geometry": {
         "type": "Point",
@@ -4132,8 +3915,7 @@ var seeds = {
         "title": "Horizontes",
         "author": "Salvador Arango",
         "year": 1985,
-        "image_name": "salvadorarango_horizontes.png",
-        "": ""
+        "image_name": "salvadorarango_horizontes.png"
       },
       "geometry": {
         "type": "Point",
@@ -4151,8 +3933,7 @@ var seeds = {
         "title": "Fuente",
         "author": "Caicedo Y Gomez Arq.",
         "year": 1988,
-        "image_name": "caicedoygomezarquitectos_fuente.png",
-        "": ""
+        "image_name": "caicedoygomezarquitectos_fuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -4170,8 +3951,7 @@ var seeds = {
         "title": "Inspiracion N° 2",
         "author": "Salvador Arango",
         "year": 1979,
-        "image_name": "salvadorarango_inspiracion2.png",
-        "": ""
+        "image_name": "salvadorarango_inspiracion2.png"
       },
       "geometry": {
         "type": "Point",
@@ -4189,8 +3969,7 @@ var seeds = {
         "title": "Victoria De La Juventud",
         "author": "Miguel Angel Betancur",
         "year": 1980,
-        "image_name": "miguelangelbetancur_victoriadelajuventud.png",
-        "": ""
+        "image_name": "miguelangelbetancur_victoriadelajuventud.png"
       },
       "geometry": {
         "type": "Point",
@@ -4208,8 +3987,7 @@ var seeds = {
         "title": "Las Naves",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_lasnaves.png",
-        "": ""
+        "image_name": "desconocido_lasnaves.png"
       },
       "geometry": {
         "type": "Point",
@@ -4227,8 +4005,7 @@ var seeds = {
         "title": "Los Esclavos",
         "author": "Miguel Angel Betancur",
         "year": 1979,
-        "image_name": "miguelangelbetancur_losesclavos.png",
-        "": ""
+        "image_name": "miguelangelbetancur_losesclavos.png"
       },
       "geometry": {
         "type": "Point",
@@ -4246,8 +4023,7 @@ var seeds = {
         "title": "Sigma De La Vida",
         "author": "Humberto Elias Velez Escobar",
         "year": 1981,
-        "image_name": "humbertoeliasvelezescobar_sigmadelavida.png",
-        "": ""
+        "image_name": "humbertoeliasvelezescobar_sigmadelavida.png"
       },
       "geometry": {
         "type": "Point",
@@ -4265,8 +4041,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_sintitulo.png",
-        "": ""
+        "image_name": "desconocido_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4284,8 +4059,7 @@ var seeds = {
         "title": "Cubo",
         "author": "Ronny Vayda",
         "year": 1985,
-        "image_name": "ronnyvayda_cubo.png",
-        "": ""
+        "image_name": "ronnyvayda_cubo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4303,8 +4077,7 @@ var seeds = {
         "title": "Hermano Caballo",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1990,
-        "image_name": "rodrigoarenasbetancourt_hermanocaballo.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_hermanocaballo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4322,8 +4095,7 @@ var seeds = {
         "title": "Homenaje Al Libertador De Las Republicas Bolivarianas",
         "author": "Alvaro Gomez",
         "year": 1988,
-        "image_name": "alvarogomez_homenajeallibertadordelasrepublicasbolivarianas.png",
-        "": ""
+        "image_name": "alvarogomez_homenajeallibertadordelasrepublicasbolivarianas.png"
       },
       "geometry": {
         "type": "Point",
@@ -4341,8 +4113,7 @@ var seeds = {
         "title": "Y Viento",
         "author": "Salvador Arango",
         "year": 1988,
-        "image_name": "salvadorarango_yviento.png",
-        "": ""
+        "image_name": "salvadorarango_yviento.png"
       },
       "geometry": {
         "type": "Point",
@@ -4360,8 +4131,7 @@ var seeds = {
         "title": "El Niño Del Globo",
         "author": "Justo Arosemena",
         "year": 1990,
-        "image_name": "justoarosemena_elniñodelglobo.png",
-        "": ""
+        "image_name": "justoarosemena_elniñodelglobo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4379,8 +4149,7 @@ var seeds = {
         "title": "Fuente De La Paz",
         "author": "Salvador Arango",
         "year": 1979,
-        "image_name": "salvadorarango_fuentedelapaz.png",
-        "": ""
+        "image_name": "salvadorarango_fuentedelapaz.png"
       },
       "geometry": {
         "type": "Point",
@@ -4398,8 +4167,7 @@ var seeds = {
         "title": "Gemini",
         "author": "Ronny Vayda",
         "year": 1991,
-        "image_name": "ronnyvayda_gemini.png",
-        "": ""
+        "image_name": "ronnyvayda_gemini.png"
       },
       "geometry": {
         "type": "Point",
@@ -4417,8 +4185,7 @@ var seeds = {
         "title": "Fuente Prometeo",
         "author": "Bayron Vasquez",
         "year": 1982,
-        "image_name": "bayronvasquez_fuenteprometeo.png",
-        "": ""
+        "image_name": "bayronvasquez_fuenteprometeo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4436,8 +4203,7 @@ var seeds = {
         "title": "Bocas",
         "author": "Velilla",
         "year": 1978,
-        "image_name": "velilla_bocas.png",
-        "": ""
+        "image_name": "velilla_bocas.png"
       },
       "geometry": {
         "type": "Point",
@@ -4455,8 +4221,7 @@ var seeds = {
         "title": "Fuente",
         "author": "Vida S. A., Constructora",
         "year": 1978,
-        "image_name": "vidasaconstructora_fuente.png",
-        "": ""
+        "image_name": "vidasaconstructora_fuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -4474,8 +4239,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "Te Ana",
         "year": 1978,
-        "image_name": "teana_sintitulo.png",
-        "": ""
+        "image_name": "teana_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4493,8 +4257,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "John Castles",
         "year": 1984,
-        "image_name": "johncastles_sintitulo2.png",
-        "": ""
+        "image_name": "johncastles_sintitulo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -4512,8 +4275,7 @@ var seeds = {
         "title": "En La Isla",
         "author": "Miguel Angel Betancur",
         "year": 1986,
-        "image_name": "miguelangelbetancur_enlaisla.png",
-        "": ""
+        "image_name": "miguelangelbetancur_enlaisla.png"
       },
       "geometry": {
         "type": "Point",
@@ -4531,8 +4293,7 @@ var seeds = {
         "title": "Dama Del Espejo",
         "author": "Salvador Arango",
         "year": 1991,
-        "image_name": "salvadorarango_damadelespejo.png",
-        "": ""
+        "image_name": "salvadorarango_damadelespejo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4550,8 +4311,7 @@ var seeds = {
         "title": "Elementos",
         "author": "Ronny Vayda",
         "year": 1985,
-        "image_name": "ronnyvayda_elementos.png",
-        "": ""
+        "image_name": "ronnyvayda_elementos.png"
       },
       "geometry": {
         "type": "Point",
@@ -4569,8 +4329,7 @@ var seeds = {
         "title": "Sueños De Mujer",
         "author": "Salvador Arango",
         "year": 1986,
-        "image_name": "salvadorarango_suenosdemujer.png",
-        "": ""
+        "image_name": "salvadorarango_suenosdemujer.png"
       },
       "geometry": {
         "type": "Point",
@@ -4588,8 +4347,7 @@ var seeds = {
         "title": "Noche De Luna",
         "author": "Juan Jaramillo - Alberto Riaño",
         "year": 1990,
-        "image_name": "juanjaramillo_albertoriano_nochedeluna.png",
-        "": ""
+        "image_name": "juanjaramillo_albertoriano_nochedeluna.png"
       },
       "geometry": {
         "type": "Point",
@@ -4607,8 +4365,7 @@ var seeds = {
         "title": "Asterisco",
         "author": "Ronny Vayda",
         "year": 1987,
-        "image_name": "ronnyvayda_asterisco.png",
-        "": ""
+        "image_name": "ronnyvayda_asterisco.png"
       },
       "geometry": {
         "type": "Point",
@@ -4626,8 +4383,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "Edgar Negret",
         "year": 1978,
-        "image_name": "edgarnegret_sintitulo.png",
-        "": ""
+        "image_name": "edgarnegret_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4645,8 +4401,7 @@ var seeds = {
         "title": "Bandada De Palomas",
         "author": "Anibal Gil",
         "year": 1980,
-        "image_name": "anibalgil_bandadadepalomas.png",
-        "": ""
+        "image_name": "anibalgil_bandadadepalomas.png"
       },
       "geometry": {
         "type": "Point",
@@ -4664,8 +4419,7 @@ var seeds = {
         "title": "Cactus En Flor",
         "author": "Anibal Gil",
         "year": 1987,
-        "image_name": "anibalgil_cactusenflor.png",
-        "": ""
+        "image_name": "anibalgil_cactusenflor.png"
       },
       "geometry": {
         "type": "Point",
@@ -4683,8 +4437,7 @@ var seeds = {
         "title": "Gnomon",
         "author": "Ronny Vayda",
         "year": 1987,
-        "image_name": "ronnyvayda_gnomon.png",
-        "": ""
+        "image_name": "ronnyvayda_gnomon.png"
       },
       "geometry": {
         "type": "Point",
@@ -4702,8 +4455,7 @@ var seeds = {
         "title": "Hexaedro",
         "author": "Ronny Vayda",
         "year": 1986,
-        "image_name": "ronnyvayda_hexaedro.png",
-        "": ""
+        "image_name": "ronnyvayda_hexaedro.png"
       },
       "geometry": {
         "type": "Point",
@@ -4721,8 +4473,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "Ronny Vayda",
         "year": 1984,
-        "image_name": "ronnyvayda_sintitulo.png",
-        "": ""
+        "image_name": "ronnyvayda_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4740,8 +4491,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "Ronny Vayda",
         "year": 1985,
-        "image_name": "ronnyvayda_sintitulo1.png",
-        "": ""
+        "image_name": "ronnyvayda_sintitulo1.png"
       },
       "geometry": {
         "type": "Point",
@@ -4759,8 +4509,7 @@ var seeds = {
         "title": "Interseccion Rectangular",
         "author": "Ronny Vayda",
         "year": 1988,
-        "image_name": "ronnyvayda_interseccionrectangular.png",
-        "": ""
+        "image_name": "ronnyvayda_interseccionrectangular.png"
       },
       "geometry": {
         "type": "Point",
@@ -4778,8 +4527,7 @@ var seeds = {
         "title": "Cantos",
         "author": "Alberto Uribe Duque",
         "year": 1989,
-        "image_name": "albertouribeduque_cantos.png",
-        "": ""
+        "image_name": "albertouribeduque_cantos.png"
       },
       "geometry": {
         "type": "Point",
@@ -4797,8 +4545,7 @@ var seeds = {
         "title": "Eclipse",
         "author": "Ronny Vayda",
         "year": 1991,
-        "image_name": "ronnyvayda_eclipse.png",
-        "": ""
+        "image_name": "ronnyvayda_eclipse.png"
       },
       "geometry": {
         "type": "Point",
@@ -4816,8 +4563,7 @@ var seeds = {
         "title": "Reloj Solar",
         "author": "Octavio Uribe - Gonzalo Mejia",
         "year": 1986,
-        "image_name": "octaviouribe_gonzalomejia_relojdesol.png",
-        "": ""
+        "image_name": "octaviouribe_gonzalomejia_relojdesol.png"
       },
       "geometry": {
         "type": "Point",
@@ -4835,8 +4581,7 @@ var seeds = {
         "title": "Torso Desnudo",
         "author": "Miguel Angel Betancur",
         "year": 1992,
-        "image_name": "miguelangelbetancur_torsodesnudo.png",
-        "": ""
+        "image_name": "miguelangelbetancur_torsodesnudo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4854,8 +4599,7 @@ var seeds = {
         "title": "Androginia",
         "author": "Pedro Nel Gomez",
         "year": 1974,
-        "image_name": "pedronelgomez_androgina.png",
-        "": ""
+        "image_name": "pedronelgomez_androgina.png"
       },
       "geometry": {
         "type": "Point",
@@ -4873,8 +4617,7 @@ var seeds = {
         "title": "La Llorona",
         "author": "Pedro Nel Gomez",
         "year": 1974,
-        "image_name": "pedronelgomez_lallorona.png",
-        "": ""
+        "image_name": "pedronelgomez_lallorona.png"
       },
       "geometry": {
         "type": "Point",
@@ -4892,8 +4635,7 @@ var seeds = {
         "title": "El Griton",
         "author": "Pedro Nel Gomez",
         "year": 1974,
-        "image_name": "pedronelgomez_elgriton.png",
-        "": ""
+        "image_name": "pedronelgomez_elgriton.png"
       },
       "geometry": {
         "type": "Point",
@@ -4911,8 +4653,7 @@ var seeds = {
         "title": "La Pata Sola",
         "author": "Pedro Nel Gomez",
         "year": 1974,
-        "image_name": "pedronelgomez_lapatasola.png",
-        "": ""
+        "image_name": "pedronelgomez_lapatasola.png"
       },
       "geometry": {
         "type": "Point",
@@ -4930,8 +4671,7 @@ var seeds = {
         "title": "La Patetarro",
         "author": "Pedro Nel Gomez",
         "year": 1974,
-        "image_name": "pedronelgomez_lapatetarro.png",
-        "": ""
+        "image_name": "pedronelgomez_lapatetarro.png"
       },
       "geometry": {
         "type": "Point",
@@ -4949,8 +4689,7 @@ var seeds = {
         "title": "Tierra, Agua, Aire Y Fuego",
         "author": "Pablo Jaramillo",
         "year": 1981,
-        "image_name": "pablojaramillo_tierraaguaaireyfuego.png",
-        "": ""
+        "image_name": "pablojaramillo_tierraaguaaireyfuego.png"
       },
       "geometry": {
         "type": "Point",
@@ -4968,8 +4707,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "Ann L.H; Marvin Rosemberg",
         "year": 1980,
-        "image_name": "annlhmarvinrosemberg_sintitulo.png",
-        "": ""
+        "image_name": "annlhmarvinrosemberg_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -4987,8 +4725,7 @@ var seeds = {
         "title": "Casting",
         "author": "Ronny Vayda",
         "year": 1989,
-        "image_name": "ronnyvayda_casting.png",
-        "": ""
+        "image_name": "ronnyvayda_casting.png"
       },
       "geometry": {
         "type": "Point",
@@ -5006,8 +4743,7 @@ var seeds = {
         "title": "Entreaguas",
         "author": "Hugo Zapata",
         "year": 1991,
-        "image_name": "hugozapata_entreaguas.png",
-        "": ""
+        "image_name": "hugozapata_entreaguas.png"
       },
       "geometry": {
         "type": "Point",
@@ -5025,8 +4761,7 @@ var seeds = {
         "title": "Sin Titulo",
         "author": "Pablo Jaramillo",
         "year": 1987,
-        "image_name": "pablojaramillo_sintitulo.png",
-        "": ""
+        "image_name": "pablojaramillo_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -5044,8 +4779,7 @@ var seeds = {
         "title": "La Industria",
         "author": "Miguel Angel Betancur",
         "year": 1976,
-        "image_name": "miguelangelbetancur_laindustria.png",
-        "": ""
+        "image_name": "miguelangelbetancur_laindustria.png"
       },
       "geometry": {
         "type": "Point",
@@ -5063,8 +4797,7 @@ var seeds = {
         "title": "Reloj Solar",
         "author": "Octavio Uribe - Luis G. Mejia",
         "year": 1987,
-        "image_name": "octaviouribe_luismejia_relojsolar.png",
-        "": ""
+        "image_name": "octaviouribe_luismejia_relojsolar.png"
       },
       "geometry": {
         "type": "Point",
@@ -5082,8 +4815,7 @@ var seeds = {
         "title": "Peine Al Viento",
         "author": "Eduardo Ramirez Villamizar",
         "year": 1982,
-        "image_name": "eduardoramirezvillamizar_peinealviento.png",
-        "": ""
+        "image_name": "eduardoramirezvillamizar_peinealviento.png"
       },
       "geometry": {
         "type": "Point",
@@ -5101,8 +4833,7 @@ var seeds = {
         "title": "Columnas",
         "author": "Monica Negret",
         "year": 1983,
-        "image_name": "monicanegret_columnas.png",
-        "": ""
+        "image_name": "monicanegret_columnas.png"
       },
       "geometry": {
         "type": "Point",
@@ -5120,8 +4851,7 @@ var seeds = {
         "title": "Estructura Espacial",
         "author": "Alberto Uribe Duque",
         "year": 1985,
-        "image_name": "albertouribeduque_estructuraespacial.png",
-        "": ""
+        "image_name": "albertouribeduque_estructuraespacial.png"
       },
       "geometry": {
         "type": "Point",
@@ -5139,8 +4869,7 @@ var seeds = {
         "title": "Solidaridad",
         "author": "Maria Clemencia Ortega M.,",
         "year": 1993,
-        "image_name": "mariaclemenciaortecam_solidaridad.png",
-        "": ""
+        "image_name": "mariaclemenciaortecam_solidaridad.png"
       },
       "geometry": {
         "type": "Point",
@@ -5158,8 +4887,7 @@ var seeds = {
         "title": "Fray Luis Amigo",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_frayluisamigo.png",
-        "": ""
+        "image_name": "desconocido_frayluisamigo.png"
       },
       "geometry": {
         "type": "Point",
@@ -5177,8 +4905,7 @@ var seeds = {
         "title": "Inmaculada Concepcion",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_inmaculadaconcepcion.png",
-        "": ""
+        "image_name": "desconocido_inmaculadaconcepcion.png"
       },
       "geometry": {
         "type": "Point",
@@ -5196,8 +4923,7 @@ var seeds = {
         "title": "San Cayetano",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_sancayetano.png",
-        "": ""
+        "image_name": "desconocido_sancayetano.png"
       },
       "geometry": {
         "type": "Point",
@@ -5215,8 +4941,7 @@ var seeds = {
         "title": "Animal Mitico 1",
         "author": "Fiske Jw - Ny",
         "year": 1923,
-        "image_name": "fiskejw_ny_animalmitico1.png",
-        "": ""
+        "image_name": "fiskejw_ny_animalmitico1.png"
       },
       "geometry": {
         "type": "Point",
@@ -5234,8 +4959,7 @@ var seeds = {
         "title": "Animal Mitico 2",
         "author": "Fiske Jw - Ny",
         "year": 1923,
-        "image_name": "fiskejw_ny_animalmitico2.png",
-        "": ""
+        "image_name": "fiskejw_ny_animalmitico2.png"
       },
       "geometry": {
         "type": "Point",
@@ -5253,8 +4977,7 @@ var seeds = {
         "title": "Animal Mitico 3",
         "author": "Fiske Jw - Ny",
         "year": 1923,
-        "image_name": "fiskejw_ny_animalmitico3.png",
-        "": ""
+        "image_name": "fiskejw_ny_animalmitico3.png"
       },
       "geometry": {
         "type": "Point",
@@ -5272,8 +4995,7 @@ var seeds = {
         "title": "Animal Mitico 4",
         "author": "Fiske Jw - Ny",
         "year": 1923,
-        "image_name": "fiskejw_ny_animalmitico4.png",
-        "": ""
+        "image_name": "fiskejw_ny_animalmitico4.png"
       },
       "geometry": {
         "type": "Point",
@@ -5291,8 +5013,7 @@ var seeds = {
         "title": "Alejandro Echavarria I",
         "author": "Bernardo Vieco",
         "year": 1932,
-        "image_name": "bernardovieco_alejandroechabarriaI.png",
-        "": ""
+        "image_name": "bernardovieco_alejandroechabarriaI.png"
       },
       "geometry": {
         "type": "Point",
@@ -5310,8 +5031,7 @@ var seeds = {
         "title": "Placa Fundadores Del Hospital",
         "author": "Autor Desconocido",
         "year": 1935,
-        "image_name": "autordesconocido_placafundadoresdelhospital.png",
-        "": ""
+        "image_name": "autordesconocido_placafundadoresdelhospital.png"
       },
       "geometry": {
         "type": "Point",
@@ -5329,8 +5049,7 @@ var seeds = {
         "title": "Fuente",
         "author": "Fiske Jw - Ny",
         "year": 1923,
-        "image_name": "fiskejw_ny_fuente.png",
-        "": ""
+        "image_name": "fiskejw_ny_fuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -5348,8 +5067,7 @@ var seeds = {
         "title": "Escudo De Medellín",
         "author": "Octavio Montoya",
         "year": 1973,
-        "image_name": "octaviomontoya_escudodemedellin.png",
-        "": ""
+        "image_name": "octaviomontoya_escudodemedellin.png"
       },
       "geometry": {
         "type": "Point",
@@ -5367,8 +5085,7 @@ var seeds = {
         "title": "Joaquín Antonio Uribe",
         "author": "Alonso Rios V",
         "year": 1973,
-        "image_name": "alonsoriosv_joaquinantoniouribe.png",
-        "": ""
+        "image_name": "alonsoriosv_joaquinantoniouribe.png"
       },
       "geometry": {
         "type": "Point",
@@ -5386,8 +5103,7 @@ var seeds = {
         "title": "Bañista",
         "author": "Jorge Janna",
         "year": 1998,
-        "image_name": "jorgehanna_banista.png",
-        "": ""
+        "image_name": "jorgehanna_banista.png"
       },
       "geometry": {
         "type": "Point",
@@ -5405,8 +5121,7 @@ var seeds = {
         "title": "Monumento Fuente",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_monumentofuente.png",
-        "": ""
+        "image_name": "desconocido_monumentofuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -5424,8 +5139,7 @@ var seeds = {
         "title": "Simón Bolivar",
         "author": "Octavio Montoya",
         "year": 1956,
-        "image_name": "octaviomontoya_simonbolivar.png",
-        "": ""
+        "image_name": "octaviomontoya_simonbolivar.png"
       },
       "geometry": {
         "type": "Point",
@@ -5443,8 +5157,7 @@ var seeds = {
         "title": "Fernando Velez",
         "author": "Jaime Castro",
         "year": 1944,
-        "image_name": "jaimecastro_fernandovelez.png",
-        "": ""
+        "image_name": "jaimecastro_fernandovelez.png"
       },
       "geometry": {
         "type": "Point",
@@ -5462,8 +5175,7 @@ var seeds = {
         "title": "Madremonte",
         "author": "Jose Horacio Betancur",
         "year": 1954,
-        "image_name": "josehoraciobetancur_madremonte.png",
-        "": ""
+        "image_name": "josehoraciobetancur_madremonte.png"
       },
       "geometry": {
         "type": "Point",
@@ -5481,8 +5193,7 @@ var seeds = {
         "title": "Porfirio Barba Jocob",
         "author": "Alonso Rios V",
         "year": 1983,
-        "image_name": "alonsoriosv_porfiriobarbajacob.png",
-        "": ""
+        "image_name": "alonsoriosv_porfiriobarbajacob.png"
       },
       "geometry": {
         "type": "Point",
@@ -5500,8 +5211,7 @@ var seeds = {
         "title": "Luis Fernando Vélez V",
         "author": "Apc (INICIALES)",
         "year": 1987,
-        "image_name": "apc_luisfernandovelezv.png",
-        "": ""
+        "image_name": "apc_luisfernandovelezv.png"
       },
       "geometry": {
         "type": "Point",
@@ -5519,8 +5229,7 @@ var seeds = {
         "title": "Cristo Prometeo",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1968,
-        "image_name": "rodrigoarenasbetancourt_cristoprometeo.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_cristoprometeo.png"
       },
       "geometry": {
         "type": "Point",
@@ -5538,8 +5247,7 @@ var seeds = {
         "title": "Francisco De Paula Santander",
         "author": "Bernardo Vieco - Francisco - David",
         "year": 1940,
-        "image_name": "bernardovieco_francisco_david_franciscodepaulasantander.png",
-        "": ""
+        "image_name": "bernardovieco_francisco_david_franciscodepaulasantander.png"
       },
       "geometry": {
         "type": "Point",
@@ -5557,8 +5265,7 @@ var seeds = {
         "title": "El Hombre Creador De Energía",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1970,
-        "image_name": "rodrigoarenasbetancourt_elhombrecreadordeenergia.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_elhombrecreadordeenergia.png"
       },
       "geometry": {
         "type": "Point",
@@ -5576,8 +5283,7 @@ var seeds = {
         "title": "Hacia El Infinito",
         "author": "Alonso Rios V",
         "year": 1977,
-        "image_name": "alonsoriosv_haciaelinfinito.png",
-        "": ""
+        "image_name": "alonsoriosv_haciaelinfinito.png"
       },
       "geometry": {
         "type": "Point",
@@ -5595,8 +5301,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "John Castles",
         "year": 1989,
-        "image_name": "johncastles_sintitulo3.png",
-        "": ""
+        "image_name": "johncastles_sintitulo3.png"
       },
       "geometry": {
         "type": "Point",
@@ -5614,8 +5319,7 @@ var seeds = {
         "title": "Torre",
         "author": "Germán Botero",
         "year": 1979,
-        "image_name": "germanbotero_torre.png",
-        "": ""
+        "image_name": "germanbotero_torre.png"
       },
       "geometry": {
         "type": "Point",
@@ -5633,8 +5337,7 @@ var seeds = {
         "title": "Muro Abriéndose",
         "author": "Eduardo Ramirez Villamizar",
         "year": 1980,
-        "image_name": "eduardoramirezvillamizar_muroabriendose.png",
-        "": ""
+        "image_name": "eduardoramirezvillamizar_muroabriendose.png"
       },
       "geometry": {
         "type": "Point",
@@ -5652,8 +5355,7 @@ var seeds = {
         "title": "La Creación",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1983,
-        "image_name": "rodrigoarenasbetancourt_lacreacion.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_lacreacion.png"
       },
       "geometry": {
         "type": "Point",
@@ -5671,8 +5373,7 @@ var seeds = {
         "title": "Serie Indigenista M1",
         "author": "Jorge Marín Vieco",
         "year": 1964,
-        "image_name": "jorgemarinvieco_serieindigenistam1.png",
-        "": ""
+        "image_name": "jorgemarinvieco_serieindigenistam1.png"
       },
       "geometry": {
         "type": "Point",
@@ -5690,8 +5391,7 @@ var seeds = {
         "title": "Serie Indigenista M2",
         "author": "Jorge Marín Vieco",
         "year": 1964,
-        "image_name": "jorgemarinvieco_serieindigenistam2.png",
-        "": ""
+        "image_name": "jorgemarinvieco_serieindigenistam2.png"
       },
       "geometry": {
         "type": "Point",
@@ -5709,8 +5409,7 @@ var seeds = {
         "title": "Serie Indigenista M3",
         "author": "Jorge Marín Vieco",
         "year": 1964,
-        "image_name": "jorgemarinvieco_serieindigenistam3.png",
-        "": ""
+        "image_name": "jorgemarinvieco_serieindigenistam3.png"
       },
       "geometry": {
         "type": "Point",
@@ -5728,8 +5427,7 @@ var seeds = {
         "title": "Largo Viaje Desde El Vientre Al Corazón Del Fuego M1",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1966,
-        "image_name": "rodrigoarenasbetancourt_largoviajedesdeelvientrealcorazondelfuegom1.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_largoviajedesdeelvientrealcorazondelfuegom1.png"
       },
       "geometry": {
         "type": "Point",
@@ -5747,8 +5445,7 @@ var seeds = {
         "title": "Largo Viaje Desde El Vientre Al Corazón Del Fuego",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1966,
-        "image_name": "rodrigoarenasbetancourt_largoviajedesdeelvientrealcorazondelfuego.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_largoviajedesdeelvientrealcorazondelfuego.png"
       },
       "geometry": {
         "type": "Point",
@@ -5766,8 +5463,7 @@ var seeds = {
         "title": "El Hombre Y El Universo",
         "author": "Alonso Rios V",
         "year": 1980,
-        "image_name": "alonsoriosv_elhombreyeluniverso.png",
-        "": ""
+        "image_name": "alonsoriosv_elhombreyeluniverso.png"
       },
       "geometry": {
         "type": "Point",
@@ -5785,8 +5481,7 @@ var seeds = {
         "title": "Tango",
         "author": "Salvador Arango",
         "year": 1992,
-        "image_name": "salvadorarango_tango.png",
-        "": ""
+        "image_name": "salvadorarango_tango.png"
       },
       "geometry": {
         "type": "Point",
@@ -5804,8 +5499,7 @@ var seeds = {
         "title": "Navegante 1",
         "author": "Salvador Arango",
         "year": 1982,
-        "image_name": "salvadorarango_navegante1.png",
-        "": ""
+        "image_name": "salvadorarango_navegante1.png"
       },
       "geometry": {
         "type": "Point",
@@ -5823,8 +5517,7 @@ var seeds = {
         "title": "Las Palomas",
         "author": "Anibal Gil",
         "year": 1986,
-        "image_name": "anibalgil_laspalomas.png",
-        "": ""
+        "image_name": "anibalgil_laspalomas.png"
       },
       "geometry": {
         "type": "Point",
@@ -5842,8 +5535,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Ronny Vayda",
         "year": 1994,
-        "image_name": "ronnyvayda_sintitulo2.png",
-        "": ""
+        "image_name": "ronnyvayda_sintitulo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -5861,8 +5553,7 @@ var seeds = {
         "title": "Esquina",
         "author": "Pedro Pablo Lalinde",
         "year": 1989,
-        "image_name": "pedropablolalinde_esquina.png",
-        "": ""
+        "image_name": "pedropablolalinde_esquina.png"
       },
       "geometry": {
         "type": "Point",
@@ -5880,8 +5571,7 @@ var seeds = {
         "title": "Piernas",
         "author": "Jorge Janna",
         "year": 1987,
-        "image_name": "jorgejanna_piernas.png",
-        "": ""
+        "image_name": "jorgejanna_piernas.png"
       },
       "geometry": {
         "type": "Point",
@@ -5899,8 +5589,7 @@ var seeds = {
         "title": "Reflexión Cambiante",
         "author": "Humberto Elías Vélez Escobar",
         "year": 1987,
-        "image_name": "humbertoeliasvelezescobar_reflexioncambiante.png",
-        "": ""
+        "image_name": "humbertoeliasvelezescobar_reflexioncambiante.png"
       },
       "geometry": {
         "type": "Point",
@@ -5918,8 +5607,7 @@ var seeds = {
         "title": "Punto De Vista Sobre Un Paisaje Urbano Sobre El Valle De Aburrá",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_puntodevistasobrepaisajeurbano.png",
-        "": ""
+        "image_name": "autordesconocido_puntodevistasobrepaisajeurbano.png"
       },
       "geometry": {
         "type": "Point",
@@ -5937,8 +5625,7 @@ var seeds = {
         "title": "Sueños",
         "author": "Justo Arosemena",
         "year": 1985,
-        "image_name": "justoarosemena_suenos.png",
-        "": ""
+        "image_name": "justoarosemena_suenos.png"
       },
       "geometry": {
         "type": "Point",
@@ -5956,8 +5643,7 @@ var seeds = {
         "title": "Espejo De Agua Y Tratamiento Ambiental",
         "author": "Taller De Diseño",
         "year": 1986,
-        "image_name": "tallerdesueno_espejodeaguaytratamientoambiental.png",
-        "": ""
+        "image_name": "tallerdesueno_espejodeaguaytratamientoambiental.png"
       },
       "geometry": {
         "type": "Point",
@@ -5975,8 +5661,7 @@ var seeds = {
         "title": "Los Caminantes 1",
         "author": "Luis Fernando Pelaez",
         "year": 1984,
-        "image_name": "luisfernandopelaez_loscaminantes1.png",
-        "": ""
+        "image_name": "luisfernandopelaez_loscaminantes1.png"
       },
       "geometry": {
         "type": "Point",
@@ -5994,8 +5679,7 @@ var seeds = {
         "title": "Los Caminantes 2",
         "author": "Luis Fernando Pelaez",
         "year": 1984,
-        "image_name": "luisfernandopelaez_loscaminantes2.png",
-        "": ""
+        "image_name": "luisfernandopelaez_loscaminantes2.png"
       },
       "geometry": {
         "type": "Point",
@@ -6013,8 +5697,7 @@ var seeds = {
         "title": "Piel De Figura 3",
         "author": "Abelardo Osorio",
         "year": 1991,
-        "image_name": "abelardoosorio_pieldefigura3.png",
-        "": ""
+        "image_name": "abelardoosorio_pieldefigura3.png"
       },
       "geometry": {
         "type": "Point",
@@ -6032,8 +5715,7 @@ var seeds = {
         "title": "Gamines Escalando Muro",
         "author": "Alberto Uribe Duque",
         "year": 1986,
-        "image_name": "albertouribeduque_gaminesescalandomuro.png",
-        "": ""
+        "image_name": "albertouribeduque_gaminesescalandomuro.png"
       },
       "geometry": {
         "type": "Point",
@@ -6051,8 +5733,7 @@ var seeds = {
         "title": "Pescador",
         "author": "Justo Arosemena",
         "year": 1989,
-        "image_name": "justoarosemena_pescador.png",
-        "": ""
+        "image_name": "justoarosemena_pescador.png"
       },
       "geometry": {
         "type": "Point",
@@ -6070,8 +5751,7 @@ var seeds = {
         "title": "Los Amigos",
         "author": "Justo Arosemena",
         "year": 1984,
-        "image_name": "justoarosemena_losamigos.png",
-        "": ""
+        "image_name": "justoarosemena_losamigos.png"
       },
       "geometry": {
         "type": "Point",
@@ -6089,8 +5769,7 @@ var seeds = {
         "title": "Arcos",
         "author": "Ronny Vayda",
         "year": 1992,
-        "image_name": "ronnyvayda_arcos.png",
-        "": ""
+        "image_name": "ronnyvayda_arcos.png"
       },
       "geometry": {
         "type": "Point",
@@ -6108,8 +5787,7 @@ var seeds = {
         "title": "El Retorno",
         "author": "Oscar Rojas",
         "year": 1983,
-        "image_name": "oscarrojas_elretorno.png",
-        "": ""
+        "image_name": "oscarrojas_elretorno.png"
       },
       "geometry": {
         "type": "Point",
@@ -6127,8 +5805,7 @@ var seeds = {
         "title": "Caida De Agua",
         "author": "Justo Arosemena",
         "year": 1987,
-        "image_name": "justoarosemena_caidadeagua.png",
-        "": ""
+        "image_name": "justoarosemena_caidadeagua.png"
       },
       "geometry": {
         "type": "Point",
@@ -6146,8 +5823,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Mauricio Arango Mejía",
         "year": 1986,
-        "image_name": "mauricioarangomejia_sintitulo.png",
-        "": ""
+        "image_name": "mauricioarangomejia_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6165,8 +5841,7 @@ var seeds = {
         "title": "Tres Limones",
         "author": "Luis Alfonso Ramirez",
         "year": 1989,
-        "image_name": "luisalfonsoramirez_treslimones.png",
-        "": ""
+        "image_name": "luisalfonsoramirez_treslimones.png"
       },
       "geometry": {
         "type": "Point",
@@ -6184,8 +5859,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Alonso Rios Vanegas",
         "year": 1987,
-        "image_name": "alonsoriosvanegas_sintitulo.png",
-        "": ""
+        "image_name": "alonsoriosvanegas_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6203,8 +5877,7 @@ var seeds = {
         "title": "El Asiento Del Sol",
         "author": "Alejo Santamaría Uribe",
         "year": 1994,
-        "image_name": "alejosantamariauribe_elasientodelsol.png",
-        "": ""
+        "image_name": "alejosantamariauribe_elasientodelsol.png"
       },
       "geometry": {
         "type": "Point",
@@ -6222,8 +5895,7 @@ var seeds = {
         "title": "Frangmentos De La Tierra",
         "author": "Olga Salazar",
         "year": 1992,
-        "image_name": "olgasalazar_fragmentosdelatierra.png",
-        "": ""
+        "image_name": "olgasalazar_fragmentosdelatierra.png"
       },
       "geometry": {
         "type": "Point",
@@ -6241,8 +5913,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Jean Gabriel Thenot",
         "year": 1990,
-        "image_name": "jeangabrielthenot_sintitulo.png",
-        "": ""
+        "image_name": "jeangabrielthenot_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6260,8 +5931,7 @@ var seeds = {
         "title": "Resurrección (DE Pie A Pesar De)",
         "author": "Jean Gabriel Thenot",
         "year": 1991,
-        "image_name": "jeangabrielthenot_resurreccion.png",
-        "": ""
+        "image_name": "jeangabrielthenot_resurreccion.png"
       },
       "geometry": {
         "type": "Point",
@@ -6279,8 +5949,7 @@ var seeds = {
         "title": "Hexaedro Rotando",
         "author": "Ronny Vayda",
         "year": 1987,
-        "image_name": "ronnyvayda_hexaedrorotando.png",
-        "": ""
+        "image_name": "ronnyvayda_hexaedrorotando.png"
       },
       "geometry": {
         "type": "Point",
@@ -6298,8 +5967,7 @@ var seeds = {
         "title": "Cuadrica",
         "author": "Ronny Vayda",
         "year": 1994,
-        "image_name": "ronnyvayda_cuadrica.png",
-        "": ""
+        "image_name": "ronnyvayda_cuadrica.png"
       },
       "geometry": {
         "type": "Point",
@@ -6317,8 +5985,7 @@ var seeds = {
         "title": "Tres Esquinas",
         "author": "Alberto Uribe Duque",
         "year": 1989,
-        "image_name": "albertouribeduque_tresesquinas.png",
-        "": ""
+        "image_name": "albertouribeduque_tresesquinas.png"
       },
       "geometry": {
         "type": "Point",
@@ -6336,8 +6003,7 @@ var seeds = {
         "title": "Figuras Sedentes",
         "author": "Natalia Rivera",
         "year": 1987,
-        "image_name": "nataliarivera_figurassedentes.png",
-        "": ""
+        "image_name": "nataliarivera_figurassedentes.png"
       },
       "geometry": {
         "type": "Point",
@@ -6355,8 +6021,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Alberto Uribe Duque",
         "year": 1984,
-        "image_name": "albertouribeduque_sintitulo.png",
-        "": ""
+        "image_name": "albertouribeduque_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6374,8 +6039,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Germán Botero",
         "year": 1975,
-        "image_name": "germanbotero_sintitulo.png",
-        "": ""
+        "image_name": "germanbotero_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6393,8 +6057,7 @@ var seeds = {
         "title": "Rejas",
         "author": "Luis Fernando Pelaez",
         "year": 1980,
-        "image_name": "luisfernandopelaez_rejas.png",
-        "": ""
+        "image_name": "luisfernandopelaez_rejas.png"
       },
       "geometry": {
         "type": "Point",
@@ -6412,8 +6075,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Hugo Zapata",
         "year": 1989,
-        "image_name": "hugozapata_sintitulo.png",
-        "": ""
+        "image_name": "hugozapata_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6431,8 +6093,7 @@ var seeds = {
         "title": "Incitación Al Juego",
         "author": "Fernando Arroyave",
         "year": 1989,
-        "image_name": "fernandoarroyave_incitacionaljuego.png",
-        "": ""
+        "image_name": "fernandoarroyave_incitacionaljuego.png"
       },
       "geometry": {
         "type": "Point",
@@ -6450,8 +6111,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Clemencia Echeverri",
         "year": 1987,
-        "image_name": "clemenciaecheverri_sintitulo.png",
-        "": ""
+        "image_name": "clemenciaecheverri_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6469,8 +6129,7 @@ var seeds = {
         "title": "Palomas",
         "author": "Anibal Gil",
         "year": 1978,
-        "image_name": "anibalgil_palomas.png",
-        "": ""
+        "image_name": "anibalgil_palomas.png"
       },
       "geometry": {
         "type": "Point",
@@ -6488,8 +6147,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "John Castles",
         "year": 1973,
-        "image_name": "johncastles_sintitulo4.png",
-        "": ""
+        "image_name": "johncastles_sintitulo4.png"
       },
       "geometry": {
         "type": "Point",
@@ -6507,8 +6165,7 @@ var seeds = {
         "title": "Abside",
         "author": "Ronny Vayda",
         "year": 1993,
-        "image_name": "ronnyvayda_abside.png",
-        "": ""
+        "image_name": "ronnyvayda_abside.png"
       },
       "geometry": {
         "type": "Point",
@@ -6526,8 +6183,7 @@ var seeds = {
         "title": "Alejandría",
         "author": "Pedro Pablo Lalinde",
         "year": 1987,
-        "image_name": "pedropablolalinde_alejandria.png",
-        "": ""
+        "image_name": "pedropablolalinde_alejandria.png"
       },
       "geometry": {
         "type": "Point",
@@ -6545,8 +6201,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Ronny Vayda",
         "year": 1984,
-        "image_name": "ronnyvayda_sintitulo3.png",
-        "": ""
+        "image_name": "ronnyvayda_sintitulo3.png"
       },
       "geometry": {
         "type": "Point",
@@ -6564,8 +6219,7 @@ var seeds = {
         "title": "El Abrazo",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1994,
-        "image_name": "rodrigoarenasbetancourt_elabrazo.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_elabrazo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6583,8 +6237,7 @@ var seeds = {
         "title": "Espacio Al Sol",
         "author": "Clemencia Echeverri",
         "year": 1994,
-        "image_name": "clemenciaecheverri_espacioalsol.png",
-        "": ""
+        "image_name": "clemenciaecheverri_espacioalsol.png"
       },
       "geometry": {
         "type": "Point",
@@ -6602,8 +6255,7 @@ var seeds = {
         "title": "Fuente",
         "author": "Javier Pelaez",
         "year": 1988,
-        "image_name": "javierpelaez_fuente.png",
-        "": ""
+        "image_name": "javierpelaez_fuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -6621,8 +6273,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Jairo Restrepo Tisnes",
         "year": 1986,
-        "image_name": "jairorestrepotisnes_sintitulo.png",
-        "": ""
+        "image_name": "jairorestrepotisnes_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6640,8 +6291,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Mauricio Arango",
         "year": 1984,
-        "image_name": "mauricioarango_sintitulo.png",
-        "": ""
+        "image_name": "mauricioarango_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6659,8 +6309,7 @@ var seeds = {
         "title": "Ladrón De Gallinas",
         "author": "Justo Arosemena",
         "year": 1985,
-        "image_name": "justoarosemena_ladrondegallinas.png",
-        "": ""
+        "image_name": "justoarosemena_ladrondegallinas.png"
       },
       "geometry": {
         "type": "Point",
@@ -6678,8 +6327,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Hugo Zapata",
         "year": 1990,
-        "image_name": "hugozapata_sintitulo2.png",
-        "": ""
+        "image_name": "hugozapata_sintitulo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -6697,8 +6345,7 @@ var seeds = {
         "title": "Un Lugar Para El Agua",
         "author": "Alberto Uribe Duque",
         "year": 1992,
-        "image_name": "albertouribeduque_unlugarparaelagua.png",
-        "": ""
+        "image_name": "albertouribeduque_unlugarparaelagua.png"
       },
       "geometry": {
         "type": "Point",
@@ -6716,8 +6363,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Salvador Arango",
         "year": 1990,
-        "image_name": "salvadorarango_sintitulo.png",
-        "": ""
+        "image_name": "salvadorarango_sintitulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -6735,8 +6381,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Ronny Vayda",
         "year": 1993,
-        "image_name": "ronnyvayda_sintitulo4.png",
-        "": ""
+        "image_name": "ronnyvayda_sintitulo4.png"
       },
       "geometry": {
         "type": "Point",
@@ -6754,8 +6399,7 @@ var seeds = {
         "title": "Agua (Fuente)",
         "author": "Jairo Restrepo T",
         "year": 1990,
-        "image_name": "jairorestrepot_agua.png",
-        "": ""
+        "image_name": "jairorestrepot_agua.png"
       },
       "geometry": {
         "type": "Point",
@@ -6773,8 +6417,7 @@ var seeds = {
         "title": "Pórticos",
         "author": "Ronny Vayda",
         "year": 1984,
-        "image_name": "ronnyvayda_porticos.png",
-        "": ""
+        "image_name": "ronnyvayda_porticos.png"
       },
       "geometry": {
         "type": "Point",
@@ -6792,8 +6435,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Alberto Uribe Duque",
         "year": 1984,
-        "image_name": "albertouribeduque_sintitulo2.png",
-        "": ""
+        "image_name": "albertouribeduque_sintitulo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -6811,8 +6453,7 @@ var seeds = {
         "title": "Reloj Solar",
         "author": "Octavio Uribe - Luis Gonzalo Mejía",
         "year": 1988,
-        "image_name": "octaviouribe_luisgonzalomejia_relojsolar.png",
-        "": ""
+        "image_name": "octaviouribe_luisgonzalomejia_relojsolar.png"
       },
       "geometry": {
         "type": "Point",
@@ -6830,8 +6471,7 @@ var seeds = {
         "title": "Marcos Triunfantes",
         "author": "Nelo Romero",
         "year": 1995,
-        "image_name": "neloromero_marcostriunfantes.png",
-        "": ""
+        "image_name": "neloromero_marcostriunfantes.png"
       },
       "geometry": {
         "type": "Point",
@@ -6849,8 +6489,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Clemencia Echeverri",
         "year": 1994,
-        "image_name": "clemenciaecheverri_sintitulo2.png",
-        "": ""
+        "image_name": "clemenciaecheverri_sintitulo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -6868,8 +6507,7 @@ var seeds = {
         "title": "Fuente",
         "author": "Autor Desconocido",
         "year": 1994,
-        "image_name": "desconocido_fuente.png",
-        "": ""
+        "image_name": "desconocido_fuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -6887,8 +6525,7 @@ var seeds = {
         "title": "Patio Español Derruido (Fuente)",
         "author": "Pedro Pablo Lalinde",
         "year": 1987,
-        "image_name": "pedropablolalinde_patioespanolderruido.png",
-        "": ""
+        "image_name": "pedropablolalinde_patioespanolderruido.png"
       },
       "geometry": {
         "type": "Point",
@@ -6906,8 +6543,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Autor Desconocido",
         "year": 1980,
-        "image_name": "desconocido_sintitulo2.png",
-        "": ""
+        "image_name": "desconocido_sintitulo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -6925,8 +6561,7 @@ var seeds = {
         "title": "Pensadora",
         "author": "Salvador Arango",
         "year": 1979,
-        "image_name": "salvadorarango_pensadora.png",
-        "": ""
+        "image_name": "salvadorarango_pensadora.png"
       },
       "geometry": {
         "type": "Point",
@@ -6944,8 +6579,7 @@ var seeds = {
         "title": "Fuente",
         "author": "Gustavo Gallego",
         "year": 1992,
-        "image_name": "gustavogallego_fuente.png",
-        "": ""
+        "image_name": "gustavogallego_fuente.png"
       },
       "geometry": {
         "type": "Point",
@@ -6963,8 +6597,7 @@ var seeds = {
         "title": "Flautista",
         "author": "Salvador Arango",
         "year": 1992,
-        "image_name": "salvadorarango_flautista.png",
-        "": ""
+        "image_name": "salvadorarango_flautista.png"
       },
       "geometry": {
         "type": "Point",
@@ -6982,8 +6615,7 @@ var seeds = {
         "title": "La Nueva Vida",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1984,
-        "image_name": "rodrigoarenasbetancourt_lanuevavida.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_lanuevavida.png"
       },
       "geometry": {
         "type": "Point",
@@ -7001,8 +6633,7 @@ var seeds = {
         "title": "Retorno",
         "author": "Salvador Arango",
         "year": 1990,
-        "image_name": "salvadorarango_retorno.png",
-        "": ""
+        "image_name": "salvadorarango_retorno.png"
       },
       "geometry": {
         "type": "Point",
@@ -7020,8 +6651,7 @@ var seeds = {
         "title": "Forjador Del Futuro",
         "author": "Israel Rozo Gómez",
         "year": 1993,
-        "image_name": "israelrozogomez_forjadordelfuturo.png",
-        "": ""
+        "image_name": "israelrozogomez_forjadordelfuturo.png"
       },
       "geometry": {
         "type": "Point",
@@ -7039,8 +6669,7 @@ var seeds = {
         "title": "La Luz",
         "author": "Justo Atrosemena",
         "year": 1990,
-        "image_name": "justoatrosemena_laluz.png",
-        "": ""
+        "image_name": "justoatrosemena_laluz.png"
       },
       "geometry": {
         "type": "Point",
@@ -7058,8 +6687,7 @@ var seeds = {
         "title": "Teorema",
         "author": "Ronny Vayda",
         "year": 1993,
-        "image_name": "ronnyvayda_teorema.png",
-        "": ""
+        "image_name": "ronnyvayda_teorema.png"
       },
       "geometry": {
         "type": "Point",
@@ -7077,8 +6705,7 @@ var seeds = {
         "title": "Tierra Aire Mar (Cascada Multicolor)",
         "author": "Humberto Elías Velez",
         "year": 1985,
-        "image_name": "humbertoeliasvelez_tierraairemar.png",
-        "": ""
+        "image_name": "humbertoeliasvelez_tierraairemar.png"
       },
       "geometry": {
         "type": "Point",
@@ -7096,8 +6723,7 @@ var seeds = {
         "title": "El Columpio",
         "author": "Justo Arosemena",
         "year": 1989,
-        "image_name": "justoarosemena_elcolumpio.png",
-        "": ""
+        "image_name": "justoarosemena_elcolumpio.png"
       },
       "geometry": {
         "type": "Point",
@@ -7115,8 +6741,7 @@ var seeds = {
         "title": "Reloj Solar",
         "author": "Octavio Uribe Toro - Luis Gonzalo Mejía",
         "year": 1985,
-        "image_name": "octaviouribetoro_luisgonzalomejia_relojsolar.png",
-        "": ""
+        "image_name": "octaviouribetoro_luisgonzalomejia_relojsolar.png"
       },
       "geometry": {
         "type": "Point",
@@ -7134,8 +6759,7 @@ var seeds = {
         "title": "Croquis",
         "author": "Ronny Vayda",
         "year": 1994,
-        "image_name": "ronnyvayda_croquis.png",
-        "": ""
+        "image_name": "ronnyvayda_croquis.png"
       },
       "geometry": {
         "type": "Point",
@@ -7153,8 +6777,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Jean Gabriel Thenot",
         "year": "sin fecha",
-        "image_name": "jeangabrielthenot_sintitulo2.png",
-        "": ""
+        "image_name": "jeangabrielthenot_sintitulo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -7172,8 +6795,7 @@ var seeds = {
         "title": "Título Desconocido",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_titulodesconocido.png",
-        "": ""
+        "image_name": "autordesconocido_titulodesconocido.png"
       },
       "geometry": {
         "type": "Point",
@@ -7191,8 +6813,7 @@ var seeds = {
         "title": "Estadio Campestre",
         "author": "Autor Desconocido",
         "year": 1991,
-        "image_name": "desconocido_estadiocampestre.png",
-        "": ""
+        "image_name": "desconocido_estadiocampestre.png"
       },
       "geometry": {
         "type": "Point",
@@ -7210,8 +6831,7 @@ var seeds = {
         "title": "Jorge Robledo",
         "author": "Autor Desconocido",
         "year": 1970,
-        "image_name": "desconocido_jorgerobledo.png",
-        "": ""
+        "image_name": "desconocido_jorgerobledo.png"
       },
       "geometry": {
         "type": "Point",
@@ -7229,8 +6849,7 @@ var seeds = {
         "title": "Los Ingenieros De Las Minas",
         "author": "Pedro Nel Gómez",
         "year": 1947,
-        "image_name": "pedronelgomez_losingenierosdelasminas.png",
-        "": ""
+        "image_name": "pedronelgomez_losingenierosdelasminas.png"
       },
       "geometry": {
         "type": "Point",
@@ -7248,8 +6867,7 @@ var seeds = {
         "title": "La Familia De Los Mineros",
         "author": "Pedro Nel Gómez",
         "year": 1947,
-        "image_name": "pedronelgomez_lafamiliadelosmineros.png",
-        "": ""
+        "image_name": "pedronelgomez_lafamiliadelosmineros.png"
       },
       "geometry": {
         "type": "Point",
@@ -7267,8 +6885,7 @@ var seeds = {
         "title": "Al Compás",
         "author": "Maria Victoria Giron",
         "year": 1991,
-        "image_name": "mariavictoriagiron_alcompas.png",
-        "": ""
+        "image_name": "mariavictoriagiron_alcompas.png"
       },
       "geometry": {
         "type": "Point",
@@ -7286,8 +6903,7 @@ var seeds = {
         "title": "Miguel Ángel Builes",
         "author": "Autor Desconocido",
         "year": 1988,
-        "image_name": "desconocido_miguelangelbuiles.png",
-        "": ""
+        "image_name": "desconocido_miguelangelbuiles.png"
       },
       "geometry": {
         "type": "Point",
@@ -7305,8 +6921,7 @@ var seeds = {
         "title": "El Sembrador",
         "author": "Israel Rozo Gómez",
         "year": 1994,
-        "image_name": "israelrozogomez_elsembrador.png",
-        "": ""
+        "image_name": "israelrozogomez_elsembrador.png"
       },
       "geometry": {
         "type": "Point",
@@ -7324,8 +6939,7 @@ var seeds = {
         "title": "Encuentro",
         "author": "Israel Rozo Gómez",
         "year": 1993,
-        "image_name": "israelrozogomez_encuentro.png",
-        "": ""
+        "image_name": "israelrozogomez_encuentro.png"
       },
       "geometry": {
         "type": "Point",
@@ -7343,8 +6957,7 @@ var seeds = {
         "title": "La Encomienda",
         "author": "Fernando Arroyave",
         "year": 1993,
-        "image_name": "fernandoarroyave_laencomienda.png",
-        "": ""
+        "image_name": "fernandoarroyave_laencomienda.png"
       },
       "geometry": {
         "type": "Point",
@@ -7362,8 +6975,7 @@ var seeds = {
         "title": "Momentos",
         "author": "Israel Rozo Gómez",
         "year": 1994,
-        "image_name": "israelrozogomez_momentos.png",
-        "": ""
+        "image_name": "israelrozogomez_momentos.png"
       },
       "geometry": {
         "type": "Point",
@@ -7381,8 +6993,7 @@ var seeds = {
         "title": "Paisaje Mural",
         "author": "Olga Lucía Salazar",
         "year": 1993,
-        "image_name": "olgaluciasalazar_paisajemural.png",
-        "": ""
+        "image_name": "olgaluciasalazar_paisajemural.png"
       },
       "geometry": {
         "type": "Point",
@@ -7400,8 +7011,7 @@ var seeds = {
         "title": "Ansias De Libertad",
         "author": "Israel Rozo Gómez",
         "year": 1975,
-        "image_name": "israelrozogomez_ansiasdelibertad.png",
-        "": ""
+        "image_name": "israelrozogomez_ansiasdelibertad.png"
       },
       "geometry": {
         "type": "Point",
@@ -7419,8 +7029,7 @@ var seeds = {
         "title": "Torso Femenino",
         "author": "Israel Rozo Gómez",
         "year": 1975,
-        "image_name": "israelrozogomez_torsofemenino.png",
-        "": ""
+        "image_name": "israelrozogomez_torsofemenino.png"
       },
       "geometry": {
         "type": "Point",
@@ -7438,8 +7047,7 @@ var seeds = {
         "title": "Mujer Paloma",
         "author": "Israel Rozo Gómez",
         "year": 1975,
-        "image_name": "israelrozogomez_mujerpaloma.png",
-        "": ""
+        "image_name": "israelrozogomez_mujerpaloma.png"
       },
       "geometry": {
         "type": "Point",
@@ -7457,8 +7065,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Autor Desconocido",
         "year": 1893,
-        "image_name": "desconocido_sintitulo3.png",
-        "": ""
+        "image_name": "desconocido_sintitulo3.png"
       },
       "geometry": {
         "type": "Point",
@@ -7476,8 +7083,7 @@ var seeds = {
         "title": "Monumento A Jorge Isaacs",
         "author": "Marco Tobón Mejía",
         "year": 1952,
-        "image_name": "marcotobonmejia_monumentoajorgeisaacs.png",
-        "": ""
+        "image_name": "marcotobonmejia_monumentoajorgeisaacs.png"
       },
       "geometry": {
         "type": "Point",
@@ -7495,8 +7101,7 @@ var seeds = {
         "title": "La Piedad",
         "author": "Bernardo Vieco",
         "year": 1950,
-        "image_name": "bernardovieco_lapiedad.png",
-        "": ""
+        "image_name": "bernardovieco_lapiedad.png"
       },
       "geometry": {
         "type": "Point",
@@ -7514,8 +7119,7 @@ var seeds = {
         "title": "Ángel De La Guarda",
         "author": "Bernardo Vieco",
         "year": 1952,
-        "image_name": "bernardovieco_angeldelaguarda.png",
-        "": ""
+        "image_name": "bernardovieco_angeldelaguarda.png"
       },
       "geometry": {
         "type": "Point",
@@ -7533,8 +7137,7 @@ var seeds = {
         "title": "Mausoleo Tomás Uribe",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_mausoleotomasuribe.png",
-        "": ""
+        "image_name": "desconocido_mausoleotomasuribe.png"
       },
       "geometry": {
         "type": "Point",
@@ -7552,8 +7155,7 @@ var seeds = {
         "title": "El Viacrucis - Mausoleo Familia Arango",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_elviacrucismausoleofamiliaarango.png",
-        "": ""
+        "image_name": "desconocido_elviacrucismausoleofamiliaarango.png"
       },
       "geometry": {
         "type": "Point",
@@ -7571,8 +7173,7 @@ var seeds = {
         "title": "Cruz Del Calvario - Mausoleo Juan N. Uribe S.",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_cruzdelcalvariomausoleojuannuribes.png",
-        "": ""
+        "image_name": "desconocido_cruzdelcalvariomausoleojuannuribes.png"
       },
       "geometry": {
         "type": "Point",
@@ -7590,8 +7191,7 @@ var seeds = {
         "title": "La Santísima Trinidad - Familia Escobar Arango",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_lasantisimatrinidadfamiliaescobararango.png",
-        "": ""
+        "image_name": "desconocido_lasantisimatrinidadfamiliaescobararango.png"
       },
       "geometry": {
         "type": "Point",
@@ -7609,8 +7209,7 @@ var seeds = {
         "title": "La Piedad - Familia Ramírez Johns",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_lapiedadfamiliaramirezjohns.png",
-        "": ""
+        "image_name": "desconocido_lapiedadfamiliaramirezjohns.png"
       },
       "geometry": {
         "type": "Point",
@@ -7628,8 +7227,7 @@ var seeds = {
         "title": "Las Tres Marías - Familia Estrada",
         "author": "Bernardo Vieco",
         "year": 1945,
-        "image_name": "bernardovieco_lastresmariasfamiliaestrada.png",
-        "": ""
+        "image_name": "bernardovieco_lastresmariasfamiliaestrada.png"
       },
       "geometry": {
         "type": "Point",
@@ -7647,8 +7245,7 @@ var seeds = {
         "title": "Mausoleo Lucrecio Vélez",
         "author": "E. Salu",
         "year": 1925,
-        "image_name": "esalu_mausoleolucreciovelez.png",
-        "": ""
+        "image_name": "esalu_mausoleolucreciovelez.png"
       },
       "geometry": {
         "type": "Point",
@@ -7666,8 +7263,7 @@ var seeds = {
         "title": "Cruz Del Calvario - Familia Restrepo",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_cruzdelcalvariofamiliarestrepo.png",
-        "": ""
+        "image_name": "desconocido_cruzdelcalvariofamiliarestrepo.png"
       },
       "geometry": {
         "type": "Point",
@@ -7685,8 +7281,7 @@ var seeds = {
         "title": "Cristo - Mausoleo Uribe Restrepo",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_cristomausoleouriberestrepo.png",
-        "": ""
+        "image_name": "desconocido_cristomausoleouriberestrepo.png"
       },
       "geometry": {
         "type": "Point",
@@ -7704,8 +7299,7 @@ var seeds = {
         "title": "Mausoleo Alejandro Lalinde",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_mausoleoalejandrolalinde.png",
-        "": ""
+        "image_name": "desconocido_mausoleoalejandrolalinde.png"
       },
       "geometry": {
         "type": "Point",
@@ -7723,8 +7317,7 @@ var seeds = {
         "title": "El Ángel Del Silencio - Familia Uribe",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_elangeldelsilenciofamiliauribe.png",
-        "": ""
+        "image_name": "desconocido_elangeldelsilenciofamiliauribe.png"
       },
       "geometry": {
         "type": "Point",
@@ -7742,8 +7335,7 @@ var seeds = {
         "title": "Jesús Crucificado - Mausoleo Camilo C. Restrepo",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_jesuscrucificadomausoleocamilocrestrepo.png",
-        "": ""
+        "image_name": "desconocido_jesuscrucificadomausoleocamilocrestrepo.png"
       },
       "geometry": {
         "type": "Point",
@@ -7761,8 +7353,7 @@ var seeds = {
         "title": "Las Cariátides - Familia Echavarría",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_lascariatidesfamiliaechavarria.png",
-        "": ""
+        "image_name": "desconocido_lascariatidesfamiliaechavarria.png"
       },
       "geometry": {
         "type": "Point",
@@ -7780,8 +7371,7 @@ var seeds = {
         "title": "Cruz Del Calvario - Familia Restrepo",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_cruzdelcalvariofamiliarestrepo2.png",
-        "": ""
+        "image_name": "desconocido_cruzdelcalvariofamiliarestrepo2.png"
       },
       "geometry": {
         "type": "Point",
@@ -7799,8 +7389,7 @@ var seeds = {
         "title": "La Piedad - Mausoleo Saldarriaga Duque",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_lapiedadmausoleosaldarriagaduque.png",
-        "": ""
+        "image_name": "desconocido_lapiedadmausoleosaldarriagaduque.png"
       },
       "geometry": {
         "type": "Point",
@@ -7818,8 +7407,7 @@ var seeds = {
         "title": "Mausoleo Alejandro Ángel",
         "author": "Autor Desconocido",
         "year": 1931,
-        "image_name": "desconocido_mausoleoalejandroangel.png",
-        "": ""
+        "image_name": "desconocido_mausoleoalejandroangel.png"
       },
       "geometry": {
         "type": "Point",
@@ -7837,8 +7425,7 @@ var seeds = {
         "title": "La Virgen María - Mausoleo Gil J. Gil",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_lavirgenmariamausoleogiljgil.png",
-        "": ""
+        "image_name": "desconocido_lavirgenmariamausoleogiljgil.png"
       },
       "geometry": {
         "type": "Point",
@@ -7856,8 +7443,7 @@ var seeds = {
         "title": "Giuliana Scalaberni",
         "author": "Pedro Nel Gómez",
         "year": 1965,
-        "image_name": "pedronelgomez_giulianascalaberni.png",
-        "": ""
+        "image_name": "pedronelgomez_giulianascalaberni.png"
       },
       "geometry": {
         "type": "Point",
@@ -7875,8 +7461,7 @@ var seeds = {
         "title": "Jesús Gómez González",
         "author": "Pedro Nel Gómez",
         "year": 1936,
-        "image_name": "pedronelgomez_jesusgomezgonzalez.png",
-        "": ""
+        "image_name": "pedronelgomez_jesusgomezgonzalez.png"
       },
       "geometry": {
         "type": "Point",
@@ -7894,8 +7479,7 @@ var seeds = {
         "title": "Cristo Pastor",
         "author": "Constantino Carvajal",
         "year": 1932,
-        "image_name": "constantinocarvajal_cristopastor.png",
-        "": ""
+        "image_name": "constantinocarvajal_cristopastor.png"
       },
       "geometry": {
         "type": "Point",
@@ -7913,8 +7497,7 @@ var seeds = {
         "title": "Monumento A Pedro Justo Berrío",
         "author": "Marco Tobón Mejía",
         "year": 1927,
-        "image_name": "marcotobonmejia_monumentoapedrojustoberrio.png",
-        "": ""
+        "image_name": "marcotobonmejia_monumentoapedrojustoberrio.png"
       },
       "geometry": {
         "type": "Point",
@@ -7932,8 +7515,7 @@ var seeds = {
         "title": "Cristo Agonizante",
         "author": "Marco Tobón Mejía",
         "year": 1924,
-        "image_name": "marcotobonmejia_cristoagonizante.png",
-        "": ""
+        "image_name": "marcotobonmejia_cristoagonizante.png"
       },
       "geometry": {
         "type": "Point",
@@ -7951,8 +7533,7 @@ var seeds = {
         "title": "La Virgen Del Carmen",
         "author": "Marco Tobón Mejía",
         "year": 1936,
-        "image_name": "marcotobonmejia_lavirgendelcarmen.png",
-        "": ""
+        "image_name": "marcotobonmejia_lavirgendelcarmen.png"
       },
       "geometry": {
         "type": "Point",
@@ -7970,8 +7551,7 @@ var seeds = {
         "title": "Rosalia Q. De Carvajal",
         "author": "Constantino Carvajal",
         "year": 1936,
-        "image_name": "constantinocarvajal_rosaliaqdecarvajal.png",
-        "": ""
+        "image_name": "constantinocarvajal_rosaliaqdecarvajal.png"
       },
       "geometry": {
         "type": "Point",
@@ -7989,8 +7569,7 @@ var seeds = {
         "title": "Álvaro Carvajal Mtz",
         "author": "Constantino Carvajal",
         "year": "sin fecha",
-        "image_name": "constantinocarvajal_alvarocarvajalmtz.png",
-        "": ""
+        "image_name": "constantinocarvajal_alvarocarvajalmtz.png"
       },
       "geometry": {
         "type": "Point",
@@ -8008,8 +7587,7 @@ var seeds = {
         "title": "Jesús",
         "author": "Marco Tobón Mejía",
         "year": 1925,
-        "image_name": "marcotobonmejia_jesus.png",
-        "": ""
+        "image_name": "marcotobonmejia_jesus.png"
       },
       "geometry": {
         "type": "Point",
@@ -8027,8 +7605,7 @@ var seeds = {
         "title": "Mausoleo Familia Carmona Uribe",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_mausoleofamiliacarmonauribe.png",
-        "": ""
+        "image_name": "desconocido_mausoleofamiliacarmonauribe.png"
       },
       "geometry": {
         "type": "Point",
@@ -8046,8 +7623,7 @@ var seeds = {
         "title": "Crucifijo - Mausoleo Familia Restrepo Mesa",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_crucifijomausoleofamiliarestrepomesa.png",
-        "": ""
+        "image_name": "desconocido_crucifijomausoleofamiliarestrepomesa.png"
       },
       "geometry": {
         "type": "Point",
@@ -8065,8 +7641,7 @@ var seeds = {
         "title": "Mausoleo Familia Juan Pablo González",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_mausoleofamiliajuanpablogonzalez.png",
-        "": ""
+        "image_name": "desconocido_mausoleofamiliajuanpablogonzalez.png"
       },
       "geometry": {
         "type": "Point",
@@ -8084,8 +7659,7 @@ var seeds = {
         "title": "Mausoleo Familia Vásquez Uribe",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_mausoleofamiliavasquezuribe.png",
-        "": ""
+        "image_name": "desconocido_mausoleofamiliavasquezuribe.png"
       },
       "geometry": {
         "type": "Point",
@@ -8103,8 +7677,7 @@ var seeds = {
         "title": "Mausoleo Familia Moreno",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_mausoleofamiliamoreno.png",
-        "": ""
+        "image_name": "desconocido_mausoleofamiliamoreno.png"
       },
       "geometry": {
         "type": "Point",
@@ -8122,8 +7695,7 @@ var seeds = {
         "title": "El Corazón De Jesús",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "desconocido_elcorazondejesus.png",
-        "": ""
+        "image_name": "desconocido_elcorazondejesus.png"
       },
       "geometry": {
         "type": "Point",
@@ -8141,8 +7713,7 @@ var seeds = {
         "title": "Virgen Del Perpetuo Socorro",
         "author": "Raul Álvarez Mejía",
         "year": 1996,
-        "image_name": "raulalvarezmejia_virgendelperpetuosocorro.png",
-        "": ""
+        "image_name": "raulalvarezmejia_virgendelperpetuosocorro.png"
       },
       "geometry": {
         "type": "Point",
@@ -8160,8 +7731,7 @@ var seeds = {
         "title": "Nuestra Señora Del Carmen",
         "author": "Martha Vélez",
         "year": 1998,
-        "image_name": "marthavelez_nuestrasenoradelcarmen.png",
-        "": ""
+        "image_name": "marthavelez_nuestrasenoradelcarmen.png"
       },
       "geometry": {
         "type": "Point",
@@ -8179,8 +7749,7 @@ var seeds = {
         "title": "Nuestra Señora De La Macarena",
         "author": "Gabriel Ripoll",
         "year": 1997,
-        "image_name": "gabrielripoll_nuestrasenoradelamacarena.png",
-        "": ""
+        "image_name": "gabrielripoll_nuestrasenoradelamacarena.png"
       },
       "geometry": {
         "type": "Point",
@@ -8198,8 +7767,7 @@ var seeds = {
         "title": "Virgen De Fátima",
         "author": "Rodrigo Isaza",
         "year": 1996,
-        "image_name": "rodrigoisaza_virgendefatima.png",
-        "": ""
+        "image_name": "rodrigoisaza_virgendefatima.png"
       },
       "geometry": {
         "type": "Point",
@@ -8217,8 +7785,7 @@ var seeds = {
         "title": "Nuestra Señora De Colombia",
         "author": "Fernando Botero - Libardo Ruiz",
         "year": 1998,
-        "image_name": "fernandobotero_libardoruiz_nuestrasenoradecolombia.png",
-        "": ""
+        "image_name": "fernandobotero_libardoruiz_nuestrasenoradecolombia.png"
       },
       "geometry": {
         "type": "Point",
@@ -8236,8 +7803,7 @@ var seeds = {
         "title": "La Virgen De La Montaña",
         "author": "Martha Lucía Vélez",
         "year": 1997,
-        "image_name": "marthaluciavelez_lavirgendelamontana.png",
-        "": ""
+        "image_name": "marthaluciavelez_lavirgendelamontana.png"
       },
       "geometry": {
         "type": "Point",
@@ -8255,8 +7821,7 @@ var seeds = {
         "title": "Nuestra Señora De La Candelaria",
         "author": "Eduardo Toro",
         "year": "sin fecha",
-        "image_name": "eduardotoro_nuestrasenoradelacandelaria.png",
-        "": ""
+        "image_name": "eduardotoro_nuestrasenoradelacandelaria.png"
       },
       "geometry": {
         "type": "Point",
@@ -8274,8 +7839,7 @@ var seeds = {
         "title": "La Niña María",
         "author": "Humberto Pérez",
         "year": 1969,
-        "image_name": "humbertoperez_laninamaria.png",
-        "": ""
+        "image_name": "humbertoperez_laninamaria.png"
       },
       "geometry": {
         "type": "Point",
@@ -8293,8 +7857,7 @@ var seeds = {
         "title": "Virgen Del Buen Consejo",
         "author": "Gabriel Jaime Pepe Otálvaro",
         "year": 1997,
-        "image_name": "gabrieljaimepepeotalvaro_virgendelbuenconsejo.png",
-        "": ""
+        "image_name": "gabrieljaimepepeotalvaro_virgendelbuenconsejo.png"
       },
       "geometry": {
         "type": "Point",
@@ -8312,8 +7875,7 @@ var seeds = {
         "title": "Nuestra Señora De Guadalupe",
         "author": "Olga Lucía Gutiérrez",
         "year": 1997,
-        "image_name": "olgaluciagutierrez_nuestrasenoradeguadalupe.png",
-        "": ""
+        "image_name": "olgaluciagutierrez_nuestrasenoradeguadalupe.png"
       },
       "geometry": {
         "type": "Point",
@@ -8331,8 +7893,7 @@ var seeds = {
         "title": "Virgen De La Anunciación",
         "author": "Rafael Saenz - Marco Aurelio Saenz",
         "year": 1997,
-        "image_name": "rafaelsaenz_marcoaureliosaenz_virgendelaanunciacion.png",
-        "": ""
+        "image_name": "rafaelsaenz_marcoaureliosaenz_virgendelaanunciacion.png"
       },
       "geometry": {
         "type": "Point",
@@ -8350,8 +7911,7 @@ var seeds = {
         "title": "La Virgen De La Milagrosa",
         "author": "Libardo Ruiz",
         "year": 1996,
-        "image_name": "libardoruiz_lavirgendelamilagrosa.png",
-        "": ""
+        "image_name": "libardoruiz_lavirgendelamilagrosa.png"
       },
       "geometry": {
         "type": "Point",
@@ -8369,8 +7929,7 @@ var seeds = {
         "title": "La Virgen De La Leche",
         "author": "Jose Ignacio Vélez",
         "year": 1999,
-        "image_name": "joseignaciovelez_lavirgendelaleche.png",
-        "": ""
+        "image_name": "joseignaciovelez_lavirgendelaleche.png"
       },
       "geometry": {
         "type": "Point",
@@ -8388,8 +7947,7 @@ var seeds = {
         "title": "La Visitación",
         "author": "Lucía Sánchez",
         "year": 1997,
-        "image_name": "luciasanchez_lavisitacion.png",
-        "": ""
+        "image_name": "luciasanchez_lavisitacion.png"
       },
       "geometry": {
         "type": "Point",
@@ -8407,8 +7965,7 @@ var seeds = {
         "title": "Virgen De Chiquinquirá",
         "author": "Romel Toro",
         "year": 1996,
-        "image_name": "romeltoro_virgendechiquinquira.png",
-        "": ""
+        "image_name": "romeltoro_virgendechiquinquira.png"
       },
       "geometry": {
         "type": "Point",
@@ -8426,8 +7983,7 @@ var seeds = {
         "title": "Nuestra Señora De Los Dolores",
         "author": "Carlos Acosta J",
         "year": 1998,
-        "image_name": "carlosacostaj_nuestrasenoradelosdolores.png",
-        "": ""
+        "image_name": "carlosacostaj_nuestrasenoradelosdolores.png"
       },
       "geometry": {
         "type": "Point",
@@ -8445,8 +8001,7 @@ var seeds = {
         "title": "Virgen De La Popa",
         "author": "Reproducción Eduardo Toro Grau",
         "year": 1996,
-        "image_name": "reproduccioneduardotorograu_virgendelapopa.png",
-        "": ""
+        "image_name": "reproduccioneduardotorograu_virgendelapopa.png"
       },
       "geometry": {
         "type": "Point",
@@ -8464,8 +8019,7 @@ var seeds = {
         "title": "Pergamino Al Toro De Lidia",
         "author": "Martín Acantilado",
         "year": 1997,
-        "image_name": "martinacantilado_pergaminoaltorodelidia.png",
-        "": ""
+        "image_name": "martinacantilado_pergaminoaltorodelidia.png"
       },
       "geometry": {
         "type": "Point",
@@ -8483,8 +8037,7 @@ var seeds = {
         "title": "Al Toro De Lidia",
         "author": "Martín Acantilado",
         "year": 1997,
-        "image_name": "martinacantilado_altorodelidia.png",
-        "": ""
+        "image_name": "martinacantilado_altorodelidia.png"
       },
       "geometry": {
         "type": "Point",
@@ -8502,8 +8055,7 @@ var seeds = {
         "title": "Dios Mercurio",
         "author": "Rodrigo Arenas Betancourt",
         "year": 1997,
-        "image_name": "rodrigoarenasbetancourt_diosmercurio.png",
-        "": ""
+        "image_name": "rodrigoarenasbetancourt_diosmercurio.png"
       },
       "geometry": {
         "type": "Point",
@@ -8521,8 +8073,7 @@ var seeds = {
         "title": "Motivo De Un Rodillo En Cerámica Costado Norte",
         "author": "Edgar Jaime Isaza - Cesar Valencia",
         "year": 1997,
-        "image_name": "edgarjaimeisaza_cesarvalencia_motivodeunrodilloenceramicacostadonorte.png",
-        "": ""
+        "image_name": "edgarjaimeisaza_cesarvalencia_motivodeunrodilloenceramicacostadonorte.png"
       },
       "geometry": {
         "type": "Point",
@@ -8540,8 +8091,7 @@ var seeds = {
         "title": "Motivo De Un Rodillo En Cerámica Costado Sur",
         "author": "Edgar Jaime Isaza - Cesar Valencia",
         "year": 1997,
-        "image_name": "edgarjaimeisaza_cesarvalencia_motivodeunrodilloenceramicacostadosur",
-        "": ""
+        "image_name": "edgarjaimeisaza_cesarvalencia_motivodeunrodilloenceramicacostadosur"
       },
       "geometry": {
         "type": "Point",
@@ -8559,8 +8109,7 @@ var seeds = {
         "title": "Título Desconocido",
         "author": "Autor Desconocido",
         "year": 1948,
-        "image_name": "autordesconocido_titulodesconocido2.png",
-        "": ""
+        "image_name": "autordesconocido_titulodesconocido2.png"
       },
       "geometry": {
         "type": "Point",
@@ -8578,8 +8127,7 @@ var seeds = {
         "title": "Tropel",
         "author": "Alicia Tafur",
         "year": 1969,
-        "image_name": "aliciatafur_tropel.png",
-        "": ""
+        "image_name": "aliciatafur_tropel.png"
       },
       "geometry": {
         "type": "Point",
@@ -8597,8 +8145,7 @@ var seeds = {
         "title": "Atlantes",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_atlantes.png",
-        "": ""
+        "image_name": "autordesconocido_atlantes.png"
       },
       "geometry": {
         "type": "Point",
@@ -8616,8 +8163,7 @@ var seeds = {
         "title": "Título Desconocido",
         "author": "Octavio Montoya",
         "year": 1965,
-        "image_name": "octaviomontoya_titulodesconocido.png",
-        "": ""
+        "image_name": "octaviomontoya_titulodesconocido.png"
       },
       "geometry": {
         "type": "Point",
@@ -8635,8 +8181,7 @@ var seeds = {
         "title": "Reloj Solar",
         "author": "Antonio Bernal González",
         "year": 1997,
-        "image_name": "antoniobernalgonzalez_relojsolar.png",
-        "": ""
+        "image_name": "antoniobernalgonzalez_relojsolar.png"
       },
       "geometry": {
         "type": "Point",
@@ -8654,8 +8199,7 @@ var seeds = {
         "title": "Relieve De Aves",
         "author": "Patricia Rodriguez",
         "year": 1997,
-        "image_name": "patriciarodriguez_relievedeaves.png",
-        "": ""
+        "image_name": "patriciarodriguez_relievedeaves.png"
       },
       "geometry": {
         "type": "Point",
@@ -8673,8 +8217,7 @@ var seeds = {
         "title": "Relieve De Manos",
         "author": "Mejía",
         "year": 1997,
-        "image_name": "mejia_relievedemanos.png",
-        "": ""
+        "image_name": "mejia_relievedemanos.png"
       },
       "geometry": {
         "type": "Point",
@@ -8692,8 +8235,7 @@ var seeds = {
         "title": "El Maestro Forjador De Futuro",
         "author": "Alonso Ríos Vanegas",
         "year": 1999,
-        "image_name": "alonsoriosvanegas_elmaestroforjadordefuturo.png",
-        "": ""
+        "image_name": "alonsoriosvanegas_elmaestroforjadordefuturo.png"
       },
       "geometry": {
         "type": "Point",
@@ -8711,8 +8253,7 @@ var seeds = {
         "title": "Sembrador De Estrellas",
         "author": "Alonso Ríos Vanegas",
         "year": 1994,
-        "image_name": "alonsoriosvanegas_sembradordeestrellas.png",
-        "": ""
+        "image_name": "alonsoriosvanegas_sembradordeestrellas.png"
       },
       "geometry": {
         "type": "Point",
@@ -8730,8 +8271,7 @@ var seeds = {
         "title": "Mujer En La Baranda",
         "author": "Fernando Arroyave",
         "year": 1995,
-        "image_name": "fernandoarroyave_mujerenlabaranda.png",
-        "": ""
+        "image_name": "fernandoarroyave_mujerenlabaranda.png"
       },
       "geometry": {
         "type": "Point",
@@ -8749,8 +8289,7 @@ var seeds = {
         "title": "Simón Bolivar",
         "author": "Rodrigo Arenas Betancourt",
         "year": "sin fecha",
-        "image_name": "placeholder-statue.jpg",
-        "": ""
+        "image_name": "placeholder-statue.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -8768,8 +8307,7 @@ var seeds = {
         "title": "Juego En La Rampa",
         "author": "Fernando Arroyave",
         "year": 1994,
-        "image_name": "fernandoarroyave_juegoenlarampa.png",
-        "": ""
+        "image_name": "fernandoarroyave_juegoenlarampa.png"
       },
       "geometry": {
         "type": "Point",
@@ -8787,8 +8325,7 @@ var seeds = {
         "title": "Las Montañas De Antioquia",
         "author": "Rodriguez Nel",
         "year": "sin fecha",
-        "image_name": "rodrigueznel_lasmontanasdeantioquia.png",
-        "": ""
+        "image_name": "rodrigueznel_lasmontanasdeantioquia.png"
       },
       "geometry": {
         "type": "Point",
@@ -8806,8 +8343,7 @@ var seeds = {
         "title": "Monseñor Félix Henao Botero",
         "author": "Alonso Goez",
         "year": 1976,
-        "image_name": "alonsogoez_monseñorfelixhenaobotero.png",
-        "": ""
+        "image_name": "alonsogoez_monseñorfelixhenaobotero.png"
       },
       "geometry": {
         "type": "Point",
@@ -8825,8 +8361,7 @@ var seeds = {
         "title": "Manuel José Sierra",
         "author": "Constantino Carvajal",
         "year": "sin fecha",
-        "image_name": "constantinocarvajal_manueljosesierra.png",
-        "": ""
+        "image_name": "constantinocarvajal_manueljosesierra.png"
       },
       "geometry": {
         "type": "Point",
@@ -8844,8 +8379,7 @@ var seeds = {
         "title": "Título Desconocido",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_titulodesconocido3.png",
-        "": ""
+        "image_name": "autordesconocido_titulodesconocido3.png"
       },
       "geometry": {
         "type": "Point",
@@ -8863,8 +8397,7 @@ var seeds = {
         "title": "Manglar",
         "author": "Ricardo Cárdenas",
         "year": 2009,
-        "image_name": "ricardocardenas_manglar.png",
-        "": ""
+        "image_name": "ricardocardenas_manglar.png"
       },
       "geometry": {
         "type": "Point",
@@ -8882,8 +8415,7 @@ var seeds = {
         "title": "El Caminante (Positivo y Negativo)",
         "author": "Grupo Utopía",
         "year": 2009,
-        "image_name": "grupoutopia_elcaminante.png",
-        "": ""
+        "image_name": "grupoutopia_elcaminante.png"
       },
       "geometry": {
         "type": "Point",
@@ -8901,8 +8433,7 @@ var seeds = {
         "title": "El Pensador",
         "author": "Nadín Ospina",
         "year": 2009,
-        "image_name": "nadinospina_elpensador.png",
-        "": ""
+        "image_name": "nadinospina_elpensador.png"
       },
       "geometry": {
         "type": "Point",
@@ -8920,8 +8451,7 @@ var seeds = {
         "title": "Mamá Con Coche",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_mamaconcoche.png",
-        "": ""
+        "image_name": "autordesconocido_mamaconcoche.png"
       },
       "geometry": {
         "type": "Point",
@@ -8939,8 +8469,7 @@ var seeds = {
         "title": "Solmontana",
         "author": "Humberto Elías",
         "year": 1991,
-        "image_name": "humbertoelias_solmontana.png",
-        "": ""
+        "image_name": "humbertoelias_solmontana.png"
       },
       "geometry": {
         "type": "Point",
@@ -8958,8 +8487,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_titulodeconocido.png",
-        "": ""
+        "image_name": "autordesconocido_titulodeconocido.png"
       },
       "geometry": {
         "type": "Point",
@@ -8977,8 +8505,7 @@ var seeds = {
         "title": "Carlos E Restrepo",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_carloserestrepo.png",
-        "": ""
+        "image_name": "autordesconocido_carloserestrepo.png"
       },
       "geometry": {
         "type": "Point",
@@ -8996,8 +8523,7 @@ var seeds = {
         "title": "Árbol",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_arbol.png",
-        "": ""
+        "image_name": "autordesconocido_arbol.png"
       },
       "geometry": {
         "type": "Point",
@@ -9015,8 +8541,7 @@ var seeds = {
         "title": "Indígenas",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_indigenas.png",
-        "": ""
+        "image_name": "autordesconocido_indigenas.png"
       },
       "geometry": {
         "type": "Point",
@@ -9034,8 +8559,7 @@ var seeds = {
         "title": "Pujanza",
         "author": "Humberto Elías",
         "year": 1983,
-        "image_name": "humbertoelias_pujanza.png",
-        "": ""
+        "image_name": "humbertoelias_pujanza.png"
       },
       "geometry": {
         "type": "Point",
@@ -9053,8 +8577,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_titulodesconocido4.png",
-        "": ""
+        "image_name": "autordesconocido_titulodesconocido4.png"
       },
       "geometry": {
         "type": "Point",
@@ -9072,8 +8595,7 @@ var seeds = {
         "title": "Mari - Luz",
         "author": "Fanny Finkelman",
         "year": 2004,
-        "image_name": "fannyfinkelman_railuz.png",
-        "": ""
+        "image_name": "fannyfinkelman_railuz.png"
       },
       "geometry": {
         "type": "Point",
@@ -9088,11 +8610,10 @@ var seeds = {
       "properties": {
         "id": 479,
         "type": "Escultura",
-        "title": "Mar Y Posa",
+        "title": "Mar y Posa",
         "author": "Ronny Vayda",
         "year": 2004,
-        "image_name": "ronnyvayda_maryposa.png",
-        "": ""
+        "image_name": "ronnyvayda_maryposa.png"
       },
       "geometry": {
         "type": "Point",
@@ -9110,8 +8631,7 @@ var seeds = {
         "title": "Anciano En Silla",
         "author": "Pedro Pablo Murillo",
         "year": 2002,
-        "image_name": "pedropablomurillo_ancianoensilla.png",
-        "": ""
+        "image_name": "pedropablomurillo_ancianoensilla.png"
       },
       "geometry": {
         "type": "Point",
@@ -9129,8 +8649,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Justo Arozemena",
         "year": "sin fecha",
-        "image_name": "justoarozamena_titulodesconocido.png",
-        "": ""
+        "image_name": "justoarozamena_titulodesconocido.png"
       },
       "geometry": {
         "type": "Point",
@@ -9148,8 +8667,7 @@ var seeds = {
         "title": "El Pescador",
         "author": "Alonso Ríos Vanegas",
         "year": 1977,
-        "image_name": "alonsoriosvanegas_elpescador.png",
-        "": "annlhmarvinrosemberg_sintitulo.png"
+        "image_name": "alonsoriosvanegas_elpescador.png"
       },
       "geometry": {
         "type": "Point",
@@ -9167,8 +8685,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_titulodesconocido5.png",
-        "": ""
+        "image_name": "autordesconocido_titulodesconocido5.png"
       },
       "geometry": {
         "type": "Point",
@@ -9186,8 +8703,7 @@ var seeds = {
         "title": "Urbanización San Sebastián",
         "author": "Oscar Rojas",
         "year": "sin fecha",
-        "image_name": "placeholder-statue.jpg",
-        "": ""
+        "image_name": "placeholder-statue.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -9205,8 +8721,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_titulodesconocido6.png",
-        "": ""
+        "image_name": "autordesconocido_titulodesconocido6.png"
       },
       "geometry": {
         "type": "Point",
@@ -9224,8 +8739,7 @@ var seeds = {
         "title": "Sin Título",
         "author": "Autor Desconocido",
         "year": "sin fecha",
-        "image_name": "autordesconocido_titulodesconocido7.png",
-        "": ""
+        "image_name": "autordesconocido_titulodesconocido7.png"
       },
       "geometry": {
         "type": "Point",
@@ -9243,8 +8757,7 @@ var seeds = {
         "title": "Señales Particulares",
         "author": "Tulio Restrepo",
         "year": "sin fecha",
-        "image_name": "tuliorestrepo_senalesparticulares.png",
-        "": ""
+        "image_name": "tuliorestrepo_senalesparticulares.png"
       },
       "geometry": {
         "type": "Point",
@@ -9262,14 +8775,67 @@ var seeds = {
         "title": "Delima Marsh",
         "author": "Tulio Restrepo",
         "year": "sin fecha",
-        "image_name": "tuliorestrepo_delimamarsh.png",
-        "": ""
+        "image_name": "tuliorestrepo_delimamarsh.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.577959,
           6.255158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 489,
+        "type": "Hallazgo Arqueológico",
+        "title": "Cerro El Volador",
+        "author": "",
+        "year": "Siglos XV al XVII d.C.",
+        "image_name": "cerroelvolador.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.581672,
+          6.267174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 490,
+        "type": "Hallazgo Arqueológico",
+        "title": "Cerro De La Universidad Adventista",
+        "author": "Barrio La Castellana",
+        "year": "Siglos IX al XVI d.C.",
+        "image_name": "cerrodelauniversidadadventista.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.614226,
+          6.237841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 491,
+        "type": "Hallazgo Arqueológico",
+        "title": "La Colinita",
+        "author": "",
+        "year": "Siglos IX al XVI d.C.",
+        "image_name": "lacolinita.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.592813,
+          6.200739
         ]
       }
     }
