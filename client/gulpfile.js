@@ -43,6 +43,9 @@ gulp.task('copy', function () {
 
   gulp.src('./src/images/**/*')
     .pipe(gulp.dest('./dist/static/images'));
+
+  gulp.src('./src/styles/heritage-icon-font/**/*')
+    .pipe(gulp.dest('./dist/static'));
 });
 
 gulp.task('watch', function () {

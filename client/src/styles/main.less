@@ -10,3 +10,43 @@
 body {
   font-family: Source Sans Pro;
 }
+
+.map-pin {
+  border-radius: 50%;
+
+  .icon {
+    position: relative;
+    top: -3px;
+    color: white;
+  }
+
+  &.small > .icon {
+    font-size: 16px;
+  }
+
+  &.medium > .icon {
+    font-size: 24px;
+    left: 1px;
+  }
+
+  &.large > .icon {
+    font-size: 32px;
+    left: 2px;
+  }
+
+  &.statue.light {
+    background: @statue-red--light;
+  }
+
+  &.statue.dark {
+    background: @statue-red--dark;
+  }
+
+  &.dig.light {
+    background: @dig-blue--light;
+  }
+
+  &.dig.dark {
+    background: @dig-blue--dark;
+  }
+}
