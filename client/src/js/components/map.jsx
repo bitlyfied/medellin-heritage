@@ -43,8 +43,12 @@ var Map = React.createClass({
       }
     ).addTo(map);
 
-    var statueIcon = new L.Icon({ iconUrl: Constants.icons.sculpture });
-    var archsiteIcon = new L.Icon({ iconUrl: Constants.icons.archSite });
+    var statueIconUnselected = L.divIcon({ className: 'map-pin statue small light', iconSize: [15,15], html: '<div class="icon icon-icon-statue"></div>'});
+    var statueIconNeutral = L.divIcon({ className: 'map-pin statue medium dark', iconSize: [25,25], html: '<div class="icon icon-icon-statue"></div>'});
+    var statueIconSelected = L.divIcon({ className: 'map-pin statue large dark', iconSize: [35,35], html: '<div class="icon icon-icon-statue"></div>'});
+    var archsiteIconUnselected = L.divIcon({ className: 'map-pin dig small light', iconSize: [15,15], html: '<div class="icon icon-icon-dig"></div>' });
+    var archsiteIconNeutral = L.divIcon({ className: 'map-pin dig medium dark', iconSize: [25,25], html: '<div class="icon icon-icon-dig"></div>' });
+    var archsiteIconSelected = L.divIcon({ className: 'map-pin dig large dark', iconSize: [35,35], html: '<div class="icon icon-icon-dig"></div>' });
 
     var geoJsonLayer = L.geoJson(items, { onEachFeature: content }).addTo(map);
 
@@ -66,7 +70,19 @@ var Map = React.createClass({
     }
 
     function content (feature, layer) {
-      var icon = feature.properties.type === 'Escultura' ? statueIcon : archsiteIcon;
+      var icon;
+      var selectedFeature = MapStore.getSelectedFeature();
+
+      if (selectedFeature) {
+        if (selectedFeature.properties.id === feature.properties.id) {
+          icon = feature.properties.type === 'Escultura' ? statueIconSelected : archsiteIconSelected;
+        } else {
+          icon = feature.properties.type === 'Escultura' ? statueIconUnselected : archsiteIconUnselected;
+        }
+      } else {
+        icon = feature.properties.type === 'Escultura' ? statueIconNeutral : archsiteIconNeutral;
+      }
+
       layer.setIcon(icon);
       layer.on('click', onMarkerClick);
     }
