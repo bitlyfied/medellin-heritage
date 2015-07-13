@@ -21,8 +21,8 @@ var filters = {
   },
 
   _createElem: function () {
-    this._container.innerHTML = '<div class="c-filters__title col-xs-3">' + localization.show + ':</div>' + 
-      '<div class="col-xs-9">' +
+    this._container.innerHTML = '<div class="c-filters__title col-xs-2">' + localization.show + ':</div>' + 
+      '<div class="col-xs-10">' +
         '<ul class="c-filters__list"></ul>' +
       '</div>';
 
@@ -36,8 +36,9 @@ var filters = {
     var checkedAttr     = isChecked ? ' checked' : '';
     var iconImageSrc    = Constants.icons[name];
     var capitalizedName = _.capitalize(name);
+    var cssClass = name === 'Escultura' ? 'c-filters__list__item--statue' : 'c-filters__list__item--dig';
 
-    var filterHTML = '<li class="c-filters__list__item">' +
+    var filterHTML = '<li class="c-filters__list__item ' + cssClass + '">' +
       '<div class="checkbox c-filters__list__item__checkbox">' + 
         '<label>' +
           '<input class="pull-right" type="checkbox" value="' + capitalizedName + '"' + checkedAttr + '>' + 
