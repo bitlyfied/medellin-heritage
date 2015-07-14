@@ -8,13 +8,11 @@ var server  = http.createServer(app);
 console.log('Server running');
 
 app.use(express.static(config.staticUrl));
+app.use(express.static(config.distFolder));
 
-app.all('/*', function(req, res) {
-  //res.setHeader('Access-Control-Allow-Origin', 'http://localhost:4000');
-
-  // Just send the index.html for other files to support HTML5Mode
-  res.sendFile('index.html', { root: config.distFolder });
-
+app.get('/config.js', function(req, res) {
+  var jsConfig = { gaKey: process.env.GA_KEY || 'kitty' };
+  res.send('var config = ' + JSON.stringify(jsConfig));
 });
 
 server.listen(process.env.PORT || config.listenPort);
